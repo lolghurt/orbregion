@@ -1,0 +1,11 @@
+{
+    "id": "orbregion",
+    "name": "Orbregion",
+    "author": "Lolghurt",
+	"utility": "true",
+    "version": "0.0",
+	"replace": [
+	],
+    "description": "Ah Shit He's Back",
+    "gameVersion": "0.97a-RC69"
+}
