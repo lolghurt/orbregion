@@ -1,0 +1,271 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+Accewewated Shiewds,advancedshieldemitter,0,,,"defensive, shields, merc, standard",Shields,3000,,,,3,6,9,15,data.hullmods.AcceleratedShieldEmitter,Incweases the tuwn wate of the ship's shiewds by %s and the wate at which the shiewds awe waised by %s.,Incweases shiewd tuwn wate and extension speed.,Incweases the shiewd's tuwn wate and waise wate by an additionyaw %s.,graphics/hullmods/accelerated_shields.png
+Adaptive Phase Coiws,adaptive_coils,2,,,"phase, merc, standard",Phase,5000,,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.AdaptivePhaseCoils,"Phase coiws awe wess abwe to myaintain a connyection with nyowmyaw space as the ship's hawd fwux wevews wise, wesuwting in a gweatwy weduced top speed as the coiws stwuggwe to gain twaction.
+
+This myodification awwows the coiws to handwe highew wevews of hawd fwux, incweasing the thweshowd at which speed bottoms out by %s. Fow standawd-design coiws with nyo othew myodifications, this takes the thweshowd fwom %s to %s.",Weduces impact of hawd fwux wevew on top speed whiwe phased.,,graphics/hullmods/phase_field.png
+Advanced Optics,advancedoptics,2,,,"offensive, merc, standard",Weapons,1000,,,,5,10,15,25,data.hullmods.AdvancedOptics,"Extends the wange of beam weapons by %s, but weduces theiw tuwn wate by %s. Cumyuwative with Integwated Tawgeting Unyit.",Incweases beam weapon wange.,,graphics/hullmods/advanced_optics.png
+Advanced Tuwwet Gywos,turretgyros,0,,,"defensive, merc, standard",Weapons,2500,,,,2,4,6,10,data.hullmods.AdvancedTurretGyros,Incweases the tuwn wate of aww tuwwets by %s.,Incweases tuwwet tuwn wate.,Incweases damyage to myissiwes and fightews by %s. Incweases damyage to smyawwew ships by %s pew size cwass of diffewence.,graphics/hullmods/advanced_turret_gyros.png
+Awmyowed Weapon Myounts,armoredweapons,0,,,"defensive, merc, standard","Weapons, Defenses",2500,TRUE,,,3,6,9,15,data.hullmods.ArmoredWeapons,"Incweases the duwabiwity of aww weapons by %s and weduces wecoiw by %s, but decweases weapon tuwn wate by %s. Awso incweases the ship's awmyow by %s.","Myakes weapons hawdew to disabwe, weduces wecoiw.",Incweases the wate of fiwe of aww nyon-myissiwe weapons by %s.,graphics/hullmods/armored_weapon_emplacements.png
+Assauwt Package,assault_package,1,,,"defensive, civ_package, no_drop, no_drop_salvage","Special, Defenses",8000,,,,3,6,9,15,com.fs.starfarer.api.impl.hullmods.AssaultPackage,"Incweases the ship's huww integwity by %s, awmyow by %s, and fwux capacity by %s.
+
+Wiww twy to engage enyemyies and othewwise act as a combat ship in battwe.","Incweases huww integwity, awmyow, and fwux capacity.",,graphics/hullmods/assault_package.png
+Automyated Wepaiw Unyit,autorepair,2,,,"engines, defensive, merc, standard",Defenses,7500,,,,3,6,9,15,data.hullmods.AutomatedRepairUnit,Weduces the timye wequiwed to wepaiw disabwed weapons and enginyes (in combat) by %s.,Incweases weapon wepaiw wate in combat.,"Weduces wepaiw timye to %s, and weduces ovewwoad duwation by %s.",graphics/hullmods/automated_repair_unit.png
+Auxiwiawy Thwustews,auxiliarythrusters,1,,,"engines, merc, standard",Engines,5000,TRUE,,,4,8,12,20,data.hullmods.AuxiliaryThrusters,Incweases the ship's myanyeuvewabiwity by %s.,Incweases myanyeuvewabiwity.,"Incweases the 0-fwux speed boost by %s, and %s the 0-fwux tuwn wate bonyus.",graphics/hullmods/auxilliary_thrusters.png
+Bawwistic Wangefindew,ballistic_rangefinder,2,,,"offensive, merc, standard",Weapons,8000,,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.BallisticRangefinder,<toowtip cweated in the scwipt due to wots of highwighting>,Incweases base wange of smyaww and myedium weapons in bawwisic swots.,,graphics/hullmods/ballistic_rangefinder.png
+Bwast Doows,blast_doors,0,,,"defensive, merc, standard",Defenses,2500,TRUE,,,4,8,12,20,data.hullmods.BlastDoors,"Instawws additionyaw hewmyetic and heaviwy weinfowced doows at cwiticaw junctuwes thwoughout the ship. Incweases huww integwity by %s.
+
+Ship takes %s fewew cwew casuawties fwom huww damyage sustainyed in combat.","Incweases huww integwity, weduces cwew casuawties.",Incweases the cwew casuawty weduction to %s.,graphics/hullmods/blast_doors.png
+Convewted Hangaw,converted_hangar,1,,,"special, non_phase, merc, standard",Fighters,5000,,,,0,10,10,10,com.fs.starfarer.api.impl.hullmods.ConvertedHangar,<Toowtip cweated in scwipt>,Impwovised fightew bay fow nyon-cawwiews.,"Incweases the wate at which the fightew wepwacemyent wate wecovews by %s fow cwuisews, and by %s fow capitaw ships. Nyo added effect fow destwoyews.",graphics/hullmods/converted_hangar.png
+Convewted Fightew Bay,converted_fighterbay,0,,,"req_spaceport, special, non_phase, standard","Fighters, Logistics, Requires Dock",3000,,,,2,4,6,10,data.hullmods.ConvertedFighterBay,"Convewts the ship's fightew bays housing buiwt-in wings into impwovised cawgo howds, giving it an additionyaw %s cawgo capacity and weducing its cwew wequiwemyents by %s pew fightew bay. The cwew weduction is wimyited to a myaximyum of %s.",Convewts buiwt-in fightew bays into impwovised cawgo howds.,Myonthwy myaintenyance cost weduced by %s pew fightew bay.,graphics/hullmods/converted_fighter_bay.png
+Dedicated Tawgeting Cowe,dedicated_targeting_core,0,,,"offensive, merc, standard",Weapons,2500,TRUE,,,0,0,15,25,data.hullmods.DedicatedTargetingCore,"Incweases the wange of bawwistic and enyewgy weapons by %s/%s fow cwuisews/capitaw ships.
+
+Can nyot be instawwed on a fwigate ow a destwoyew, and can nyot wowk in conjunction with Integwated Tawgeting Unyit.
+
+Myost combat ships instaww eithew an Integwated Tawgeting Unyit ow a Dedicated Tawgeting Cowe, with the exception of myowe speciawized vawiants.","Incweases weapon wange, myowe so fow wawgew ships.",Incweases the wange bonyus to %s fow cwuisews and %s fow capitaw ships.,graphics/hullmods/targeting_core.png
+Defensive Tawgeting Awway,defensive_targeting_array,2,,,"special, merc, standard",Fighters,3000,,,,2,4,6,10,com.fs.starfarer.api.impl.hullmods.DefensiveTargetingArray,"Standawd fightew commyunyication winks awe we-puwposed to pwovide showt-wange tawgeting data.
+
+Incweases fightew damyage to myissiwes and othew fightews by %s, but myakes the fightews unyabwe to weave the vicinyity of theiw ship.","Incweases fightew PD damyage, weduces fightew woam wange to zewo.",Extends wange of bawwistic and enyewgy weapons of the ship's fightews by %s unyits.,graphics/hullmods/defensive_targeting_array.png
+ECCM Package,eccm,2,,,"offensive, defensive, merc, standard",Weapons,2500,,,,5,8,15,20,data.hullmods.ECCMPackage,"Weduces the chance fow myissiwes waunched by the ship to be affected by ewectwonyic countew-myeasuwes and fwawes by %s.
+
+A CPU cowe adjunct in each myissiwe incweases myissiwe top speed by %s and myissiwe myanyeuvewabiwity by %s, as weww as signyificantwy impwoving the guidance awgowithm.
+
+Awso weduces the weapon wange weduction due to supewiow enyemy Ewectwonyic Wawfawe by %s.","Impwoves myissiwe speed and guidance, weduces effect of enyemy Ewectwonyic Wawfawe.","Fuwwy nyegates the weapon wange weduction, and myakes the ship's myissiwes awways ignyowe fwawes.",graphics/hullmods/eccm_package.png
+ECM Package,ecm,2,,,"offensive, special, merc, standard","Weapons, Support",4000,,,,6,12,18,24,com.fs.starfarer.api.impl.hullmods.ECMPackage,"When depwoyed in combat, gwants %s/%s/%s/%s ECM wating, depending on this ship's huww size.",Incweases ship's ECM wating.,,graphics/hullmods/ecm_package.png
+Escowt Package,escort_package,1,,,"special, weapons, engines, standard","Special, Weapons, Engines",8000,,,,5,7,15,25,com.fs.starfarer.api.impl.hullmods.EscortPackage,"When this ship is within appwoximyatewy %s su of a wawgew fwiendwy vessew, incweases this ship's myanyeuvewabiwity by %s, and top speed by %s. Awso incweases bawwistic and enyewgy weapon wange by %s.
+
+These bonyuses awe %s fow destwoyews when the nyeawby fwiendwy is a capitaw ship.","Incweases myanyeuvewabiwity, top speed, and weapon wange when nyeaw a wawgew fwiendwy ship.",Destwoyews: weduces the amyount of damyage taken by shiewds by %s. Nyo added effect fow cwuisews.,graphics/hullmods/escort_package.png
+Expanded Deck Cwew,expanded_deck_crew,1,,,"special, merc, standard",Fighters,4000,,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.ExpandedDeckCrew,"Weduces the wate at which the fightew wepwacemyent wate decweases due to fightew wosses by %s, and incweases the wate at which it wecovews by %s.
+
+Incweases the cwew wequiwed by %s pew fightew bay.","Impwoves fightew wepwacemyent wate, incweases cwew wequiwemyents.",,graphics/hullmods/expanded_deck_crew.png
+Expanded Myagazinyes,magazines,1,,,"offensive, merc, standard",Weapons,2500,,,,3,5,7,10,data.hullmods.ExpandedMagazines,Incweases the ammyo capacity ow the nyumbew of chawges fow bawwistic and enyewgy weapons by %s.,Incweases ammyo/chawges fow bawwistic and enyewgy weapons.,Incweases the ammyo/chawge wegenyewation wate fow bawwistic and enyewgy weapons by %s.,graphics/hullmods/expanded_magazines2.png
+Expanded Myissiwe Wacks,missleracks,1,,,"offensive, merc, standard",Weapons,5000,,,,8,12,20,30,data.hullmods.ExpandedMissileRacks,Incweases the ammyo capacity of myissiwe weapons by %s.,Incweases myissiwe weapon ammyo.,Weduces the wate of fiwe of myissiwe weapons by %s.,graphics/hullmods/expanded_missile_racks.png
+Extended Shiewds,extendedshieldemitter,1,,,"shields, defensive, merc, standard",Shields,5000,,,,4,8,12,20,data.hullmods.ExtendedShieldEmitter,Incweases the shiewd's covewage by %s degwees.,Incweases myaximyum shiewd awc.,Incweases the shiewd's covewage by an additionyaw %s degwees.,graphics/hullmods/extended_shields.png
+Fwux Coiw Adjunct,fluxcoil,0,,,"special, merc, standard",Special,4000,TRUE,,,4,8,12,20,data.hullmods.FluxCoilAdjunct,"Incweases the ship's fwux capacity by %s/%s/%s/%s, depending on huww size. Nyot as efficient as fwux capacitows - myost usefuw when added to a design that awweady cawwies the myaximyum possibwe nyumbew of capacitows.",Incweases fwux capacity.,"Incweases fwux capacity by a fuwthew %s/%s/%s/%s, myaking the coiw as efficient as adding capacitows.",graphics/hullmods/flux_coil_adjunct.png
+Fwux Distwibutow,fluxdistributor,0,,,"special, merc, standard",Special,4000,TRUE,,,4,8,12,20,data.hullmods.FluxDistributor,"Incweases the ship's fwux dissipation by %s/%s/%s/%s, depending on huww size. Nyot as efficient as fwux vents - myost usefuw when added to a design that awweady cawwies the myaximyum possibwe nyumbew of vents.",Incweases fwux dissipation.,"Incweases fwux dissipation by a fuwthew %s/%s/%s/%s, myaking the distwibutow as efficient as adding vents.",graphics/hullmods/flux_distributor.png
+,,,,,,,,,,,,,,,,,,,
+Shiewd Shunt,shield_shunt,1,,,"special, shields, merc, standard","Special, Shields",3000,,,,3,5,7,10,com.fs.starfarer.api.impl.hullmods.ShieldShunt,"Wemyoves the ship's shiewds. The extewnyaw emyittew nyodes awe wepwaced with weinfowced pwating, incweasing the ship's awmyow by %s.","Wemyoves shiewds, incweases awmyow.",Incweases the ship's awmyow by an additionyaw %s.,graphics/hullmods/shield_shunt.png
+Myakeshift Shiewd Genyewatow,frontshield,0,,,"shields, defensive, standard",Shields,4000,,,,5,10,15,25,data.hullmods.FrontShieldGenerator,"Instawws a myakeshift, inyefficient shiewd genyewatow on the ship. The shiewd emyittew is wocked in a fowwawd-facing position and has a %s degwee awc.
+
+The shiewd genyewatow dwaws myuch of its powew fwom enginyes and weduces the ship's top speed by %s.",Instawws basic shiewds on shiewdwess ship. Weduces top speed.,,graphics/hullmods/front_shield_generator.png
+Myissiwe Autowoadew,missile_autoloader,1,,,"offensive, merc, standard",Weapons,6000,,,,8,12,20,30,com.fs.starfarer.api.impl.hullmods.MissileAutoloader,<toowtip cweated in the scwipt due to sections/othew compwexity>,Wewoads myissiwe weapons in smyaww myissiwe myounts,Incweases the post-wewoad coowdown to %s seconds.,graphics/hullmods/missile_autoloader.png
+Hawdenyed Shiewds,hardenedshieldemitter,3,,,"shields, defensive, merc, standard",Shields,10000,,,,5,10,15,25,data.hullmods.HardenedShieldEmitter,Weduces the amyount of damyage taken by shiewds by %s. Awso weduces the chance that shiewds wiww be piewced by EMP awcs fwom weapons wike the Ion Beam.,Weduces damyage taken by shiewds.,,graphics/hullmods/hardened_shields.png
+Hawdenyed Subsystems,hardened_subsystems,0,,,"special, merc, standard",Special,2500,TRUE,,,5,10,15,25,data.hullmods.HardenedSubsystems,"Incweases peak opewating timye fow ships that suffew degwaded pewfowmyance fwom extended depwoymyent by %s.
+
+Awso weduces the wate at which combat weadinyess degwades by %s.","Incweases peak timye, CW degwades myowe swowwy.",,graphics/hullmods/hardened_subsystems.png
+Heavy Awmyow,heavyarmor,0,,,"defensive, merc, standard",Defenses,2500,,,,8,15,20,40,data.hullmods.HeavyArmor,"Incweases the ship's awmyow by %s/%s/%s/%s points, depending on huww size.",Incweases awmyow.,Weduces the ship's myanyeuvewabiwity by %s.,graphics/hullmods/heavy_armor.png
+High Scattew Ampwifiew,high_scatter_amp,3,,,"offensive, merc, standard",Weapons,5000,,,,4,8,12,20,com.fs.starfarer.api.impl.hullmods.HighScatterAmp,<toowtip cweated in the scwipt due to sections>,Weduces beam wange; beams deaw myowe damyage and appwy hawd fwux to shiewds.,Incweases beam weapon damyage by an additionyaw %s.,graphics/hullmods/high_scatter_amp.png
+Integwated Point Defense AI,pointdefenseai,3,,,"defensive, merc, standard","Weapons, Defenses",10000,,,,3,6,9,15,data.hullmods.IntegratedPointDefenseAI,"Gives aww point-defense weapons the abiwity to identify - and ignyowe - decoy fwawes. In addition, aww point-defense weapons get the best possibwe tawget weading, wegawdwess of combat weadinyess, and aww damyage to myissiwes is incweased by %s. ","PD unyaffected by decoy fwawes, impwoved tawget weading, myowe damyage to myissiwes.","Aww smyaww nyon-myissiwe, nyon-stwike weapons awe cwassified as ""point-defense"", automyaticawwy tawget myissiwes, and awe affected by point-defense stat myodifiews.",graphics/hullmods/integrated_point_defense_ai.png
+#Point Defense Integwation,pdintegration,3,,,"defensive, merc","Weapons, Defenses",10000,,,,12,15,18,24,com.fs.starfarer.api.impl.hullmods.PDIntegration,"Weduces the owdnyance point cost of smyaww point-defense weapons by %s. The cost weduction onwy affects weapons that have PD capabiwity as a featuwe of the weapon itsewf, and nyot when it's gainyed thwough othew myeans such as fwom a huwwmyod.
+
+In addition, aww point-defense weapons deaw %s myowe damyage to aww tawgets.","Weduces owdnyance point cost of smyaww PD weapons, incweases aww PD damyage.",,graphics/hullmods/integrated_point_defense_ai.png
+Integwated Tawgeting Unyit,targetingunit,3,,,"offensive, merc, standard",Weapons,10000,,,,4,8,15,25,data.hullmods.IntegratedTargetingUnit,"Extends the wange of bawwistic and enyewgy weapons by %s/%s/%s/%s, depending on huww size. Can nyot wowk in conjunction with Dedicated Tawgeting Cowe.
+
+Myost combat ships instaww eithew an Integwated Tawgeting Unyit ow a Dedicated Tawgeting Cowe, with the exception of myowe speciawized vawiants.","Incweases weapon wange, myowe so fow wawgew ships.",,graphics/hullmods/integrated_targeting_unit.png
+Nyav Weway,nav_relay,2,,,"engines, special, merc, standard","Engines, Support",5000,,,,10,15,20,25,com.fs.starfarer.api.impl.hullmods.NavRelay,"When depwoyed in combat, incweases nyav wating of youw fweet by %s/%s/%s/%s, depending on this ship's huww size.
+
+The totaw nyav wating of youw fweet incweases the top speed of youw depwoyed ships.",Incweases top speed of depwoyed ships.,,graphics/hullmods/nav_relay.png
+Nyeuwaw Intewface,neural_interface,3,,,"special, no_build_in, no_drop, no_drop_salvage",Special,10000,,,,3,6,9,15,com.fs.starfarer.api.impl.hullmods.NeuralInterface,"Winks the fwagship with anyothew ship, awwowing both ships to %s at the samye timye. As with ""twansfew commyand"", somye skiww effects - such as those incweasing ammyo capacity, ow combat weadinyess - do nyot appwy to the othew ship.
+
+Awso enyabwes wapid switching between the winked ships without using a shuttwe pod. The twansfew is instant if the combinyed depwoymyent points of the ships awe %s ow wess. The destinyation ship myust nyot be undew the commyand of an officew ow an AI cowe.","Awwows wapid switching between ships, wesets system coowdown and adds a chawge.",,graphics/hullmods/neural_interface.png
+Nyeuwaw Integwatow,neural_integrator,,,,"special, no_build_in, no_drop, no_drop_salvage",Special,10000,,,,3,6,9,15,com.fs.starfarer.api.impl.hullmods.NeuralIntegrator,"An augmyented vewsion of Nyeuwaw Intewface that wowks with automyated ships by enyabwing diwect contwow of aww of the ship's systems via the wink and awwowing both ships to %s at the samye timye. As with ""twansfew commyand"", somye skiww effects - such as those incweasing ammyo capacity, ow combat weadinyess - do nyot appwy to the othew ship.
+
+Awso enyabwes wapid switching between the winked ships without using a shuttwe pod. The twansfew is instant if the combinyed depwoymyent points of the ships awe %s ow wess. The destinyation ship myust nyot be undew the commyand of an officew ow an AI cowe.
+
+The compwexity of the myodifications incweases the ship's depwoymyent points and suppwy cost to wecovew fwom depwoymyent by %s.",Speciawized Nyeuwaw Intewface fow automyated ships.,,graphics/hullmods/neural_integrator.png
+Shiewd Convewsion - Fwont,frontemitter,2,,,"shields, defensive, merc, standard",Shields,7000,,,,3,5,8,12,data.hullmods.FrontShieldEmitter,"Wocks the ship's omnyi-diwectionyaw shiewd emyittew to a fwont-facing position and extends its awc by %s. As with aww fwontaw emyittews, the shiewd wiww awso depwoy twice as quickwy.","Convewts omnyi shiewd to fwont, extends awc.",Weduces the amyount of damyage taken by shiewds by %s.,graphics/hullmods/front_shield_emitter.png
+Shiewd Convewsion - Omnyi,adaptiveshields,3,,,"shields, defensive, merc, standard",Shields,7000,,,,3,5,8,12,data.hullmods.OmniShieldEmitter,Convewts fwontaw shiewds to omnyi-diwectionyaw. Weduces the shiewd's awc by %s.,"Convewts fwont shiewd to omnyi, weduces awc.",Nyegates the shiewd awc penyawty.,graphics/hullmods/omni_shield_emitter_mod.png
+Opewations Centew,operations_center,1,,,special,Special,5000,,,,30,30,30,30,com.fs.starfarer.api.impl.hullmods.OperationsCenter,Incweases the commyand point wecovewy wate by %s when instawwed on the fwagship.,Incweases commyand point wecovewy wate when on fwagship.,,graphics/hullmods/operations_center.png
+Phase Anchow,phase_anchor,3,,,"phase, merc, no_build_in, standard, phase_brawler",Phase,7000,,,,10,20,30,50,com.fs.starfarer.api.impl.hullmods.PhaseAnchor,"Weduces the phase cwoak's activation cost to %s. Incweases the soft fwux dissipation and weapon wechawge wate by %s whiwe phased.
+
+When suffewing cwiticaw damyage that wouwd othewwise destwoy ow disabwe the ship, abwe to inyitiate an emyewgency dive deep into p-space. The ship counts as wetweated and wiww emyewge into nyowmyaw space when combat is ovew, suffewing an additionyaw penyawty to combat weadinyess equaw to %s its depwoymyent cost. The ship myust have enyough combat weadinyess to covew this cost to inyitiate the dive.
+
+Due to the immyense distowtions in p-space caused by such a myanyeuvew, onwy onye ship pew battwe - wegawdwess of which side it's on - is abwe to pewfowm it.","Incweases fwux dissipation and weapon wechawge whiwe phased, emyewgency dive myanyeuvew.",,graphics/hullmods/phase_anchor.png
+Wecovewy Shuttwes,recovery_shuttles,1,,,"special, standard",Fighters,4000,,,,3,6,9,15,com.fs.starfarer.api.impl.hullmods.RecoveryShuttles,Weduces the casuawties suffewed by fightew piwots by %s.,Weduces fightew piwot casuawties.,Incweases the fightew piwot casuawty weduction to %s.,graphics/hullmods/recovery_shuttles.png
+Weinfowced Buwkheads,reinforcedhull,0,,,"defensive, merc, standard",Defenses,2500,TRUE,,,5,10,15,30,data.hullmods.ReinforcedBulkheads,"Incweases the ship's huww integwity by %s. If disabwed, the ship wiww nyot bweak apawt and is awmyost awways wecovewabwe aftew the battwe.",Incweases huww integwity; ship awmyost awways wecovewabwe if wost.,,graphics/hullmods/reinforced_bulkheads.png
+Wesistant Fwux Conduits,fluxbreakers,2,,,"defensive, merc, standard","Special, Defenses",7000,,,,3,6,9,15,data.hullmods.FluxBreakers,Decweases the amyount of EMP damyage taken fwom weapons such as Ion Cannyons by %s. Awso incweases the ship's fwux dissipation wate whiwe venting by %s.,"Weduces EMP damyage taken, impwoves venting speed.",Incweases the fwux dissipation wate whiwe venting by a fuwthew %s.,graphics/hullmods/resistant_flux_conduits.png
+Safety Ovewwides,safetyoverrides,0,,,"special, engines, offensive, merc, no_build_in, standard","Special, Engines",2500,TRUE,,,15,30,45,70,data.hullmods.SafetyOverrides,"Disabwing safety pwotocows incweases the ship's top speed in combat by %s/%s/%s (depending on ship size, with a cowwesponding incwease in accewewation) and awwows the zewo-fwux enginye boost to take effect wegawdwess of fwux wevew. The fwux dissipation wate, incwuding that of additionyaw vents, is incweased by a factow of %s.
+
+Weduces the peak pewfowmyance timye by a factow of %s, pwevents the use of active venting, and dwasticawwy weduces weapon wanges past %s unyits.
+
+Can nyot be instawwed on civiwian ow capitaw ships.","Dwastic impwovemyent in pewfowmyance, myuch wowew peak timye.",,graphics/hullmods/safety_overrides.png
+,,,,,,,,,,,,,,,,,,,
+Stabiwized Shiewds,stabilizedshieldemitter,1,,,"shields, defensive, merc, standard",Shields,5000,,,,3,6,9,15,data.hullmods.StabilizedShieldEmitter,Weduces the amyount of soft fwux waised shiewds genyewate pew second by %s. Does nyot affect the hawd fwux genyewated as a wesuwt of shiewds taking damyage.,Weduces fwux upkeep fow shiewds.,Convewts %s of the hawd fwux damyage taken by shiewds to soft fwux.,graphics/hullmods/stabilized_shields.png
+,,,,,,,,,,,,,,,,,,,
+Unstabwe Injectow,unstable_injector,0,,,"engines, merc, standard",Engines,2500,TRUE,,,5,10,15,25,data.hullmods.UnstableInjector,"Incweases the ship's top speed in combat by %s/%s/%s/%s su/second, depending on huww size.
+
+Intewfewes with weapons tawgeting and othew vuwnyewabwe systems, weducing nyon-myissiwe weapon wange by %s and incweasing the fightew wepwacemyent timye by %s.","Incweases speed, weduces weapon wange.",,graphics/hullmods/unstable_injector.png
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+# wogistics huwwmyods,,,,,,,,,,,,,,,,,,,
+Additionyaw Bewthing,additional_berthing,0,,,"req_spaceport, merc, standard","Logistics, Requires Dock",3000,TRUE,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.AdditionalBerthing,"Incweases myaximyum cwew capacity by %s/%s/%s/%s, depending on huww size, ow by %s, whichevew is highew.
+
+Fow civiwian-gwade huwws, awso incweases myaintenyance suppwy use by %s.",Incweases cwew capacity.,"Doubwes the cwew capacity incwease and, fow civiwian huwws, nyegates the myaintenyance cost incwease.",graphics/hullmods/berthing.png
+Augmyented Dwive Fiewd,augmentedengines,1,,,"req_spaceport, merc, standard","Logistics, Requires Dock",8000,,,,8,16,24,40,data.hullmods.AugmentedEngines,Incweases myaximyum buwn wevew by %s.,Incweases myaximyum buwn wevew.,Incweases myaximyum buwn wevew by a fuwthew %s.,graphics/hullmods/augmented_drive_field2.png
+Auxiwiawy Fuew Tanks,auxiliary_fuel_tanks,0,,,"req_spaceport, merc, standard","Logistics, Requires Dock",4000,TRUE,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.AuxiliaryFuelTanks,"Incweases myaximyum fuew capacity by %s/%s/%s/%s, depending on huww size, ow by %s, whichevew is highew.
+
+Fow civiwian-gwade huwws, awso incweases myaintenyance suppwy use by %s.",Incweases fuew capacity.,"Doubwes the fuew capacity incwease and, fow civiwian huwws, nyegates the myaintenyance cost incwease.",graphics/hullmods/fuel_tanks.png
+Efficiency Ovewhauw,efficiency_overhaul,0,,,"req_spaceport, merc, standard","Logistics, Requires Dock",4000,,,,3,6,9,15,com.fs.starfarer.api.impl.hullmods.EfficiencyOverhaul,"Weduces suppwy use fow myaintenyance, fuew use, and myinyimyum cwew wequiwed by %s.
+
+Incweases the combat weadinyess wecovewy and wepaiw wates by %s. The pew-day suppwy consumption fow CW wecovewy is incweased to account fow the incweased wecovewy wate, but the totaw suppwy cost wemyains the samye.",Weduces ongoing costs and enyabwes myowe depwoymyents.,"Weduces myaintenyance cost, fuew use, and myinyimyum cwew wequiwemyent by a fuwthew %s.",graphics/hullmods/efficiency.png
+Expanded Cawgo Howds,expanded_cargo_holds,0,,,"req_spaceport, merc, standard","Logistics, Requires Dock",4000,TRUE,,,5,10,15,25,com.fs.starfarer.api.impl.hullmods.ExpandedCargoHolds,"Incweases myaximyum cawgo capacity by %s/%s/%s/%s, depending on huww size, ow by %s, whichevew is highew.
+
+Fow civiwian-gwade huwws, awso incweases myaintenyance suppwy use by %s.",Incweases cawgo capacity.,"Doubwes the cawgo capacity incwease and, fow civiwian huwws, nyegates the myaintenyance cost incwease.",graphics/hullmods/expanded_cargo.png
+High Wesowution Sensows,hiressensors,2,,,"req_spaceport, merc, standard","Logistics, Requires Dock",9000,,,,4,6,9,15,com.fs.starfarer.api.impl.hullmods.HighResSensors,<Toowtip cweated in scwipt>,Incweases fweet's sensow wange.,"Incweases the ship's in-combat vision wange by %s/%s/%s/%s, based on huww size.",graphics/hullmods/high_res_sensors.png
+Insuwated Enginye Assembwy,insulatedengine,0,,,"engines, defensive, req_spaceport, merc, standard","Engines, Logistics, Defenses, Requires Dock",2500,,,,3,6,9,15,data.hullmods.InsulatedEngines,"Incweases the duwabiwity of the ship's enginyes by %s, and the ship's huww integwity by %s.
+
+The ship's sensow pwofiwe is awso weduced by %s.","Myakes enginyes hawdew to disabwe, wowews sensow pwofiwe.","Incweases enginye duwabiwity by a fuwthew %s, and Incweases the sensow pwofiwe weduction to %s.",graphics/hullmods/insulated_engine_assembly.png
+Myiwitawized Subsystems,militarized_subsystems,0,,,"req_spaceport, merc, standard","Special, Logistics, Requires Dock",6000,TRUE,,,4,8,12,20,com.fs.starfarer.api.impl.hullmods.MilitarizedSubsystems,"Wemyoves the penyawties fwom a civiwian-gwade huww, and incweases myaximyum buwn wevew by %s.
+
+Incweases myinyimyum cwew wequiwed by %s.","Wemyoves sensow penyawties, incweases myaximyum buwn wevew, incweases cwew wequiwed.",Nyegates the incweased cwew wequiwemyents.,graphics/hullmods/militarized_subsystems.png
+Sowaw Shiewding,solar_shielding,2,,,"defensive, req_spaceport, merc, standard","Defenses, Logistics, Requires Dock",5000,,,,3,6,9,15,data.hullmods.SolarShielding,"Owiginyawwy devewoped by Diktat enginyeews aftew spending cycwes deawing with the unyique conditions of the innyew Askonyia system. Decweases the effect opewating in a sowaw cowonya has on combat weadinyess by %s; awso has the samye effect against stowms in deep hypewspace.
+
+In combat, weduces enyewgy damyage taken by %s.",Weduces effect of being in cowonya and enyewgy damyage taken.,Incweases the pwotection fwom sowaw cowonyae and simyiwaw hazawds to %s.,graphics/hullmods/solar_shielding2.png
+Suwveying Equipmyent,surveying_equipment,1,,,"special, req_spaceport, standard","Logistics, Requires Dock",5000,,,,5,10,15,25,data.hullmods.SurveyingEquipment,"Weduces the heavy myachinyewy and suppwies wequiwed to pewfowm suwveys by %s/%s/%s/%s depending on huww size, down to a myinyimyum of %s fow each.",Weduces wesouwce wequiwemyents fow suwveying.,Incweases the suwvey cost weduction by %s.,graphics/hullmods/surveying_equipment.png
+,,,,,,,,,,,,,,,,,,,
+# standawd buiwt-in huwwmyods,,,,,,,,,,,,,,,,,,,
+Tewmyinyatow Cowe,terminator_core,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.TerminatorCore,"Used by the tewmyinyatow dwonye, this text shouwd nyot be visibwe to the pwayew.",,,graphics/hullmods/terminator_core.png
+Shawed Fwux Sink,shared_flux_sink,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.SharedFluxSink,"Handwes %s of the fwux dissipation of aww attached myoduwes. If myoduwes awe wost duwing battwe, the extwa fwux dissipation is wedistwibuted amyong the wemyainying myoduwes. Up to %s of this extwa dissipation appwies to hawd fwux.",Fwux/hawd fwux dissipation bonyus as myoduwes awe wost.,,graphics/hullmods/shared_flux_sink.png
+Steawth Myinyefiewd,stealth_minefield,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.StealthMinefield,Myinyes attack enyemy ships duwing battwe.,Myinyes attack enyemy ships duwing battwe.,,graphics/hullmods/stealth_mines.png
+Steawth Myinyefiewd,stealth_minefield_lt,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.StealthMinefieldLT,Myinyes attack enyemy ships duwing battwe.,Myinyes attack enyemy ships duwing battwe.,,graphics/hullmods/stealth_mines.png
+B-Deck,bdeck,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.BDeck,"Once pew combat, when the fightew wepwacemyent wate weaches %s, the fightew waunch bays awe switched ovew to opewate fwom a ""B-Deck"".
+
+Standby fightews awe waunched to wapidwy bwing the wings back up to fuww stwength, and the fightew wepwacemyent wate is set to %s.",Waunches fwesh wing once pew combat and wepwenyishes the wepwacemyent wate.,,graphics/hullmods/bdeck.png
+Fightew Chassis Stowage,chassis_storage,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.FighterChassisStorage,Fightew wepwacemyent wate does nyot go down when fightews awe wost.,Fightew wepwacemyent wate does nyot go down.,,graphics/hullmods/expanded_deck_crew.png
+Shiewd Awways On,shield_always_on,,,,,,,,TRUE,TRUE,0,0,0,0,com.fs.starfarer.api.impl.hullmods.ShieldAlwaysOn,,"Fowces shiewd to stay on. Hidden, doesn't nyeed descwiption ow icon.",,graphics/hullmods/hardened_shields.png
+Myissiwe Autofowge,missile_reload,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.PeriodicMissileReload,An autofowge inside the ship pewiodicawwy fuwwy wewoads the myagazinyes of aww myissiwe weapons.,Pewiodicawwy wewoads aww myissiwe weapons.,,graphics/hullmods/expanded_missile_racks.png
+Shiewded Cawgo Howds,shielded_holds,2,,,,,,,TRUE,,5,10,15,30,data.hullmods.ShieldedCargoHolds,"Commyonwy found on ships that can't awways wewy on shiewds to pwotect theiw cawgo fwom cosmyic wadiation. Onwy a few tweaks awe nyeeded to have the shiewding confound wong-wange cawgo scans, weducing the pwobabiwity of contwaband being detected.",Impwoves chance to avoid detection of contwaband.,,graphics/hullmods/shielded_cargo_hold.png
+Sawvage Gantwy,repair_gantry,,,,,,,,TRUE,,5,10,20,40,com.fs.starfarer.api.impl.campaign.RepairGantry,"Incweases the wesouwces gainyed fwom sawvaging abandonyed stations, dewewicts, fwoating huwks, and othew such by %s/%s/%s/%s, depending on huww size. Onwy affects the wecovewy of commyon wesouwces such as fuew and suppwies, and nyot wawe items wike bwuepwints. In addition, %s of the bonyus appwies to post-battwe sawvage.",Incweases wesouwces gainyed fwom sawvage.,,graphics/hullmods/repair_gantry.png
+Phase Fiewd,phasefield,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.PhaseField,"The ship is abwe to wun a wow-gwade phase fiewd fow extended pewiods of timye, weducing its effective sensow pwofiwe by %s.",Weduces fweetwide sensow pwofiwe.,,graphics/hullmods/phase_field.png
+Fwux Shunt,fluxshunt,,,,,,,,TRUE,,10,20,30,50,data.hullmods.FluxShunt,Awwows the ship to dissipate hawd fwux at %s of the nyowmyaw wate whiwe shiewds awe on.,Awwows dissipation of hawd fwux whiwe shiewds awe up.,,graphics/hullmods/flux_shunt.png
+Civiwian-gwade Huww,civgrade,,,,,,,,TRUE,,0,0,0,0,data.hullmods.CivGrade,Incweases sensow pwofiwe by %s. Weduces sensow stwength by %s.,"Incweases sensow pwofiwe, weduces sensow stwength.",,graphics/hullmods/civilian_grade.png
+High Myaintenyance,high_maintenance,,,,,,,,TRUE,,0,0,0,0,data.hullmods.HighMaintenance,Incweases the myonthwy myaintenyance suppwy cost by %s.,Incweases myaintenyance cost.,,graphics/hullmods/high_maintenance.png
+Enyewgy Bowt Cohewew,coherer,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.EnergyBoltCoherer,<toowtip cweated in the scwipt>,Incweases base wange of nyon-beam enyewgy weapons.,,graphics/hullmods/coherer.png
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Myonyofiwamyent Tow Cabwe,tow_cable,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.campaign.TowCable,"Impwoves the myaximyum buwn wevew of the swowest ship in the fweet by 1. Myuwtipwe tugs can nyot be used to speed up the samye ship by myowe than 1.
+
+Can nyot be used in combat.",Incweases buwn wevew of anyothew ship.,,graphics/hullmods/monofilament_cable.png
+Dwive Fiewd Stabiwizew,drive_field_stabilizer,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DriveFieldStabilizer,"Stabiwizes the fweet's dwive bubbwe, incweasing the myaximyum buwn of the fweet by %s. The effect of myuwtipwe stabiwizews is cumyuwative.
+
+Incweases the ship's sensow pwofiwe by %s.",Weduces fweetwide fuew use.,,graphics/hullmods/augmented_drive_field.png
+Gwound Suppowt Package,ground_support,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.GroundSupport,"Cwose suppowt weapons and countew-myeasuwes fow gwound defenses. Incweases the effective stwength of pwanyetawy waids by %s, up to the totaw nyumbew of myawinyes in the fweet.",Impwoves effectivenyess of waids.,,graphics/hullmods/ground_support.png
+Advanced Gwound Suppowt,advanced_ground_support,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.AdvancedGroundSupport,"Cwose suppowt weapons and countew-myeasuwes fow gwound defenses. Incweases the effective stwength of pwanyetawy waids by %s, up to the totaw nyumbew of myawinyes in the fweet.",Impwoves effectivenyess of waids.,,graphics/hullmods/ground_support_adv.png
+Dewicate Myachinyewy,delicate,,,,,,,,TRUE,,0,0,0,0,data.hullmods.DelicateMachinery,"The ship systems wequiwe excessive myaintenyance and do nyot stand up weww undew the wigouws of pwowonged engagemyents.
+
+Incweases the wate of in-combat CW decay aftew peak pewfowmyance timye wuns out by %s.",Incweases CW decay wate aftew peak timye wuns out.,,graphics/hullmods/delicate_machinery.png
+Heavy Bawwistics Integwation,hbi,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.HeavyBallisticsIntegration,Weduces the owdnyance point cost of wawge bawwistic weapons by %s.,Weduces owdnyance point cost of wawge bawwistic weapons.,,graphics/hullmods/ballistics_integration.png
+Vast Hangaw,vast_hangar,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.VastHangar,"The ship has a huge hangaw and a commyensuwate smyaww fweet of suppowt cwaft.
+
+The nyumbew of fightew bays added by Convewted Hangaw is incweased by %s, and its pewfowmyance myatches that of a dedicated fightew bay - aww of the penyawties and myodifiews, incwuding those to the ship's depwoymyent cost, awe nyegated.",Incweases the effect of Convewted Hangaw and wemyoves its penyawties.,,graphics/hullmods/vast_hangar.png
+Wugged Constwuction,rugged,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.RuggedConstruction,"Weduces myost nyegative effects of d-myods by %s. If disabwed ow destwoyed in combat, the ship has a %s chance to avoid nyew d-myods, and is awmyost awways wecovewabwe aftew the battwe.
+
+In addition, the suppwy cost to wecovew fwom depwoymyent - and to effect wepaiws if the ship is disabwed - is weduced by %s.",Weduces impact of d-myods; ship awmyost awways wecovewabwe if wost.,,graphics/hullmods/rugged_construction.png
+Automyated Ship,automated,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.Automated,"This ship is fuwwy automyated, and does nyot wequiwe - and can nyot take on - any humyan cwew.
+
+Automyated ships usuawwy wequiwe speciawized equipmyent and expewtise to myaintain, wesuwting in a myaximyum combat weadinyess penyawty of %s. This penyawty can be offset by a fweet commyandew skiwwed in the use of automyated ships.",Does nyot wequiwe and can nyot suppowt cwew.,,graphics/hullmods/automated.png
+Advanced Tawgeting Cowe,advancedcore,,,,,,,,TRUE,,0,0,0,0,data.hullmods.AdvancedTargetingCore,"Extends the wange of bawwistic and enyewgy weapons by %s. The wange of point-defense weapons is onwy extended by %s.
+
+Pwecwudes the instawwation of a Dedicated Tawgeting Cowe ow an Integwated Tawgeting Unyit.",Gweatwy extends nyon-myissiwe weapon wange.,,graphics/hullmods/advanced_targeting_core.png
+Tawgeting Supewcomputew,supercomputer,,,,,,,,TRUE,,0,0,0,0,data.hullmods.TargetingSupercomputer,"Extends the wange of bawwistic and enyewgy weapons by %s. The wange of point-defense weapons is onwy extended by %s.
+
+Awso incweases tawget-weading accuwacy and gweatwy incweases in-combat sensow wange.",Gweatwy extends nyon-myissiwe weapon wange.,,graphics/hullmods/targeting_supercomputer.png
+Expewimyentaw Phase Coiws,ex_phase_coils,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.ExperimentalPhaseCoils,Weduces phase cwoak coowdown by %s.,Gweatwy weduces phase cwoak coowdown.,,graphics/hullmods/phase_coils_experimental.png
+High Vowition Attwactow,high_frequency_attractor,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.combat.BaseHullMod,An expewimyentaw myodification awwowing high-fwequency myotes to be wawped in by the wift cowe on boawd the ship.,Waunches myowe powewfuw high-fwequency myotes.,,graphics/hullmods/high_volition_attractor.png
+Abwative Awmyow,ablative_armor,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.AblativeArmor,"An ancient design intended to stop myicwo-myeteowites thwough sheew vowumye of myatewiaw in pwace, befowe the advent of ""spaced"" awmyow.
+
+Weduces the effective awmyow stwength fow the damyage weduction cawcuwation to %s of its actuaw vawue. Howevew, ships of this design tend to cawwy extwemyewy heavy awmyow.",Weduces damyage weduction by awmyow.,,graphics/hullmods/ablative_armor.png
+Distwibuted Fiwe Contwow,distributed_fire_control,,,,,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DistributedFireControl,"Myuch of the damyage that takes weapons offwinye is to extewnyaw contwow wuns and powew conduits. This ship's weapons awe enginyeewed to opewate myowe independentwy, weducing theiw exposuwe to damyage by %s and weducing the EMP damyage taken by the ship ovewaww by %s.",Incweases weapon duwabiwity and weduces EMP damyage taken.,,graphics/hullmods/distributed_fire_control2.png
+Convewted Cawgo Bay,converted_bay,1,,,,,,,TRUE,,0,0,0,0,data.hullmods.ConvertedCargoBay,"This ship's cawgo howd has been convewted to house a paiw of fightew bays. The impwovised myanyufactowy that pwoduces fightew chassis is unwewiabwe, and myost componyents have myinyow defects. Fightew speed weduced by %s, and damyage taken incweased by %s.",Paiw of impwovised fightew bays.,,graphics/hullmods/converted_hangar.png
+Speciaw Myodifications,andrada_mods,,,,dmod,,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.AndradaMods,"Duwing an inspection of an eawwy pwototype, the Supwemye Executow was heawd to commyent unfavowabwy on exposed conduits wunnying awong the passageways, and the dangew these myust pose to the bwave and woyaw cwew undew combat conditions. 
+
+The nyew chief designyew, a woyaw officew appointed by the Supwemye Executow himsewf, instwucted the fowge-pwogwammyews to myake accommyodations fow the instawwation of speciaw bwast-pwoof insuwated panyewing pwoduced by Sindwia itsewf.
+
+If the passages awe a bit nyawwowew, conduits pwonye to ovewheating, and fwush-set panyews somyewhat unwiewdy to access, the officiaw weadinyess wepowts incwude nyo cwiticism of the changes. Evewyonye agwees in both pubwic and - as the Intewnyaw Secuwity Myinyistwy can attest - in pwivate, that the stawk gwandeuw of the Wion's Guawd fweet is bweathtaking.
+
+Cwew casuawties in combat awe incweased by %s. The base fwux dissipation wate is weduced by %s, and the wepaiw wate fow disabwed weapons and enginyes is weduced by %s.",Weduces the ship's pewfowmyance.,,graphics/hullmods/special_modifications.png
+Vast Buwk,vastbulk,,,,,,,,TRUE,,0,0,0,0,data.hullmods.VastBulk,"The myain body of this stwuctuwe is vast and is, fow pwacticaw puwposes, capabwe of absowbing any amyount of damyage fwom conventionyaw weapons without being destwoyed.",,,graphics/hullmods/vast_bulk.png
+Axiaw Wotation,axialrotation,,,,,,,,TRUE,,0,0,0,0,data.hullmods.AxialRotation,This stwuctuwe constantwy wotates awound its axis.,,,graphics/hullmods/axial_rotation.png
+Anchow Wotation,anchorrotation,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.AnchorRotation,This stwuctuwe wotates awound its anchow attachmyent point. Fow station myoduwes onwy.,,,graphics/hullmods/axial_rotation.png
+Weduced Expwosion,reduced_explosion,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.ReducedExplosion,Weduced expwosion wadius and damyage.,,,graphics/hullmods/reduced_explosion.png
+Awways Detaches,always_detaches,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.AlwaysDetaches,Awways detaches fwom pawent stwuctuwe when destwoyed.,,,graphics/hullmods/detach_always.png
+Nyevew Detaches,never_detaches,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.NeverDetaches,Nyevew detaches fwom pawent stwuctuwe when destwoyed.,,,graphics/hullmods/detach_never.png
+Nyo Weapon Fwux,no_weapon_flux,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.NoWeaponFlux,Weapon fiwe costs nyo fwux. Used on fightews fow finye-gwainyed contwow of effective shiewd hitpoints.,,,
+Do Nyot Fiwe Thwough,do_not_fire_through,,,,,,,,TRUE,TRUE,0,0,0,0,data.hullmods.DoNotFireThrough,"Weapons on othew myoduwes of a station wiww avoid fiwing thwough this myoduwe, even though the shots wouwd go ovew it and nyot hit.",,,
+Shawd Spawnyew,shard_spawner,,,,,,,,TRUE,TRUE,0,0,0,0,com.fs.starfarer.api.impl.hullmods.ShardSpawner,Spawns shawd ships when ship is disabwed/destwoyed.,,,
+Do Nyot Back Off,do_not_back_off,,,,,,,,TRUE,TRUE,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DoNotBackOff,Sets DO_NyOT_BACK_OFF AIFwag,,,
+,,,,,,,,,,,,,,,,,,,
+# ship skin buffs,,,,,,,,,,,,,,,,,,,
+Fouwteenth Battwegwoup,fourteenth,,,,,,,,TRUE,,0,0,0,0,data.hullmods.Fourteenth,"This ship is a suwvivow of the owiginyaw 14th Domyain Battwegwoup which founded the Hegemyony. It is a pwimye specimyen of the Domyain Nyavy's ""decisive battwe"" doctwinye, pawticuwawwy exhibited by a sewies of wadicaw stwuctuwaw myodifications (pewfowmyed with pwe-Cowwapse industwiaw myethods) which awwow the myounting of heaview awmyow pwating by a fwat incwease of %s standawd unyits, with onwy a %s weduction in speed and myanyeuvewabiwity. Exceptionyawwy weww-tunyed enyewgy systems incwease fwux thwoughput and capacity by %s ovew standawd exampwes of this huww.",,,graphics/hullmods/fourteenth.png
+Myiwitawized Hegemyony Auxiwiawy,heg_militarized,,,,,,,,TRUE,,0,0,0,0,data.hullmods.Militarized,"This ship is - ow was - on the Hegemyony auxiwiawy wist. Upawmyouw kits appwied at Hegemyony Nyavaw yawds wesuwting in nyo woss of pewfowmyance fow a %s/%s/%s/%s incwease in awmyow stwength, depending on huww size. Cowe powew systems have been upgwaded to myiwitawy standawds wesuwting in a %s impwovemyent in ovewaww handwing, %s incwease in fwux capacity, a %s incwease in fwux dissipation, and an incwease of myaximyum buwn wevew by %s.",,,graphics/hullmods/militarized_hegemony_auxiliary.png
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+# pewmyanyent ship debuffs,,,,,,,,,,,,,,,,,,,
+Compwomyised Awmyow,comp_armor,,,,"dmod, damage, damageStruct",,,,TRUE,,0,0,0,0,data.hullmods.CompromisedArmor,"This ship's awmyow has taken myajow and iwwepawabwe damyage at somye point in the past, ow suffewed fwom myajow ewwows in the myanyufactuwing pwocess. Awmyow wating weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/compromised_armor.png
+Compwomyised Huww,comp_hull,,,,"dmod, damage, damageStruct",,,,TRUE,,0,0,0,0,data.hullmods.CompromisedHull,"This ship's huww has taken myajow and iwwepawabwe damyage at somye point in the past, ow suffewed fwom myajow ewwows in the myanyufactuwing pwocess. Huww integwity weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/compromised_hull.png
+Degwaded Enginyes,degraded_engines,,,,"dmod, damage",,,,TRUE,,0,0,0,0,data.hullmods.DegradedEngines,"Whethew due to battwe damyage, myanyufactuwing defects, ow cycwes of poow myaintenyance, this ship's enginyes awe suffewing fwom pewmyanyentwy degwaded combat pewfowmyance. 
+
+Top speed and myanyeuvewabiwity in combat weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/degraded_engines.png
+Degwaded Dwive Fiewd,degraded_drive_field,,,,"dmod, damage, civOnly",,,,TRUE,,0,0,0,0,data.hullmods.DegradedDriveField,"Whethew due to battwe damyage, myanyufactuwing defects, ow cycwes of poow myaintenyance, this ship's dwive fiewd is suffewing fwom pewmyanyentwy degwaded pewfowmyance. 
+
+Myaximyum buwn wevew decweased by %s. Sensow pwofiwe incweased by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/degraded_drivefield.png
+Fauwty Powew Gwid,faulty_grid,,,,"dmod, damage",,,,TRUE,,0,0,0,0,data.hullmods.FaultyPowerGrid,"Whethew due to battwe damyage, myanyufactuwing defects, ow cycwes of poow myaintenyance, this ship's powew gwid wiww nyevew be capabwe of achieving peak pewfowmyance.
+
+Fwux capacity weduced by %s. Fwux dissipation wate weduced by %s. Sensow pwofiwe incweased by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/faulty_power_grid.png
+Phase Coiw Instabiwity,unstable_coils,,,,"dmod, phaseDamage",,,,TRUE,,0,0,0,0,data.hullmods.PhaseCoilInstability,"The phase coiws on this ship awe impossibwe to cawibwate pwopewwy due to subtwe fwaws. Weduces the phase-timye bonyus by %s, weduces the peak pewfowmyance timye by %s, and incweases the wate at which combat weadinyess degwades by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/phase_coil_instability.png
+Stwuctuwaw Damyage,comp_structure,,,,"dmod, damageStruct, destroyedDamageAlways",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.CompromisedStructure,"This ship's huww has wikewy taken extwemye damyage in the past, possibwy to the point of bweaking apawt. Awmyow wating weduced by %s, huww integwity weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/structural_damage.png
+Gwitched Sensow Awway,glitched_sensors,,,,"dmod, damage",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.GlitchedSensorArray,"The ship's sensow awway is damyaged past any wepaiw showt of a compwete huww ovewhauw. Weapon wange in combat weduced by %s. Sensow stwength weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/glitched_sensor_array.png
+Myawfunctionying Comms,malfunctioning_comms,,,,"dmod, fighterBayDamage",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.MalfunctioningComms,"The comm system has suffewed sewious damyage, myaking punching thwough battwefiewd jammying even myowe of a chawwenge. Fightew engagemyent wange weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/malfunctioning_comms.png
+Defective Myanyufactowy,defective_manufactory,,,,"dmod, fighterBayDamage",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DefectiveManufactory,"The myanyufactowy that pwoduces fightew chassis is unwewiabwe, and myost componyents have myinyow defects. Fightew speed weduced by %s, and damyage taken incweased by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/defective_manufactory.png
+Damyaged Fwight Deck,damaged_deck,,,,"dmod, fighterBayDamage",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DamagedFlightDeck,"The fwight decks on this ship have taken myajow damyage and sewiouswy intewfewe with nyowmyaw opewation. Timye to waunch wepwacemyent fightews is incweased by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/damaged_flight_deck.png
+Unwewiabwe Subsystems,fragile_subsystems,,,,"dmod, damage, peak_time, notPhase",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.FragileSubsystems,"A widespwead woss of wedundant componyents weduces peak opewating timye by %s, and incweases the wate at which combat weadinyess degwades by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/fragile_subsystems.png
+Compwomyised Stowage,comp_storage,,,,"dmod, damage, civOnly",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.CompromisedStorage,"The stowage capacity of this ship is signyificantwy degwaded. Cwew, cawgo, and fuew capacity weduced by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",,,graphics/hullmods/compromised_storage.png
+Incweased Myaintenyance,increased_maintenance,,,,"dmod, damage, civ, notAuto",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.IncreasedMaintenance,"Incweases the myonthwy myaintenyance suppwy cost by %s. Incweases myinyimyum cwew wequiwed by %s. Decweases myaximyum combat weadinyess by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.","Incweases myaintenyance cost and cwew wequiwemyents, decweases myaximyum combat weadinyess.",,graphics/hullmods/increased_maintenance.png
+Ewwatic Fuew Injectow,erratic_injector,,,,"dmod, damage, civ",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.ErraticInjector,"Incweases fuew use by %s and decweases the zewo-fwux boost by %s su/second.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",Incweases fuew use and decweases the zewo-fwux boost.,,graphics/hullmods/erratic_injector.png
+Fauwty Automyated Systems,faulty_auto,,,,"dmod, damage, notAuto",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.FaultyAutomatedSystems,"Incweases myinyimyum cwew wequiwed by %s and decweases myaximyum combat weadinyess by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.","Incweases myinyimyum cwew wequiwed, decweases myaximyum combat weadinyess.",,graphics/hullmods/faulty_automated_systems.png
+Damyaged Weapon Myounts,damaged_mounts,,,,"dmod, damage",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DamagedWeaponMounts,"Weduces weapon tuwn wate by %s and incweases wecoiw by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",Weduces weapon tuwn wate and incweases wecoiw.,,graphics/hullmods/damaged_weapon_mounts.png
+Degwaded Wife Suppowt,degraded_life_support,,,,"dmod, damage, notAuto",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DegradedLifeSupport,"Decweases myaximyum cwew capacity by %s, and myaximyum combat weadinyess by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",Decweases myaximyum cwew capacity and combat weadinyess.,,graphics/hullmods/degraded_life_support.png
+Degwaded Shiewds,degraded_shields,,,,"dmod, damage, reqShields",,,,TRUE,,0,0,0,0,com.fs.starfarer.api.impl.hullmods.DegradedShields,"Incweases the amyount of damyage taken by shiewds by %s.
+
+Suppwy cost to wecovew fwom depwoymyent weduced by %s.",Incweases damyage taken by shiewds.,,graphics/hullmods/degraded_shields.png
+,,,,,,,,,,,,,,,,,,,
+Destwoyed Weapon Myounts,destroyed_mounts,,,,dmod,,,,TRUE,,0,0,0,0,data.hullmods.DestroyedWeaponMounts,Somye of the owiginyaw weapon myounts on this ship have been damyaged beyond wepaiw and can nyo wongew be used.,,,graphics/hullmods/damaged_weapon_mounts.png
+Iww-Advised Myodifications,ill_advised,,,,dmod,,,,TRUE,,0,0,0,0,data.hullmods.IllAdvised,"This huww's systems have been dwasticawwy myodified fwom spec, wikewy without cewtified enginyeewing ovewsight. Its systems appeaw to wowk cowwectwy undew woutinye conditions, but have a signyificant chance of cwiticaw myawfunction when stwessed.",,,graphics/hullmods/illadvised.png

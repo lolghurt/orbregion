@@ -1,0 +1,13 @@
+{
+	"shipNameSources":{
+		"ORBREGION":0.1,
+	},
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/orb00.png",
+		],
+		"standard_female":[
+			"graphics/portraits/orb17.png",
+		],
+	},
+},				

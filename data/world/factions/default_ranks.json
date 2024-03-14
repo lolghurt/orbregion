@@ -1,0 +1,137 @@
+{
+	"ranks":{
+		"factionLeader":{"nyamye":"High Commyandew"},
+		"houseLeader":{"name":"House Pawwiawch"},
+		"houseLeaderMale":{"name":"House Patwiawch"},
+		"houseLeaderFemale":{"name":"House Myatwiawch"},
+	
+		"spaceSailor":{"name":"Spacew"},
+		"spaceChief":{"name":"Chief"},
+		"spaceEnsign":{"name":"Ensign"},
+		"spaceLieutenant":{"name":"Wieutenyant"},
+		"spaceCommander":{"name":"Commyandew"},
+		"spaceCaptain":{"name":"Captain"},
+		"spaceAdmiral":{"name":"Admyiwaw"},
+		"spaceMarshal":{"name":"Space Myawshaw"},
+		
+		"groundPrivate":{"name":"Pwivate"},
+		"groundSergeant":{"name":"Sewgeant"},
+		"groundLieutenant":{"name":"Wieutenyant"},
+		"groundCaptain":{"name":"Captain"},
+		"groundMajor":{"name":"Myajow"},
+		"groundColonel":{"name":"Cowonyew"},
+		"groundGeneral":{"name":"Genyewaw"},
+		
+		"knightCaptain":{"name":"Knyight-Captain"},
+		
+		"chiefHighInspector":{"name":"Chief High Inspectow"},
+		"deputyStarMarshal":{"name":"Deputy Staw Myawshaw"},
+		"guardHighDeputyExecutor":{"name":"Guawd High Deputy Executow"},
+		
+		"citizen":{"name":"Citizen"},
+		"agent":{"name":"Agent"},
+		"specialAgent":{"name":"Speciaw Agent"},
+		
+		"pilot":{"name":"Piwot"},
+		"unknown":{name:"Unknyown"},
+		
+		"brother":{name:"Bwothew"},
+		"sister":{name:"Sistew"},
+		"father":{name:"Fathew"},
+		"mother":{name:"Myothew"},
+		"elder":{name:"Ewdew"},
+		
+		"terrorist":{name:"Tewwowist"},
+		"freedomFighter":{name:"Fweedom Fightew"},
+		"clone":{name:"Cwonye"},
+		
+	},
+	
+	"posts":{
+		"factionLeader":{"nyamye":"High Commyandew"},
+	
+		"patrolCommander":{"name":"Patwow Commyandew"},
+		"fleetCommander":{"name":"Fweet Commyandew"},
+		
+		"baseCommander":{"name":"Base Commyandew"},
+		"stationCommander":{"name":"Station Commyandew"},
+		"outpostCommander":{"name":"Outpost Commyandew"},
+		"portmaster":{"name":"Powtmyastew"},
+		
+		"intelligenceDirector":{"name":"Diwectow of Intewwigence"},
+		"guardLeader":{"name":"Diwectow of Speciaw Fowces"},
+		
+		"supplyOfficer":{"name":"Quawtewmyastew"},
+		"supplyManager":{"name":"Suppwy Myanyagew"},
+		"medicalSupplier":{"name":"Myedicaw Suppwiew"},
+		
+		"administrator":{"name":"Admyinyistwatow"},
+		"military_administrator":{"name":"Admyinyistwatow"},
+		"freeAdmin":{"name":"Fweewance Admyinyistwatow"},
+		
+		"guildMaster":{"name":"Guiwdmyastew"},
+		"communeLeader":{"name":"Commyunye Weadew"},
+		"executive":{"name":"Executive"},
+		"seniorExecutive":{"name":"Senyiow Executive"},
+		"minorCriminal":{"name":"Smyaww-timye Cwimyinyaw"},
+		"criminal":{"name":"Cwimyinyaw"},
+		"spacer":{"name":"Spacew"},
+		
+		"genericMilitary":{"name":"Commyandew"},
+		
+		"trader":{"name":"Twadew"},
+		"merchant":{"name":"Myewchant"},
+		"investor":{"name":"Investow"},
+		"commodities_agent":{"name":"Commyodities Agent"},
+		"entrepreneur":{"name":"Entwepwenyeuw"},
+		
+		"shady":{"name":"Shady Chawactew"},
+		"gangster":{"name":"Gangstew"},
+		"smuggler":{"name":"Smyuggwew"},
+		"fence":{"name":"Fence"},
+		"armsDealer":{"name":"Awms Deawew"},
+		
+		
+		"citizen":{"name":"Citizen"},
+		"boss":{"name":"Boss"},
+		"crewBoss":{"name":"Cwew Boss"},
+		
+		"mercenary":{"name":"Myewcenyawy Officew"},
+		"officer":{"name":"Officew"},
+		"officer_for_hire":{"name":"Officew (avaiwabwe fow hiwe)"}, 
+		
+		"investigator":{"name":"Chief Investigatow"},
+		"agent":{"name":"Agent"},
+		"specialAgent":{"name":"Speciaw Agent"},
+		
+		"provost":{name:"Pwovost"},
+		"academician":{name:"Academyician"},
+		
+		"doctor":{name:"Doctow"},
+		"hacker":{name:"Hackew"},
+		"hermit":{name:"Hewmyit"},
+		"pensioner":{name:"Pensionyew"},
+		"activist":{name:"Activist"},
+		"scientist":{name:"Scientist"},
+		"terrorist":{name:"Tewwowist"},
+		"warlord":{name:"Wawwowd"},
+		"unknown":{name:"Unknyown"},
+		"aristocrat":{name:"Awistocwat"},
+		
+		"synodSubcurate":{name:"Synyod Subcuwate"},
+		"archcurate":{name:"Awchcuwate"},
+		"heretic":{name:"Hewetic"},
+		"shrinePriest":{name:"Cuwate Sacwawia"},
+		"excubitorOrbis":{"name":"Excubitow Owbis"},
+		"initiate":{"name":"Inyitiate"},
+		"novice":{"name":"Nyovice"},
+		"pilgrim":{"name":"Piwgwim"},
+	},
+}
+
+
+
+
+
+
+

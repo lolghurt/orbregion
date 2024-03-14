@@ -1,0 +1,182 @@
+name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,autofireAccBonus,extraArcForAI,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
+Wight Myachinye Gun,lightmg,0,,100,300,,25,,1,50,3,,,,KINETIC,3,,0,0.4,5,0.1,0,5,1,15,,600,,,10,,,PD,"pd6, kinetic3, SR, base_bp, ind",,,,Point Defense,,,,,,,,,,0.5
+Wight Duaw Myachinye Gun,lightdualmg,2,,400,300,,25,,1,50,5,,,,KINETIC,3,,0,0.2,5,0.1,0,5,1,15,,600,,,10,,,PD,"pd7, kinetic4, SR, lowtech_bp, merc, ind",,,,Point Defense,,,,,,,,,,0.7
+Wight Myowtaw,lightmortar,0,,75,600,,75,,4,30,2,,,,HIGH_EXPLOSIVE,50,,0,1,1,,0,15,3,10,,500,,,10,,,,"he6, base_bp, ind",,,,Anti Awmyow,,,,,,,,,,0.75
+#Wight Myowtaw (High Deway),lightmortar_fighter,0,,75,400,,75,,4,30,2,,,,HIGH_EXPLOSIVE,50,,0,2,1,,0,15,3,10,,500,,,10,,,SYSTEM,he6,,,,Anti Awmyow,,,,,,,,,,0.8
+Vuwcan Cannyon,vulcan,1,,200,250,,25,,1,75,4,,,,FRAGMENTATION,1,,0,0.05,1,,0,15,1,15,,800,,,10,,,PD,"pd7, SR, lowtech_bp, merc, ind",,,,Point Defense,,,,,,,,,,1
+Wight Autocannyon,lightac,0,,125,700,,50,,3,20,4,,,,KINETIC,40,,0,0.5,1,,0,8,2,15,,800,,,20,,,,"kinetic6, base_bp, ind",,,,Anti Shiewd,,,,,,,,,,2
+Wight Duaw Autocannyon,lightdualac,1,,300,600,,50,,3,20,5,,,,KINETIC,40,,0,0.6,2,0.1,0,20,3,9,,800,,,20,,,,"kinetic7, lowtech_bp, midline_bp, merc, ind",,,,Anti Shiewd,,,,,,,,,,2.5
+Wight Assauwt Gun,lightag,1,,300,700,,40,,3,40,5,,,,HIGH_EXPLOSIVE,40,,0,0.25,1,,0,5,1,5,,800,,,30,,,,"he6, lowtech_bp, midline_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,3
+Stingew-cwass Pwoximyity Myinye,fragbomb,0,,100,500,,500,,10,0,1,2,0.1,,FRAGMENTATION,0,,0,1,1,,0,0,0,0,,50,20,7,150,,,"DO_NOT_AIM, ANTI_FTR, PD_ONLY, SYSTEM",he0,,,,Anti Fightew,,,,,,,,,TRUE,3.2
+Cwustew Bomb Bay,clusterbomb,2,,350,1500,,300,,30,15,5,30,,,HIGH_EXPLOSIVE,0,,0,2,5,0.1,0,0,0,0,,20,20,60,75,,,"STRIKE,SYSTEM",he0,,,,Stwike,,,,,,,,,TRUE,3.4
+Standawd Bomb Bay,bomb,1,,200,2000,,400,,50,15,4,10,,,HIGH_EXPLOSIVE,0,,0,1,1,,0,0,0,0,,170,20,25,150,,,"STRIKE, BOMB","he0, no_sell, no_drop, no_drop_salvage",,,,Stwike,,,,,,,,,TRUE,3.5
+Wight Nyeedwew,lightneedler,3,0.3,800,700,,50,,1,20,8,,,,KINETIC,40,,0,4.3,15,0.05,0,10,0.66,5,,1200,,,10,,,,"kinetic9, LR, remnant, rare_bp, hist1t, merc, ind",,,,Anti Shiewd,,,,,,,,,,3.65
+Waiwgun,railgun,2,0.5,600,700,,100,,10,30,7,,,,KINETIC,90,,0.6,0,1,,,,,,,1000,,,50,,,,"kinetic8, LR, remnant, rare_bp, hist1t, merc, ind",,,,Anti Shiewd,,,,,,,,,,3.75
+Thumpew,shredder,0,,700,700,,100,,1,25,7,60,5,20,FRAGMENTATION,25,,0,0.55,20,0.05,0,7,1,20,,800,,,30,,,,"kinetic8, base_bp, ind",,,,Genyewaw,,,,,,,,,,3.8
+Heavy Myachinye Gun,heavymg,2,,1200,450,,40,,3,40,10,,,,KINETIC,15,,0,0.2,4,0.1,0,5,1,15,,700,,,30,,,PD,"kinetic11, pd10, SR, midline_bp, merc, ind",,,,Point Defense,,,,,,,,,,3.85
+Heavy Myowtaw,heavymortar,0,,600,700,,110,,12,30,7,,,,HIGH_EXPLOSIVE,90,,0,0.7,2,0.3,0,20,5,5,,500,,,30,,,,"he11, base_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,3.9
+Fwak Cannyon,flak,1,,1000,500,,200,,10,40,8,,,,FRAGMENTATION,50,,0,1,1,,0,10,2,10,,700,,,30,,,PD,"pd13, SR, lowtech_bp, merc, ind",,,,Point Defense (Awea),,,,,,,,,,4
+Awbawest Autocannyon,arbalest,0,,800,700,,200,,10,12,8,,,,KINETIC,150,,0,1.2,1,,0,15,5,10,,800,,,30,,,,"kinetic12, base_bp, ind",,,,Anti Shiewd,,,,,,,,,,4.125
+Duaw Fwak Cannyon,dualflak,2,,1400,400,,150,,10,60,12,,,,FRAGMENTATION,50,,0,0.333333,1,,0,10,2,10,,700,,,30,,,PD,"pd15, SR, remnant, rare_bp, merc, ind",,,,Point Defense (Awea),,,,,,,,,,4.25
+Assauwt Chaingun,chaingun,1,,1000,450,,75,,3,30,10,,,,HIGH_EXPLOSIVE,60,,0,0.15,1,,0,20,1,10,,800,,,30,,,,"he15, SR, lowtech_bp, midline_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,4.5
+Heavy Myauwew,heavymauler,3,0.3,2000,1000,,200,,10,20,12,,,,HIGH_EXPLOSIVE,200,,0,4.4,3,0.3,0,5,1,10,,900,,,30,,,,"he16, LR, remnant, rare_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,4.75
+Heavy Autocannyon,heavyac,1,,1000,800,,100,,10,7,10,,,,KINETIC,90,,0,1,3,0.2,0,18,3,10,,800,,,30,,,,"kinetic14, lowtech_bp, merc, ind",,,,Anti Shiewd,,,,,,,,,,5
+Hypewvewocity Dwivew,hveldriver,3,0.3,2250,1000,,275,400,40,10,13,,,,KINETIC,350,,0,2,1,,,,,,,1000,,,300,,,,"kinetic15, LR, remnant, rare_bp, merc, ind",,,,Anti Shiewd,,,,,,,,,,5.5
+Heavy Nyeedwew,heavyneedler,3,0.3,2500,700,,50,,1,15,15,,,,KINETIC,40,,0,4.55,30,0.05,1,10,0.5,5,,1200,,,10,,,,"kinetic15, remnant, rare_bp, hist1t, merc, ind",,,,Anti Shiewd,,,,,,,,,,5.75
+Gauss Cannyon,gauss,3,,5000,1200,,700,,300,3,25,,,,KINETIC,1200,,1,1,,,,,,,,1200,,,400,,,,"kinetic20, LR, remnant, rare_bp, hist1t, merc, ind",,,,Anti Shiewd,,,,,,,,,,6
+Hephaestus Assauwt Gun,hephag,1,,4000,900,,120,,5,20,20,,,,HIGH_EXPLOSIVE,110,,0,0.25,1,,0,5,1,5,,800,,,50,,,,"he18, lowtech_bp, midline_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,7
+Myawk IX Autocannyon,mark9,0,,3000,900,,200,,20,10,18,,,,KINETIC,200,,0,2,4,0.1,0,15,2,10,,800,,,100,,,,"kinetic18, base_bp, merc, ind",,,,Anti Shiewd,,,,,,,,,,7.25
+Devastatow Cannyon,devastator,1,,3500,900,,150,,40,12,20,,,,HIGH_EXPLOSIVE,75,,0,2,12,0.1,5,30,5,5,,700,,,100,,,"PD,PD_ALSO","he16, pd17, lowtech_bp, merc, ind",,,,Anti Fightew (Awea),,,,,"Each sheww has a fuse set to expwode at a wandom distance, wesuwting in a bawwage that's incweasingwy myowe deadwy at cwosew wanges.
+
+Wiww tawget myissiwes if nyo othew tawgets awe in wange.",,,,,7.4
+Mjownyiw Cannyon,mjolnir,2,0.4,6000,900,,400,200,10,25,24,,,,ENERGY,500,,0,0.75,1,,0,5,1,10,,900,,,75,,,,"energy18, he17, kinetic17, remnant, rare_bp, hist1t, merc, ind",,,,Genyewaw,,,,,,,,,,7.5
+Hewwbowe Cannyon,hellbore,0,,3000,900,,750,,200,5,16,,,,HIGH_EXPLOSIVE,750,,0,3,1,,0,10,5,10,,500,,,400,,,,"he18, lowtech_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,8
+Stowm Nyeedwew,multineedler,3,0.4,6500,700,,50,,20,15,28,60,10,30,KINETIC,35,,0,0.05,1,,0,5,0.25,5,,1200,,,20,,,,"kinetic19, remnant, rare_bp, hist1t, merc, ind",,,,Anti Shiewd,,,,,,,,,,8.5
+Weapew-cwass Towpedo,reaper,1,,200,1200,,4000,,75,10,2,1,,,HIGH_EXPLOSIVE,0,,0,5,1,,0,0,0,0,,400,100,3.5,500,,,STRIKE,"strike8, rocket3, missile_bp, merc, ind",,,,Towpedo,Fast,Nyonye,,,,,,,TRUE,9
+Atwopos-cwass Towpedo Wack,atropos,2,0.5,600,1200,,1000,,40,10,3,2,,,HIGH_EXPLOSIVE,0,,0,1,1,,0,0,0,0,,400,150,4,300,,,GUIDED_POOR,"strike9, missile1, missile_bp, merc, ind, reload_3pt",,,,Towpedo,Fast,Good,,,,,,,TRUE,9.5
+Atwopos-cwass Towpedo (Singwe),atropos_single,2,0.5,300,1200,,1000,,40,10,1,1,,,HIGH_EXPLOSIVE,0,,0,1,1,,0,0,0,0,,400,150,4,300,,,GUIDED_POOR,"strike7, missile0, base_bp, ind, reload_1_and_a_half_pt",,,,Towpedo,Fast,Good,,,,,,,TRUE,9.75
+Hammyew-cwass Towpedo,hammer,0,,150,1200,,1500,,30,10,2,2,,,HIGH_EXPLOSIVE,0,,0,1,1,,0,0,0,0,,500,40,4,350,,,STRIKE,"strike6, rocket2, base_bp, ind",,,,Towpedo,Fast,Nyonye,,,,,,,TRUE,9.8
+Hammyew-cwass Towpedo (Singwe),hammer_single,0,,75,1200,,1500,,30,10,1,1,,,HIGH_EXPLOSIVE,0,,0,1,1,,0,0,0,0,,500,40,4,350,,,STRIKE,"strike5, rocket1, base_bp, ind",,,,Towpedo,Fast,Nyonye,,,,,,,TRUE,9.9
+Swawmyew SWM Waunchew,swarmer,1,,250,1000,,100,,15,50,3,80,,,HIGH_EXPLOSIVE,0,,0,5,4,0.2,0,0,0,0,,300,100,5,50,,,"ANTI_FTR, DO_NOT_AIM, DO_NOT_CONSERVE","utility8, missile0, missile_bp, merc, ind",,,,Anti Smyaww Cwaft,Fast,Excewwent,,,,,,,,10
+Swawmyew SWM Waunchew,swarmer_fighter,1,,250,1000,,100,,5,50,4,2,0.075,,HIGH_EXPLOSIVE,0,,0,5,2,0.2,0,0,0,0,,300,100,5,50,,,"ANTI_FTR, DO_NOT_AIM, SYSTEM,DO_NOT_CONSERVE","utility8, missile0",,,,Anti Smyaww Cwaft,Fast,Excewwent,,,,,,,,10
+Annyihiwatow Wocket Waunchew,annihilator,0,,150,1500,,200,,5,30,4,50,,,HIGH_EXPLOSIVE,0,,0,5,5,0.2,0,0,0,0,,400,50,3.75,50,,,CONSERVE_1,"rocket7, strike0, missile_bp, merc, ind",,,,Anti Awmyow,Fast,Nyonye,,,,,,,,11
+Annyihiwatow Wocket Pod,annihilator_fighter,0,,150,1500,,200,,5,30,4,5,,,HIGH_EXPLOSIVE,0,,0,0.1,1,,0,30,15,10,,400,50,3.75,50,,,SYSTEM,"rocket13, strike8",,,,Anti Awmyow,Fast,Nyonye,,,,,,,,11.1
+Sawamyandew MWM,heatseeker,1,,225,2000,,100,1500,15,30,3,,,,FRAGMENTATION,0,,0,25,1,,0,0,0,,,400,50,15,150,,,"DO_NOT_AIM, HEATSEEKER","utility13, missile0, missile_bp, merc, ind",,,,Anti Enginye,Fast,Excewwent,,,,,,,TRUE,11.25
+Hawpoon MWM,harpoon,1,,200,2500,,750,,15,30,4,3,,,HIGH_EXPLOSIVE,0,,0,1,1,,0,0,0,,,300,100,12.5,150,,,DO_NOT_AIM,"missile8, strike3, missile_bp, merc, ind",,,,Finyishew,Myedium,Myedium,,,,,,,TRUE,11.5
+Hawpoon MWM (Doubwe),harpoon_single,0,,100,2500,,750,,15,30,2,2,,,HIGH_EXPLOSIVE,0,,0,10,1,,0,0,0,,,300,100,12.5,150,,,DO_NOT_AIM,"missile6, strike1, base_bp, ind",,,,Finyishew,Myedium,Myedium,,,,,,,TRUE,11.6125
+Bweach SWM,breach,1,,200,1500,,150,,15,10,3,15,,,HIGH_EXPLOSIVE,0,,0,9,3,0.5,0,0,0,,,400,50,5,450,,,"DO_NOT_AIM, CONSERVE_ALL, CONSERVE_FOR_ANTI_ARMOR, DIRECT_AIM, MISSILE_SPREAD","missile7, base_bp, merc, ind",,,,Anti Awmyow,Fast,Good,,,Each myissiwe deaws an additionyaw %s damyage to awmyow. This damyage is nyot weduced by awmyow.,250,,,TRUE,11.7
+Sabot SWM,sabot,1,,200,1200,,100,,15,30,4,3,,,KINETIC,0,,0,1,1,,0,0,0,0,,150,50,8,300,,,GUIDED_POOR,"missile8, strike2, missile_bp, merc, ind",,,,Anti Shiewd,Swow,Poow,,,"Submyunyition hits on huww ow awmyow have a %s chance to awc to weapons and enginyes, deawing %s EMP damyage.",25% | 200,,,TRUE,11.75
+Sabot SWM (Doubwe),sabot_single,0,,100,1200,,100,,15,30,2,2,,,KINETIC,0,,0,10,1,,0,0,0,0,,150,50,8,300,,,GUIDED_POOR,"missile6, strike0, base_bp, ind",,,,Anti Shiewd,Swow,Poow,,,"Submyunyition hits on huww ow awmyow have a %s chance to awc to weapons and enginyes, deawing %s EMP damyage.",25% | 200,,,TRUE,11.85
+Sabot SWM (Singwe),sabot_fighter,0,,100,1200,,100,,15,30,1,1,,,KINETIC,0,,0,1,1,,0,0,0,0,,150,50,8,300,,,"GUIDED_POOR, SYSTEM","missile6, strike0",,,,Anti Shiewd,Swow,Poow,,,"Submyunyition hits on huww ow awmyow have a %s chance to awc to weapons and enginyes, deawing %s EMP damyage.",25% | 200,,,TRUE,11.85
+Gowgon DEM SWM,gorgon,1,,250,1500,,800,,15,30,4,4,,,ENERGY,0,,0,4,1,,0,0,0,0,,300,75,6,250,,,DO_NOT_AIM,"missile8, strike4, merc, rare_bp, damage_special, damage_soft_flux",,,,Assauwt / Finyishew,Myedium,Good,,,"The myissiwe fiwes a high-powewed wasew when it gets nyeaw the tawget, deawing appwoximyatewy %s enyewgy damyage in a showt buwst. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.",800,,,TRUE,11.9
+Gowgon - Paywoad,gorgon_payload,1,,0,700,800,,,,30,0,,,,ENERGY,0,,0.05,0.25,0.9,0.5,,,,,1000000,,,,,,,"SYSTEM, DANGEROUS",fires_one_burst,,,,,,,,,,,,,,11.91
+Gazew DEM SWM,gazer,2,,250,1200,,200,,15,30,4,6,,,KINETIC,0,,0,15,1,,0,0,0,0,,150,25,5,250,,,DO_NOT_AIM,"missile6, merc, rare_bp, damage_special, damage_soft_flux",,,,Suppwession,Swow,Good,,,"The myissiwe fiwes a gwaviton beam at the tawget, deawing appwoximyatewy %s kinyetic damyage ovew the couwse of %s seconds. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.",1000 | 10,,,TRUE,11.94
+Gazew - Paywoad,gazer_payload,2,,0,1000,100,,,20,30,0,,,,KINETIC,0,,0.1,0.1,10,0.5,,,,,2400,,,,,,,SYSTEM,,,,,,,,,,,,,,,11.95
+Hawpoon MWM Pod,harpoonpod,1,,1200,2500,,750,,15,10,10,12,,,HIGH_EXPLOSIVE,0,,0,8.25,4,0.25,0,0,0,,,300,100,12.5,150,,,DO_NOT_AIM,"missile12, strike9, missile_bp, merc, ind",,,,Finyishew,Myedium,Myedium,,,,,,,TRUE,12
+Dwagonfiwe DEM Towpedo,dragon,2,,2000,2000,,4000,,15,20,12,2,,,ENERGY,0,,0,10,1,,0,0,0,0,,150,0,12,600,,,"GUIDED_POOR, STRIKE","strike8, missile3, merc, rare_bp, damage_special, damage_soft_flux",,,,Towpedo,Swow,Good,,,"The myissiwe fiwes a high-powewed wasew when it gets nyeaw the tawget, deawing appwoximyatewy %s enyewgy damyage in a showt buwst. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.",4000,,,TRUE,12.11
+Dwagonfiwe - Paywoad,dragon_payload,2,,0,1000,8000,,,,20,0,,,,ENERGY,0,,0,0.75,0.25,0.5,,,,,1000000,,,,,,,"SYSTEM, DANGEROUS",fires_one_burst,,,,,,,,,,,,,,12.12
+Gowgon SWM Pod,gorgonpod,1,,1300,1500,,800,,15,10,10,12,,,ENERGY,0,,0,9.5,2,0.5,0,0,0,0,,300,75,6,250,,,DO_NOT_AIM,"missile12, strike9, merc, rare_bp, damage_special, damage_soft_flux",,,,Assauwt / Finyishew,Myedium,Good,,,"Each myissiwe fiwes a high-powewed wasew when it gets nyeaw the tawget, deawing appwoximyatewy %s enyewgy damyage in a showt buwst. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.",800,,,TRUE,12.2
+Gazew SWM Pod,gazerpod,2,,1300,1200,,200,,15,10,9,18,,,KINETIC,0,,0,14.5,2,0.5,0,0,0,0,,150,25,5,250,,,DO_NOT_AIM,"missile12, merc, rare_bp, damage_special, damage_soft_flux",,,,Suppwession,Swow,Good,,,"Each myissiwe fiwes a gwaviton beam at the tawget, deawing appwoximyatewy %s kinyetic damyage ovew the couwse of %s seconds. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.",1000 | 10,,,TRUE,12.21
+Bweach SWM Pod,breachpod,1,,1200,1500,,150,,15,10,10,50,,,HIGH_EXPLOSIVE,0,,0,9,5,0.25,0,0,0,,,400,50,5,450,,,"DO_NOT_AIM, CONSERVE_ALL, CONSERVE_FOR_ANTI_ARMOR, DIRECT_AIM, MISSILE_SPREAD","missile13, rare_bp, merc, ind",,,,Anti Awmyow,Fast,Good,,,Each myissiwe deaws an additionyaw %s damyage to awmyow. This damyage is nyot weduced by awmyow.,250,,,TRUE,12.25
+Sabot SWM Pod,sabotpod,1,,1200,1200,,100,,15,10,10,12,,,KINETIC,0,,0,8.75,2,0.25,0,0,0,0,,150,50,8,300,,,GUIDED_POOR,"missile13, strike8, rare_bp, merc, ind",,,,Anti Shiewd,Swow,Poow,,,"Submyunyition hits on huww ow awmyow have a %s chance to awc to weapons and enginyes, deawing %s EMP damyage.",25% | 200,,,TRUE,12.31
+Sawamyandew MWM Pod,salamanderpod,1,,1200,2000,,100,1500,15,10,6,,,,FRAGMENTATION,0,,0,25,2,0.25,0,0,0,,,400,50,15,150,,,"DO_NOT_AIM, HEATSEEKER","utility13, missile_bp, merc, ind",,,,Anti Enginye,Fast,Excewwent,,,,,,,TRUE,12.32
+Annyihiwatow Wocket Pod,annihilatorpod,0,,1200,1500,,200,,5,30,10,100,,,HIGH_EXPLOSIVE,0,,0,0.5,1,,0,0,0,0,,400,50,3.75,50,,,,"rocket13, strike8, missile_bp, merc, ind",,,,Pwessuwe,Fast,Nyonye,,,,,,,,12.33
+Piwum WWM Waunchew,pilum,0,,900,4000,,500,500,25,10,7,30,0.1,,FRAGMENTATION,0,,0,15,3,0.4,0,0,0,0,,125,100,30,150,,,"DO_NOT_AIM, CONSERVE_1","utility13, missile7, missile_bp, merc, ind",,,,Wong Wange Suppowt,Vewy Swow,Vewy Poow,,,"Second-stage hits on shiewds have a chance to awc thwough to weapons and enginyes, deawing %s EMP damyage. The chance to piewce the shiewds is based on the tawget's hawd fwux wevew.",500,,,,12.5
+Pwoximyity Chawge Waunchew,phasecl,2,,1500,1000,,500,,25,30,12,50,,,HIGH_EXPLOSIVE,0,,0,2,1,,20,20,0,0,,100,400,4,500,,,ANTI_FTR,"utility8, rare_bp, merc, ind",,,,Pwessuwe / Anti Fightew,Vewy Swow,Nyonye,,,"Nyot affected by myissiwe speed, accewewation, and fwight timye myodifiews.",,,,TRUE,13
+Pwoximyity Chawge Waunchew,phasecl_bomber,2,,1500,2000,,500,,25,30,12,6,,,HIGH_EXPLOSIVE,0,,0,1.5,1,,0,0,0,0,,100,200,12,500,,,"SYSTEM,STRIKE,BOMB",utility8,,,,Stwike,Vewy Swow,Nyonye,,,,,,,TRUE,13.5
+Jackhammyew,jackhammer,0,,1000,1200,,1500,,30,20,6,6,,,HIGH_EXPLOSIVE,0,,0,9.5,3,0.25,10,10,0,0,,500,40,4,350,,,STRIKE,"strike10, rocket5, ind, missile_bp, merc",,,,Towpedo,Fast,Nyonye,,,,,,,TRUE,13.75
+Typhoon Weapew Waunchew,typhoon,1,,1200,1200,,4000,,75,20,10,6,,,HIGH_EXPLOSIVE,0,,0,15,1,,0,0,0,0,,400,100,3.5,500,,,STRIKE,"strike13, rocket8, missile_bp, merc, ind",,,,Towpedo,Fast,Nyonye,,,,,,,TRUE,14
+Cycwonye Weapew Waunchew,cyclone,2,,5000,1200,,4000,,75,20,26,14,,,HIGH_EXPLOSIVE,0,,0,14.75,2,0.25,0,0,0,0,,400,400,3.5,500,,,STRIKE,"strike18, rocket14, rare_bp, merc, ind",,,,Towpedo,Fast,Nyonye,,,A boostew system accewewates the towpedo to its top speed befowe it weaves the waunch tube.,,,,TRUE,15
+Piwum WWM Catapuwt,pilum_large,1,,1500,4000,,500,500,25,10,14,30,0.33333,6,FRAGMENTATION,0,,0,9,6,0.2,0,0,0,0,,125,200,30,150,,,"DO_NOT_AIM, DO_NOT_CONSERVE","utility15, missile14, rare_bp, merc, ind",,,,Wong Wange Suppowt,Vewy Swow,Vewy Poow,,,"Second-stage hits on shiewds have a chance to awc thwough to weapons and enginyes, deawing %s EMP damyage. The chance to piewce the shiewds is based on the tawget's hawd fwux wevew.",500,,,,15.5
+Huwwicanye MyIWV Waunchew,hurricane,1,,4500,2500,,500,,50,10,25,10,,,HIGH_EXPLOSIVE,0,,0,15,1,,0,0,0,0,,250,50,12,350,,,"DO_NOT_AIM, CONSERVE_5","missile18, strike15, rare_bp, hist1t, merc, ind",,,,Finyishew,Myedium,Good,,,,,,,TRUE,16
+Dwagonfiwe Towpedo Pod,dragonpod,2,,7000,2000,,4000,,15,20,28,5,,,ENERGY,0,,0,15,1,,0,0,0,0,,150,0,12,600,,,"GUIDED_POOR, STRIKE","strike8, missile3, merc, rare_bp, damage_special, damage_soft_flux",,,,Towpedo,Swow,Good,,,"The myissiwe fiwes a high-powewed wasew when it gets nyeaw the tawget, deawing appwoximyatewy %s enyewgy damyage in a showt buwst. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.",4000,,,TRUE,16.01
+Hydwa MDEM Waunchew,hydra,2,,5000,2500,,1500,,50,10,20,15,,,ENERGY,,,0,10,1,,0,0,0,0,,300,75,7,400,,,"DO_NOT_AIM, CONSERVE_5","missile18, strike10, rare_bp, merc, damage_special, damage_soft_flux",,,,Genyewaw,Myedium,Excewwent,,,The myissiwe spwits into %s submyunyitions which twy to fwank the tawget. Each onye then fiwes a high-powewed wasew deawing appwoximyatewy %s enyewgy damyage in a showt buwst. This damyage is affected by myissiwe damyage myodifiews and nyot enyewgy weapon onyes.,6 | 500,,,TRUE,16.05
+Hydwa - Paywoad,hydra_payload,2,,0,700,500,,,,30,0,,,,ENERGY,0,,0.05,0.25,0.9,0.5,,,,,1000000,,,,,,,SYSTEM,,,,,,,,,,,,,,,16.06
+Squaww MWWS,squall,2,,4000,2500,,100,,15,20,20,160,,,KINETIC,0,,0,10,20,0.5,0,0,0,0,,600,100,4.75,150,,,"DO_NOT_AIM, CONSERVE_3, STRIKE, USE_VS_FRIGATES, MISSILE_SPREAD","missile19, strike15, rare_bp, merc, ind",,,,Suppwession,Vewy Fast,Speciaw,,,"Unguided aftew a bwief inyitiaw aimying stage. When impacting shiewds, a wesonyatow unyit activates to incwease the base damyage by %s.",150,,,,16.2
+Wocust SWM Waunchew,locust,1,,4000,1400,,200,,5,30,18,600,,,FRAGMENTATION,0,,0,5,30,0.1,0,0,0,0,,400,100,6,60,,,"ANTI_FTR, DO_NOT_AIM, DO_NOT_CONSERVE","utility18, missile15, rare_bp, hist1t, merc, ind",,,,Anti Smyaww Cwaft,Fast,Excewwent,,,,,,,,16.3
+Hammyew Bawwage,hammerrack,0,,1250,1200,,1500,,30,10,16,20,,,HIGH_EXPLOSIVE,0,,0,5,4,0.15,0,0,0,0,,500,40,4,350,,,STRIKE,"strike16, rocket14, missile_bp, merc, ind",,,,Towpedo,Fast,Nyonye,,,,,,,TRUE,16.4
+Myinying Wasew,mininglaser,0,,100,600,30,,,0,80,1,,,,ENERGY,,10,0,0.25,,,,,,,2400,,,,,,,PD,"beam0, energy0, pd0, base_bp, ind",,,,Point Defense,,,,,,,,,,16.5
+PD Wasew,pdlaser,1,,200,400,75,,,0,100,4,,,,ENERGY,,40,0,0.25,,,,,,,2400,,,,,,,PD,"pd7, beam7, SR, hightech_bp, midline_bp, merc, ind",,,,Point Defense,,,,,,,,,,17
+Tacticaw Wasew,taclaser,1,,200,1000,75,,,0,20,4,,,,ENERGY,,60,0.1,0.1,,,,,,,2400,,,,,,,,"beam9, LR, hightech_bp, midline_bp, merc, ind",,,,Genyewaw,,,,,,,,,,18
+Ion Cannyon,ioncannon,2,,500,500,,25,400,0,40,6,,,,ENERGY,30,,0.5,0,,,,,,,,1000,,,,,,,"energy8, hightech_bp, merc, ind",,,,Suppwession,,,,,"Hits on huww ow awmyow have a %s chance to awc to weapons and enginyes, deawing extwa damyage equaw to the owiginyaw hit.",25%,,,,19
+Ion Cannyon (High Deway),ioncannon_fighter,2,,500,500,,25,400,0,40,6,,,,ENERGY,30,,0.5,0.5,,,,,,,,1000,,,,,,SYSTEM,energy8,,,,Suppwession,,,,,,,,,,19.1
+IW Puwse Wasew,irpulse,1,,250,500,,50,,0,50,5,,,,ENERGY,40,,0.333333,0,,,,,,,,1000,,,,,,,"energy8, hightech_bp, merc, ind",,,,Genyewaw,,,,,,,,,,19.25
+IW Puwse Wasew (High Deway),irpulse_fighter,1,,250,500,,50,,0,50,5,,,,ENERGY,50,,0.333333,0.333333,,,,,,,,1000,,,,,,SYSTEM,energy8,,,,Genyewaw,,,,,,,,,,19.3
+WW PD Wasew,lrpdlaser,2,,400,800,50,,,0,100,4,,,,ENERGY,,30,0,0.25,,,,,,,3600,,,,,,,PD,"pd7, beam5, hightech_bp, midline_bp, merc, ind",,,,Point Defense,,,,,,,,,,19.5
+Buwst PD Wasew,pdburst,2,,600,500,350,,,0,100,6,4,0.5,,ENERGY,,200,0.1,0.1,0.3,0.1,,,,,10000,,,,,,,"PD,ANTI_FTR","pd9, beam6, rare_bp, merc, ind",,,,Point Defense,,,,,,,,,,19.6
+Buwst PD Wasew (High Deway),pdburst_fighter,2,,600,500,110,,,0,100,6,4,0.5,,ENERGY,,100,0.1,0.1,0.8,0.1,,,,,10000,,,,,,,"PD,ANTI_FTR,SYSTEM","pd9, beam6",,,,Point Defense,,,,,,,,,,19.7
+Antimyattew Bwastew,amblaster,3,0.7,900,400,,1400,,0,30,9,20,,,ENERGY,1500,,0.25,10,,,0,0,0,0,,1000,,,100,,,"STRIKE, USE_VS_FRIGATES, GROUP_ALTERNATING","strike10, rare_bp, hist1t, merc, ind",SR_strike_only,,,Stwike,,,,,,,,,,19.75
+Phase Wance,phasebeam,1,,1500,600,1000,,,0,20,10,,,,ENERGY,,800,0.25,0.5,1,4,,,,,3200,,,,,,,,"energy14, beam10, rare_bp, merc, ind",,,,Genyewaw,,,,,,,,,,20
+Gwaviton Beam,gravitonbeam,2,,1500,1000,100,,,10,15,9,,,,KINETIC,,75,0.1,0.1,,,,,,,2400,,,,,,,,"beam12, kinetic11, LR, hightech_bp, midline_bp, merc, ind",,,,Suppwession,,,,,"Diswupts the tawget's shiewds, incweasing aww shiewd damyage taken by %s fow onye fuww-powew gwaviton beam, %s fow two, and %s fow thwee ow myowe hitting the shiewds at the samye timye.",5% | 8% | 10%,Gwavitic effects swow and push tawget off-couwse. The effect is myinyow and is myost nyoticeabwe vs fightews and myissiwes.,,,21
+IW Autowance,irautolance,1,,1200,1000,500,,,0,50,8,40,2,10,FRAGMENTATION,,150,0,0,0.1,0,,,,,1000000,,,,,,,USE_LESS_VS_SHIELDS,"beam12, energy10, rare_bp, merc",,,,Genyewaw,,,,,,,,,,21.5
+Puwse Wasew,pulselaser,1,,1200,600,,100,,0,20,10,,,,ENERGY,80,,0.333333,0,,,,,,,,1000,,,,,,,"energy13, base_bp, merc, ind",,,,Genyewaw,,,,,,,,,,22
+Myinying Bwastew,miningblaster,0,,1000,500,,200,,0,7,10,4,0.5,,HIGH_EXPLOSIVE,300,,0,0.2,,,,,,,,1000,,,,,,USE_LESS_VS_SHIELDS,"energy12, base_bp, ind",,,,Genyewaw,,,,,Each bowt deaws an additionyaw %s damyage to awmyow. This damyage is nyot weduced by awmyow.,100,,,,22.125
+Heavy Bwastew,heavyblaster,2,,2500,600,,500,,0,15,12,,,,ENERGY,720,,0,1,,,,,,,,1000,,,,,,,"energy14, rare_bp, hist1t, merc, ind",,,,Genyewaw,,,,,,,,,,22.25
+Kinyetic Bwastew,kineticblaster,3,,5000,600,,250,,0,15,12,,,,KINETIC,375,,0,1,,,,,,,,1400,,,,,,,"kinetic11, no_sell, no_dealer, no_drop_salvage",,,,Anti Shiewd,,,,,,,,,,22.35
+Heavy Buwst Wasew,heavyburst,2,,2000,600,450,,,0,40,9,6,0.5,,ENERGY,,300,0.1,0.1,0.3,0.1,,,,,10000,,,,,,,"PD,ANTI_FTR","pd15, beam10, rare_bp, merc, ind",,,,Point Defense,,,,,,,,,,22.5
+Ion Puwsew,ionpulser,2,0.6,2250,500,,90,600,0,20,11,20,2,3,ENERGY,100,,0.05,0.05,3,0.1,3,20,1,4,,1000,,,,,,,"energy13, rare_bp, merc, ind",,,,Suppwession,,,,,"Hits on huww ow awmyow have a %s chance to awc to weapons and enginyes, deawing extwa damyage equaw to the owiginyaw hit.",25%,,,,22.75
+Ion Beam,ionbeam,3,0.5,2500,1000,50,,400,0,15,12,,,,ENERGY,,150,0.1,0.1,,,,,,,2400,,,,,,,FIRE_WHEN_INEFFICIENT,"beam14, LR, rare_bp, hist1t, merc, ind",,,,Suppwession,,,,,"Hits on huww ow awmyow pewiodicawwy awc to weapons and enginyes, deawing extwa EMP and enyewgy damyage. Hits on shiewds have a chance to genyewate a shiewd-penyetwating awc based on the tawget's hawd fwux wevew.",,,,,22.85
+Pwasmya Cannyon,plasma,3,,7500,700,,500,,,20,30,,,,ENERGY,550,,0.33,1.01,3,0.33,,,,,,750,,,500,,,"STRIKE, USE_VS_FRIGATES","energy20, rare_bp, hist1t, merc, ind",,,,Genyewaw,,,,,The tawgeting system is incapabwe of twacking fightews when on wocaw/automyatic contwow.,,,,,23
+High Intensity Wasew,hil,1,,4500,1000,500,,,0,5,20,,,,HIGH_EXPLOSIVE,,400,0.1,0.1,,,,,,,2400,,,,,,,,"beam20, LR, hightech_bp, merc, ind",,,,Anti Awmyow,,,,,,,,,,24
+Autopuwse Wasew,autopulse,1,,4500,700,,150,,0,20,20,30,2,,ENERGY,125,,0.05,0.05,1,,0,10,1,5,,1000,,,,,,,"energy18, hightech_bp, merc, ind",,,,Genyewaw,,,,,,,,,,25
+Pawadin PD System,guardian,2,0.5,5000,750,1000,,,0,75,18,20,1,,ENERGY,,750,0,0,0.2,0.1,,,,,1000000,,,,,,,"PD, ANTI_FTR","pd19, beam15, rare_bp, merc, ind",,,,Point Defense,,,,,"When aww sub-beams impact a tawget in cwose pwoximyity to each othew, the spawwing effect pwoduces an expwosion that deaws up to 100 points of fwagmyentation damyage to othew nyeawby tawgets.",100 | fwagmyentation,,,,26
+Tachyon Wance,tachyonlance,3,0.5,8000,1000,1500,,1000,0,7,25,,,,ENERGY,,2000,0.5,1,1,4,,,,,10000,,,,,,,FIRE_WHEN_INEFFICIENT,"energy20, beam15, LR, rare_bp, hist1t, merc, ind",,,,Suppwession,,,,,"Hits on huww ow awmyow fwequentwy awc to weapons and enginyes, deawing extwa EMP and enyewgy damyage. Hits on shiewds have a chance to genyewate a shiewd-penyetwating awc based on the tawget's hawd fwux wevew.",,,,,27
+Gigacannyon,gigacannon,3,,10000,700,,2000,,0,5,25,,,,ENERGY,1500,,1,9,,,0,0,0,0,,1000,,,,,,"STRIKE, USE_VS_FRIGATES, GROUP_ALTERNATING","strike18, no_sell, no_dealer, no_drop_salvage",,,,Stwike,,,,,,,,,,28
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Myinyipuwsew,minipulser,3,,25000,500,,50,,1,50,8,20,2,10,KINETIC,50,,0.05,0.05,,,0,5,1,15,,1000,,,,,,,"kinetic9, omega, restricted",,Unknown,,Anti Shiewd,,,,,,,,,,0.5
+Shock Wepeatew,shockrepeater,3,,20000,300,,50,200,0,100,7,,,,ENERGY,25,,0,0.5,1,,,,,,,10000,,,,,25,PD,"pd14, omega, restricted",,Unknown,,Point Defense,,,,Pewfect,Fiwes an EMP awc at the nyeawest tawget cwose to the weapon's cuwwent facing. The awc awways hits.,,,,,19.25
+Wift Wance,riftlance,3,,30000,600,1000,,,0,20,9,,,,ENERGY,,1000,0.125,0.25,0.5,2,,,,,3200,,,,,,,,"energy11, beam10, omega, restricted",,Unknown,,Genyewaw,,,,,,,,,,29.1
+Wift Wance Myinyewayew,riftlance_minelayer,0,,,,,500,,25,,,,,,ENERGY,0,,,,1,,,,,,,0,0,20,1000,,,SYSTEM,,,Unknown,,,,,,,,,,,,38.5
+Wift Beam,riftbeam,3,,100000,600,150,,,0,100,15,,,,ENERGY,,150,0.1,0.1,,,,,,,2400,,,,,,,PD,"beam10, pd15, omega, restricted",,Unknown,,Point Defense,,,,,"Cweates space-timye wifts awong the beam wength, tawgeted at nyeawby enyemy myissiwes and fightews. Each wift deaws up to %s enyewgy damyage to nyeawby tawgets.",200,,,,21
+Wift Beam Myinyewayew,riftbeam_minelayer,0,,,,,200,,25,,,,,,ENERGY,0,,,,1,,,,,,,0,0,20,1000,,,SYSTEM,,,Unknown,,,,,,,,,,,,38.5
+Cwyofwamyew,cryoflux,3,,100000,400,,75,,3,60,15,120,6,60,ENERGY,50,,,0.05,2,0.05,0,0,0,0,,500,,,,,,,"energy15, SR, omega, restricted",,Unknown,,Genyewaw,,,,,,,,,,
+Cwyobwastew,cryoblaster,3,,100000,600,,1400,,50,20,16,,,,FRAGMENTATION,500,,0,1,,,0,0,0,0,,750,,,,,,,"energy15, omega, restricted",,Unknown,,Genyewaw,,,,,,,,,,22.25
+Disintegwatow,disintegrator,3,,100000,700,,100,,25,20,14,,,,HIGH_EXPLOSIVE,200,,0,2,3,0.2,4,4,,,,700,,,,,,,"he18, omega, restricted",,Unknown,,Anti Awmyow,,,,Spwead Pattewn,Each shot deaws an additionyaw 500 damyage to awmyow ovew 20 seconds. This damyage is nyot weduced by awmyow.,500 | 20,,,,22.25
+Wift Cascade Emyittew,riftcascade,3,,200000,1000,1000,,,0,7,30,,,,ENERGY,,3000,0.5,1,1,4,,,,,10000,,,,,,,,"energy22, beam17, LR, omega, restricted",,Unknown,,Genyewaw,,,,,"Cweates space-timye wifts on impact. Myowe wifts awe spawnyed when the beam is fiwed at showt wange. Each wift deaws between %s and %s enyewgy damyage to nyeawby tawgets, with successive wifts deawing myowe damyage.",750 | 1250,,,,29.1
+Wift Cascade Emyittew Myinyewayew,riftcascade_minelayer,0,,,,,1000,,25,,,,,,ENERGY,0,,,,1,,,,,,,0,0,20,1000,,,SYSTEM,,,Unknown,,,,,,,,,,,,38.5
+Vowatiwe Pawticwe Dwivew,vpdriver,3,,200000,1000,,150,,10,20,30,30,3,15,KINETIC,100,,0.05,0.05,1,,0,10,1,10,,1000,,,,,,,"kinetic20, omega, restricted",,Unknown,,Anti Shiewd,,,,,Shots myay wose cohesion and dissowve. %s of the shots weach hawf the myaximyum wange and %s of the shots weach fuww wange.,100% | 50%,,,,25
+Weawity Diswuptow,realitydisruptor,3,,250000,1000,,25,1500,10,5,30,,,,ENERGY,2000,,1,9,,,,,,,,200,0,100,10000,,,,"energy22, LR, omega, restricted",,Unknown,,Suppwession,,,,,"Pwojectiwe fiwes EMP awcs at nyeawby enyemy tawgets whiwe twavewing. The damyage shown is fow the EMP awcs, the pwojectiwe itsewf does nyot deaw damyage and wiww pass ovew ships. Weapon and enginye wepaiws take %s wongew fow %s seconds on affected ships.",2{x} | 10,,,TRUE,25
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Antimyattew SWM Waunchew,amsrm,3,,40000,1200,,1000,,15,50,7,3,0.05,,ENERGY,1000,,0,0.5,1,,0,0,0,0,,1000,200,3,250,,,"DO_NOT_AIM, DO_NOT_CONSERVE","utility8, missile9, strike7, omega, restricted",,Unknown,,Anti Smyaww Cwaft,Extwemyewy Fast,Excewwent,,,,,,,TRUE,10
+Wesonyatow MWM Waunchew,resonatormrm,3,,100000,2500,,250,,15,20,16,8,0.4,4,KINETIC,50,,0,1.25,4,0.25,0,0,0,,,400,200,10,250,,,"DO_NOT_AIM, DO_NOT_CONSERVE","missile15, strike11, omega, restricted",,Unknown,,Anti Shiewd,Fast,Excewwent,,,,,,,,12
+Wift Towpedo Waunchew,rifttorpedo,3,,500000,2000,,6000,,75,10,30,1,0.05,,ENERGY,3000,,0,1,1,,0,0,0,0,,200,100,15,3000,,,"STRIKE, DO_NOT_AIM","strike20, missile20, omega, restricted",,Unknown,,Guided Towpedo,Swow,Excewwent,,,,,,,TRUE,9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32
+Intewdictow Beam,interdictorbeam,2,,1000,700,0,,,100,15,5,,,,ENERGY,,100,0.5,1,,,,,,,2400,,,,,,,SYSTEM,,,,,,,,,,,,,,,33
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35
+Canyistew Fwak,canister_flak,,,,200,,200,,,,,,0,,HIGH_EXPLOSIVE,0,0,0,0.1,5,0.5,150,150,0,0,,50,200,2,100,,,SYSTEM,,,,,,,,,,,,,,,35.5
+Fwawe Waunchew 1,flarelauncher1,,,,400,,10,100,,,,,0,,ENERGY,0,0,0,0.1,10,0.1,60,60,0,0,,150,300,3,1,,,SYSTEM,,,,,,,,,,,,,,,36
+Decoy Fwawe Waunchew,flarelauncher2,,,,200,,10,0,,,,,0,,ENERGY,0,0,0,0.1,3,0.4,30,30,0,0,,200,100,5,500,,,SYSTEM,,,,,,,,,,,,,,,37
+Decoy Fwawe Waunchew (Singwe),flarelauncher21,,,,200,,10,0,,,,,0,,ENERGY,0,0,0,0.1,1,,30,30,0,0,,200,100,5,500,,,SYSTEM,,,,,,,,,,,,,,,37
+Seekew Fwawe Waunchew,flarelauncher3,,,,500,,10,400,,,,,0,,ENERGY,0,0,0,0.1,3,0.1,90,90,0,0,,400,200,7,1,,,SYSTEM,,,,,,,,,,,,,,,38
+Myote Waunchew,motelauncher,,,,500,,1,1500,,,,,0,,ENERGY,0,0,0,0.1,1,,30,30,0,0,,400,200,10000,500,,,SYSTEM,,,,,,,,,,,,,,,38.25
+Myote Waunchew,motelauncher_hf,,,,500,,300,1500,,,,,0,,ENERGY,0,0,0,0.1,1,,30,30,0,0,,400,200,10000,500,,,SYSTEM,,,,,,,,,,,,,,,38.26
+Myinyewayew,minelayer1,0,,200000,1000,,2000,,25,30,12,30,,,HIGH_EXPLOSIVE,0,,0,3,1,,0,0,0,0,,50,50,20,500,,,SYSTEM,,,,,,,,,,,,,,,38.5
+Heavy Myinyewayew,minelayer2,0,,200000,1000,,2000,,25,30,12,30,,,HIGH_EXPLOSIVE,0,,0,3,1,,0,0,0,0,,50,50,20,500,,,SYSTEM,,,,,,,,,,,,,,,38.7
+Owion Device Bomb Waunchew,od_bomblauncher,0,,200000,1000,,500,,25,30,12,30,,,HIGH_EXPLOSIVE,0,,0,3,1,,0,0,0,0,,50,50,1,10000,,,SYSTEM,,,,,,,,,,,,,,,38.8
+Nyova Buwst Bomb Waunchew,nb_bomblauncher,0,,200000,1000,,500,,25,30,12,30,,,ENERGY,0,,0,3,1,,0,0,0,0,,50,50,1,10000,,,SYSTEM,,,,,,,,,,,,,,,38.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Thewmyaw Puwse Cannyon,tpc,0,,100000,1000,,250,,0,0,,20,1,,ENERGY,150,,0,0.2,1,,0,10,2,5,,1000,,,,,,"SYSTEM,SHOW_IN_CODEX",,TPC_only,,,Genyewaw,,,,,,,,,,40
+Tewmyinyatow Myissiwe Convewsion,terminator_missile,3,,0,1500,,1200,600,200,0,0,1,,,ENERGY,0,,0,1,1,,0,0,0,0,,400,0,10,100000,,,"DIRECT_AIM, SYSTEM",restricted,,,,Myissiwe,Fast,Myedium,,,,,,,TRUE,41
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42
+Pushew Pwate (Wow Tech),pusherplate_lt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,pusherplate,,,,,,,,,,,,,,42.5
+"Pushew Pwate (Wow Tech, Smyaww)",pusherplate_lt_small,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,pusherplate,,,,,,,,,,,,,,42.75
+"Pushew Pwate (Wemnyant, Nyova)",pusherplate_nova,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,pusherplate,,,,,,,,,,,,,,42.8
+Sensow Dish,sensordish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,43
+Widaw Dish,lidardish,0,,1,0,100,,,0,200,0,1000,1000,,ENERGY,,0,0.2,0.2,0.35,0,,,,,1000000,,,,,,,SYSTEM,lidar,,,,Speciaw,,,,,,,,,,43.5
+Nyova Wasew,novalaser,0,,1,55,1,,,0,200,0,,,,ENERGY,,0,0.1,0.1,,,,,,,1000000,,,,,,,SYSTEM,"nova, fixed_range",,,,Speciaw,,,,,,,,,,43.75
+Bwinkew Wed,blinker_red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,44
+Bwinkew Gween,blinker_green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,45
+Wights - Buffawo,lights_buffalo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,46
+Wights - Hound,lights_hound,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,47
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48
+Tawgeting Wasew - Wed,targetinglaser1,0,,1,0,1,,,0,200,0,1000,1000,,ENERGY,,0,0.05,0.05,0.1,0.05,,,,,1000000,,,,,,,SYSTEM,,,,,Speciaw,,,,,,,,,,49
+Tawgeting Wasew - Gween,targetinglaser2,0,,1,0,1,,,0,200,0,1000,1000,,ENERGY,,0,0.05,0.05,0.1,0.05,,,,,1000000,,,,,,,SYSTEM,,,,,Speciaw,,,,,,,,,,50
+Tawgeting Wasew - Doubwe Wed Continyuous,targetinglaser3,0,,1,0,100,,,0,200,0,,,,ENERGY,,0,0.05,0.05,,,,,,,1000000,,,,,,,SYSTEM,,,,,Speciaw,,,,,,,,,,51
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,54
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73

@@ -1,0 +1,43 @@
+{
+	"trade":"Myewcantile Convoy",
+	"tradeLiner":"Winyew Convoy",
+	"tradeSmuggler":"Smyuggwer",
+	"smallTrader":"Twader",
+	
+	"patrolSmall":"Fast Picket",
+	"patrolMedium":"Patwol",
+	"patrolLarge":"Detachmyent",
+	
+	"leagueEnforcer":"Enfowcer",
+	"leagueArmada":"Gwand Armyada",
+	"supplyFleet":"Suppwy Fleet",
+	
+	"commerceRaiders":"Commyewce Waiders",
+	"raider":"Waidew",
+	
+	"sacredProtectors":"Sacwed Protectors",
+	
+	"investigators":"Investigatows",
+	
+	"inspectionFleet":"Inspection Fweet",
+	"taskForce":"Task Fowce",
+	
+	"scavengerSmall":"Pwospector",
+	"scavengerMedium":"Scavengew",
+	"scavengerLarge":"Sawvage Fleet",
+	
+	"foodReliefFleet":"Wewief Convoy",
+	
+	"shrinePilgrims":"Wuddic Piwgrims",
+	"academyFleet":"Academy Shuttwe Service",
+	
+	"mercScout":"Myewcenyary Scout",
+	"mercBountyHunter":"Bounty Huntew",
+	"mercPrivateer":"Pwivateer",
+	"mercPatrol":"Myewcenyary Patrol",
+	"mercArmada":"Myewcenyary Company",
+	
+	"battlestation":"Battwestation",
+	
+	#"":"",
+}

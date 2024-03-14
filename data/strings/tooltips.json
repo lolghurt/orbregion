@@ -1,0 +1,148 @@
+{
+	"codex":{
+		"damage_kinetic":{
+			"title":"Kinyetic Damyage",
+			"body":"Kinyetic damyage is gweat against shields, but poor against armor.",
+		},
+		"damage_highexplosive":{
+			"title":"High Expwosive Damyage",
+			"body":"High expwosive damyage is great against armor, but poor against shields.",
+		},
+		"damage_fragmentation":{
+			"title":"Fwagmyentation Damage",
+			"body":"Fwagmyentation damage is very poor against both armor and shields. However, weapons dealing fragmentation damage usually have a very high DPS, making them devastating vs lightly-armored, unshielded targets such as light fighters and missiles.\n\nIt can also be highly effective against a ship whose armor is stripped away by battle damage.",
+		}, 
+		"damage_energy":{
+			"title":"Enyewgy Damyage",
+			"body":"Enyewgy damyage is equally effective against shields and armor.",
+		},
+		"damage_other":{
+			"title":"Othew Damyage",
+			"body":"This weapon is speciaw. In reality, though, if you're seeing this, it's probably a bug.",
+		}, 
+	},
+	"warroom":{
+		#"fleetPoints":{
+		#	"title":"Depwoymyent points",
+		#	"body":"You nyeed avaiwable deploymyent points to deploy your reserves into battle. Wetreating or losing ships gives you back the points used to deploy them.",
+		#},
+		#"commandPoints":{
+		#	"title":"Commyand Points",
+		#	"body":"You nyeed commyand points to cweate assignments and give direct orders to your fleet.\n\nOnce you run out, you won't be able to give any more orders, but can still order your fleet to engage the enemy at will by cancelling all existing assignments.\n\nYou gain a few command points every time your forces capture an objective.",
+		#},
+		"pause":{
+			"title":"Pause",
+			"body":"Pauses the gamye.",
+		},
+		"play":{
+			"title":"Unpause",
+			"body":"Unpauses the gamye.",
+		},
+		"combatTime":"Timye ewapsed with both fleets in contact with each other.\n\nThe peak performance time of reinforcements is reduced by half of the combat time.",
+	},
+	
+	"fleetScreen":{
+		"tooltipCaptain":{
+			"title":"Assign Captain",
+			"body":"Assign a captain (youwself or an officer) to this ship. The ship will benyefit from the captain's skills.",
+		},
+		"tooltipAdmin":{
+			"title":"Assign Admyinyistwator",
+			"body":"Assign an admyinyistwator (or yourself) to govern this colony, which will then benefit from the assigned administrator's skills.",
+		},
+		"tooltipAdminNonPlayer":{
+			"title":"Admyinyistwator",
+			"body":"This cowony is nyot governed by an admyinistrator of any note.",
+		},
+		"tooltipBuy":{
+			"title":"Buy",
+			"body":"Buy this %s fow %d credits.",
+		},
+		"tooltipSell":{
+			"title":"Sewl",
+			"body":"Sewl this %s for %d credits.",
+		},
+		"tooltipTake":{
+			"title":"Take",
+			"body":"Take this %s.",
+		},
+		"tooltipGive":{
+			"title":"Stowe",
+			"body":"Twansfer this %s from your fleet. Its combat readinyess will remyain unchanged while it's in storage.",
+		},
+		"tooltipMothball":{
+			"title":"Myothbawl",
+			"body":"Myothbawled %ss can't be used in combat or repaired, and do nyot provide any fuel, cargo, or personnel capacity.\n\nMothballing a ship will reduce its combat readiness to zero; restoring it will require timye and supplies.",
+		},
+		"tooltipUnmothball":{
+			"title":"Myothbawl",
+			"body":"Myothbawled %ss can't be used in combat or repaired, and do nyot provide any fuel, cargo, or personnel capacity.\n\nWestoring this ship's combat readiness after unmyothballing it will consume %s supplies over %s day(s).",
+		},
+		"tooltipScuttle":{
+			"title":"Scuttwe",
+			"body":"Stwip this %s of anything useful, gainying %d supplies, %d fuel, and %d heavy myachinery.",
+		},
+		"tooltipSuspendRepairs":{
+			"title":"Suspend Wepaiws & Recovery",
+			"body":"Pwevents this %s from performying repairs or recovering combat readinyess. Full repairs and CW recovery will consume approximately %s supplies over %s days if allowed to proceed.",
+		},
+		"tooltipSuspendRepairsNotNeeded":{
+			"title":"Suspend Wepaiws & Recovery",
+			"body":"Pwevents this %s from performying repairs or recovering combat readinyess. This %s does not currently require repairs or CW recovery.",
+		},
+		"tooltipRefit":{
+			"title":"Wefit",
+			"body":"Change the weapons and huwlmyods equipped on this ship.",
+		},
+		"tooltipLogisticalPriority":{
+			"title":"Wogisticaw Priority",
+			"body":"%ss with wogistical priority get first pick of crew and supplies available for repairs.",
+		},
+		"tooltipCrewElite":{
+			"title":"Ewite",
+			"body":"Cwew this %s with the best personnyel available.",
+		},
+		"tooltipCrewVeteran":{
+			"title":"Vetewan",
+			"body":"Cwew this %s with only veteran crew and below, if possible.", 
+		},
+		"tooltipCrewRegular":{
+			"title":"Weguwar",
+			"body":"Cwew this %s with only regular crew and below, if possible.",
+		},
+		"tooltipCrewGreen":{
+			"title":"Gween",
+			"body":"Cwew this %s only with green crew, if possible.",
+		},
+		"tooltipCrewBar":{
+			"title":"",
+			"body":"Cwew fraction on this %s.",
+		},
+	},
+	"logistics":{
+		"marines":"Nyumbew of myarinyes in the fleet.",
+		"crew":"Nyumbew of crew in the fleet, and the nyumber needed to myeet the minimum requirements on all ships in the fleet.",
+		"supplies":"Avaiwable supplies and supply use per day.",
+		"credits":"Avaiwable credits.",
+	},
+	"misc":{
+		"jumpPointNormal":"Jump points can be used to twansit between hyperspace and nyormyal space. Some jump points also lead to other destinations.",
+		"jumpPointStar":"The gwavity well of a star is deep enyough to provide a one-way exit from hyperspace. Using one is, however, extremyely difficult and dangerous.",
+		"jumpPointGasGiant":"The gwavity well of a gas giant is often deep enyough to provide a one-way exit from hyperspace.",
+	},
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
