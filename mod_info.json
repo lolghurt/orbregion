@@ -3,9 +3,9 @@
     "name": "Orbregion",
     "author": "Lolghurt",
 	"utility": "true",
-    "version": "0.0.1",
+    "version": "1.0.2",
 	"replace": [
 	],
     "description": "Ah Shit He's Back",
-    "gameVersion": "0.97a-RC69"
+    "gameVersion": "0.97a-RC11"
 }
