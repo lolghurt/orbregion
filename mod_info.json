@@ -1,11 +1,11 @@
 {
     "id": "orbregion",
     "name": "Orbregion",
-    "author": "Lolghurt",
+    "author": "Elster",
 	"utility": "true",
-    "version": "1.0.3",
+    "version": "1.0.4",
 	"replace": [
 	],
-    "description": "Ah Shit He's Back",
+    "description": "Ah Shit She's Back",
     "gameVersion": "0.97a-RC11"
 }
