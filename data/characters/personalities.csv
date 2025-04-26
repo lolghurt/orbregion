@@ -1,6 +1,6 @@
 id,name,desc,bravery,CAPTURE,PATROL,INTERCEPT,ASSAULT,DEFEND,STRIKE,HARASS,FIRE_SUPPORT,CARRIER_GROUP,CIVILIAN_CRAFT,STRIKE_FORCE,LIGHT_ESCORT,DESTROYER_ESCORT
-timid,Timid,"In combat, this officew wiww attempt to avoid diwect engagemyents if at aww possibwe, even if commyanding a combat vessew.",5,0.5,0.5,0.1,0,1,0,0,3,3,3,1,1,1
-cautious,Cautious,"In combat, this officew wiww pwefew to stay out of enyemy wange, onwy occasionyawwy myoving in if out-wanged by the enyemy.",5,1,0.7,0.3,0.3,2,0.3,0.3,2,2,2,1,1,1
-steady,Steady,"In combat, this officew wiww favow a bawanced appwoach with tactics myatching the cuwwent situation.",5,1,1,1,1,1,1,1,1,1,1,1,1,1
-aggressive,Aggwessive,"In combat, this officew wiww pwefew to engage at a wange that awwows the use of aww of theiw ship's weapons, wiww piwot civiwian ships as if they wewe combat ships, and wiww empwoy any fightews undew theiw commyand aggwessivewy.",5,1.5,1,2,2,0.5,2,2,0.5,0.5,0.5,1,0.5,0.5
-reckless,Weckwess,"In combat, this officew is aggwessive to a fauwt, often diswegawding the safety of theiw ship entiwewy in an effowt to engage the enyemy.",5,1.5,1,2,2,0.5,2,2,0.5,0.5,0.5,1,0.5,0.5
+timid,Timid,"In combat, this officew wiww attempt to avoid diwect engagements if at aww possibwe, even if commanding a combat vessew.",5,0.5,0.5,0.1,0,1,0,0,3,3,3,1,1,1
+cautious,Cautious,"In combat, this officew wiww pwefew to stay out of enemy wange, onwy occasionawwy moving in if out-wanged by the enemy.",5,1,0.7,0.3,0.3,2,0.3,0.3,2,2,2,1,1,1
+steady,Steady,"In combat, this officew wiww favow a bawanced appwoach with tactics matching the cuwwent situation.",5,1,1,1,1,1,1,1,1,1,1,1,1,1
+aggressive,Aggwessive,"In combat, this officew wiww pwefew to engage at a wange that awwows the use of aww of theiw ship's weapons, wiww piwot civiwian ships as if they wewe combat ships, and wiww empwoy any fightews undew theiw command aggwessivewy.",5,1.5,1,2,2,0.5,2,2,0.5,0.5,0.5,1,0.5,0.5
+reckless,Weckwess,"In combat, this officew is aggwessive to a fauwt, often diswegawding the safety of theiw ship entiwewy in an effowt to engage the enemy.",5,1.5,1,2,2,0.5,2,2,0.5,0.5,0.5,1,0.5,0.5

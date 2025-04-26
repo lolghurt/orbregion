@@ -1,5 +1,10 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
-	},
-},				
+	"displayName":"wefugees",
+	"displayNameWithArticle":"the wefugees",
+	"displayNameLong":"wefugees",
+	"displayNameLongWithArticle":"the wefugees",
+	"entityNamePrefix":"wefugee",
+	"personNamePrefix":"wefugee",
+	"displayNameIsOrAre":"awe",
+	"description":"No descwiption yet.",
+},	

@@ -1,13 +1,24 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
+	"displayName":"mewcenawy",
+	"displayNameWithArticle":"mewcenawies",
+	"displayNameLong":"mewcenawies",
+	"displayNameLongWithArticle":"mewcenawies",
+	"personNamePrefix":"mewcenawy",
+	"displayNameIsOrAre":"awe",
+	"fleetTypeNames":{
+		"patrolSmall":"Mewcenawy Squadwon",
+		"patrolMedium":"Mewcenawy Fwotiwwa",
+		"patrolLarge":"Mewcenawy Company",
+		
+		"mercScout":"Mewcenawy Scout",
+		"mercBountyHunter":"Bounty Huntew",
+		"mercPrivateer":"Pwivateew",
+		"mercPatrol":"Mewcenawy Patwow",
+		"mercArmada":"Mewcenawy Fweet",
 	},
-	"portraits":{
-		"standard_male":[
-			"graphics/portraits/orb12.png",
-		],
-		"standard_female":[
-			"graphics/portraits/orb11.png",
-		],
-	},
-},				
+},
+
+
+
+
+

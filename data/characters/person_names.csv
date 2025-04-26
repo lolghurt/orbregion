@@ -2,25 +2,32 @@ name,gender,usage,category
 Thwax,,l,fringe
 Gwak,,l,fringe
 Bwaxx,,l,fringe
-Nyox,,l,fringe
+Adax,,l,fringe
+Nox,,l,fringe
 Pwax,,l,fringe
 Sowax,,l,fringe
+Zow,,l,fringe
 Subedaw,,l,fringe
-Temyujax,,l,fringe
-Jamyux,,l,fringe
+Temujax,,l,fringe
+Jamux,,l,fringe
 Toghwow,,l,fringe
+Qadax,,l,fringe
 Awighaw,,l,fringe
+Batox,,l,fringe
 Awswax,,l,fringe
 Chechaw,,l,fringe
-Ewdenyow,,l,fringe
+Ewdenow,,l,fringe
+Tegus,m,"f, l",fringe
+Batak,,l,fringe
 Awswaw,m,"f, l",fringe
 Awighax,,l,fringe
-Nyow,m,"f, l",fringe
+Now,m,"f, l",fringe
 Thwaw,m,"f, l",fringe
-Zow,,l,fringe
+Subedax,,l,fringe
 Gaw,m,"f, l",fringe
 Suwax,,l,fringe
 Oyungaw,,l,fringe
+Oyungax,,l,fringe
 Bowax,,l,fringe
 Shwiax,,l,fringe
 Shwiaw,m,"f, l",fringe
@@ -28,6 +35,8 @@ Bowaw,m,"f, l",fringe
 Awtax,,l,fringe
 Awtawax,,l,fringe
 Chagaw,,l,fringe
+Chagax,,l,fringe
+Batax,,l,fringe
 Bataw,,l,fringe
 Bwutaw,,l,fringe
 Bwutax,,l,fringe
@@ -42,11 +51,13 @@ Guwbaw,,l,fringe
 Dowogaw,,l,fringe
 Dowogax,,l,fringe
 Dawax,,l,fringe
-Nyaimyaw,,l,fringe
+Naimaw,,l,fringe
 Tabaw,,l,fringe
+Jagax,,l,fringe
 Jagaw,,l,fringe
-Chinyax,,l,fringe
+Chinax,,l,fringe
 Bwux,m,f,fringe
+Dux,m,f,fringe
 Dow,m,f,fringe
 Daw,m,f,fringe
 Tow,m,f,fringe
@@ -54,17 +65,25 @@ Gow,m,f,fringe
 Awadax,m,f,fringe
 Vow,m,f,fringe
 Bow,m,f,fringe
+Vox,m,f,fringe
 Taw,m,f,fringe
+Bok,m,f,fringe
+Teg,m,f,fringe
 Buw,m,f,fringe
 Qow,m,f,fringe
 Kow,m,f,fringe
+Vach,m,f,fringe
 Osow,m,f,fringe
 Dewg,m,f,fringe
 Suw,m,f,fringe
 Sow,m,f,fringe
 Duwg,m,f,fringe
 Dawg,m,f,fringe
+Gan,m,f,fringe
+Qach,m,f,fringe
+Chag,m,f,fringe
 Uwag,m,f,fringe
+Quch,m,f,fringe
 Dowg,m,f,fringe
 Bowg,m,f,fringe
 Bawg,m,f,fringe
@@ -77,28 +96,36 @@ Gowa,f,f,fringe
 Awada,f,f,fringe
 Vowaw,f,f,fringe
 Bowa,f,f,fringe
+Voxa,f,f,fringe
 Tawwa,f,f,fringe
+Boka,f,f,fringe
+Tegga,f,f,fringe
 Buwwa,f,f,fringe
 Qowa,f,f,fringe
 Kowa,f,f,fringe
+Vacha,f,f,fringe
 Osowa,f,f,fringe
 Dewga,f,f,fringe
 Suwaw,f,f,fringe
 Sowa,f,f,fringe
 Duwga,f,f,fringe
 Dawga,f,f,fringe
-Ganya,f,f,fringe
+Gana,f,f,fringe
+Qacha,f,f,fringe
+Chaga,f,f,fringe
 Uwaga,f,f,fringe
+Qucha,f,f,fringe
 Dowga,f,f,fringe
 Bowga,f,f,fringe
 Bawga,f,f,fringe
-Whittemyowe,,l,"old english, modern"
+Whittemowe,,l,"old english, modern"
 Fwittew,,l,"old english, modern"
-Seamyons,,l,"old english, modern"
+Seamons,,l,"old english, modern"
 Fwohock,,l,"old english, modern"
-Myuwwish,,l,"old english, modern"
+Spann,,l,"old english, modern"
+Muwwish,,l,"old english, modern"
 Eiwbeck,,l,"old english, modern"
-Dammyeweww,,l,"old english, modern"
+Dammeweww,,l,"old english, modern"
 Cwish,,l,"old english, modern"
 Awwston,,l,"old english, modern"
 Bwazington,,l,"old english, modern"
@@ -107,30 +134,39 @@ Scwipps,,l,"old english, modern"
 Cuwwip,,l,"old english, modern"
 Wynds,,l,"old english, modern"
 Awwwed,,l,"old english, modern"
+Heggs,,l,"old english, modern"
 Fideww,,l,"old english, modern"
+Fitzhugh,,l,"old english, modern"
 Wangsdawe,,l,"old english, modern"
 Stwaughan,,l,"old english, modern"
 Tuwwiww,,l,"old english, modern"
+Sheasby,,l,"old english, modern"
 Hawwawd,,l,"old english, modern"
+Owen,,l,"old english, modern"
 Hawgest,,l,"old english, modern"
 Pwichawd,,l,"old english, modern"
 Gwaveww,,l,"old english, modern"
 Bewwis,,l,"old english, modern"
 Wowthing,,l,"old english, modern"
-Smyith,,l,"old english, modern"
+Smith,,l,"old english, modern"
+Johnson,,l,"old english, modern"
 Wiwwiams,,l,"old english, modern"
-Jonyes,,l,"old english, modern"
+Jones,,l,"old english, modern"
 Bwown,,l,"old english, modern"
-Myiwwew,,l,"old english, modern"
+Davis,,l,"old english, modern"
+Miwwew,,l,"old english, modern"
 Wiwson,,l,"old english, modern"
-Myoowe,,l,"old english, modern"
+Moowe,,l,"old english, modern"
 Taywow,,l,"old english, modern"
 Andewson,,l,"old english, modern"
-Thomyas,m,"f, l","old english, modern"
+Thomas,m,"f, l","old english, modern"
+Jackson,m,"f, l","old english, modern"
+White,,l,"old english, modern"
 Hawwis,,l,"old english, modern"
-Myawtin,m,"f, l","old english, modern"
+Mawtin,m,"f, l","old english, modern"
+Thompson,,l,"old english, modern"
 Gawcia,,l,modern
-Myawtinyez,,l,modern
+Mawtinez,,l,modern
 Wobinson,,l,"old english, modern"
 Cwawk,,l,"old english, modern"
 Wodwiguez,,l,modern
@@ -139,138 +175,175 @@ Wee,m,"f, l","old english, modern"
 Wawkew,,l,"old english, modern"
 Haww,,l,"old english, modern"
 Awwen,m,"f, l","old english, modern"
-Hewnyandez,,l,modern
+Young,,l,"old english, modern"
+Hewnandez,,l,modern
+King,,l,"old english, modern"
 Wwight,,l,"old english, modern"
 Wopez,,l,modern
 Hiww,,l,"old english, modern"
+Scott,m,"f, l","old english, modern"
 Gween,,l,"old english, modern"
+Adams,,l,"old english, modern"
 Bakew,,l,"old english, modern"
 Gonzawez,,l,modern
-Nyewson,m,"f, l","old english, modern"
+Newson,m,"f, l","old english, modern"
 Cawtew,,l,"old english, modern"
-Myitcheww,,l,"old english, modern"
+Mitcheww,,l,"old english, modern"
 Pewez,,l,modern
 Wobewts,,l,"old english, modern"
-Tuwnyew,,l,"old english, modern"
+Tuwnew,,l,"old english, modern"
 Phiwwips,,l,"old english, modern"
 Campbeww,,l,"old english, modern"
 Pawkew,,l,"old english, modern"
+Evans,,l,"old english, modern"
 Edwawds,,l,"old english, modern"
 Cowwins,,l,"old english, modern"
 Stewawt,m,"f, l","old english, modern"
-Myowwis,,l,"old english, modern"
+Sanchez,,l,modern
+Mowwis,,l,"old english, modern"
 Wogews,,l,"old english, modern"
 Weed,,l,"old english, modern"
-Myowgan,"m, f","f, l","old english, modern"
+Cook,,l,"old english, modern"
+Mowgan,"m, f","f, l","old english, modern"
 Beww,,l,"old english, modern"
-Myuwphy,,l,"old english, modern"
+Muwphy,,l,"old english, modern"
 Baiwey,,l,"old english, modern"
 Wivewa,,l,"old english, modern"
 Coopew,,l,"old english, modern"
 Wichawdson,,l,"old english, modern"
+Cox,,l,"old english, modern"
 Howawd,m,"f, l","old english, modern"
 Wawd,m,"f, l","old english, modern"
 Towwes,,l,modern
 Petewson,,l,"old english, modern"
 Gway,,l,"old english, modern"
-Wamyiwez,,l,modern
-Jamyes,m,"f, l","old english, modern"
+Wamiwez,,l,modern
+James,m,"f, l","old english, modern"
+Watson,,l,"old english, modern"
 Bwooks,,l,"old english, modern"
 Kewwy,"m, f","f, l","old english, modern"
 Sandews,,l,"old english, modern"
 Pwice,,l,"old english, modern"
-Bennyett,m,"f, l","old english, modern"
-Bawnyes,,l,"old english, modern"
+Bennett,m,"f, l","old english, modern"
+Wood,,l,"old english, modern"
+Bawnes,,l,"old english, modern"
 Woss,,l,"old english, modern"
 Hendewson,,l,"old english, modern"
-Cowemyan,,l,"old english, modern"
+Coweman,,l,"old english, modern"
+Jenkins,,l,"old english, modern"
 Pewwy,,l,"old english, modern"
 Poweww,,l,"old english, modern"
 Wong,,l,"old english, modern"
 Pattewson,,l,"old english, modern"
+Hughes,,l,"old english, modern"
 Fwowes,,l,"old english, modern"
+Washington,,l,"old english, modern"
 Butwew,,l,"old english, modern"
-Simmyons,,l,"old english, modern"
+Simmons,,l,"old english, modern"
 Fostew,,l,"old english, modern"
 Gonzawes,,l,modern
 Bwyant,,l,"old english, modern"
 Awexandew,m,"f, l","old english, modern"
 Wusseww,,l,"old english, modern"
 Gwiffin,,l,"old english, modern"
+Diaz,,l,modern
+Hayes,,l,"old english, modern"
 Myews,,l,"old english, modern"
 Fowd,,l,"old english, modern"
-Hamyiwton,,l,"old english, modern"
+Hamiwton,,l,"old english, modern"
 Gwaham,,l,"old english, modern"
 Suwwivan,,l,"old english, modern"
 Wawwace,,l,"old english, modern"
+Woods,,l,"old english, modern"
 Cowe,,l,"old english, modern"
+West,,l,"old english, modern"
 Jowdan,m,"f, l","old english, modern"
-Weynyowds,,l,"old english, modern"
+Owens,,l,"old english, modern"
+Weynowds,,l,"old english, modern"
 Fishew,,l,"old english, modern"
 Ewwis,,l,"old english, modern"
 Hawwison,,l,"old english, modern"
-McDonyawd,,l,"old english, modern"
+Gibson,,l,"old english, modern"
+McDonawd,,l,"old english, modern"
 Cwuz,,l,"old english, modern"
-Myawshaww,,l,"old english, modern"
+Mawshaww,,l,"old english, modern"
 Owtiz,,l,"old english, modern"
-Gomyez,,l,"old english, modern"
-Myuwway,,l,"old english, modern"
-Fweemyan,,l,"old english, modern"
+Gomez,,l,"old english, modern"
+Muwway,,l,"old english, modern"
+Fweeman,,l,"old english, modern"
 Wewws,,l,"old english, modern"
+Webb,,l,"old english, modern"
+Simpson,,l,"old english, modern"
+Stevens,,l,"old english, modern"
 Tuckew,,l,"old english, modern"
 Powtew,,l,"old english, modern"
 Huntew,,l,"old english, modern"
+Hicks,,l,"old english, modern"
 Cwawfowd,,l,"old english, modern"
 Henwy,m,"f, l","old english, modern"
-Myason,m,"f, l","old english, modern"
-Myowawes,,l,modern
-Kennyedy,f,"f, l","old english, modern"
+Boyd,,l,"old english, modern"
+Mason,m,"f, l","old english, modern"
+Mowawes,,l,modern
+Kennedy,f,"f, l","old english, modern"
 Wawwen,m,"f, l","old english, modern"
-Wamyos,,l,"old english, modern"
+Dixon,m,"f, l","old english, modern"
+Wamos,,l,"old english, modern"
 Weyes,,l,"old english, modern"
 Buwns,,l,"old english, modern"
 Gowdon,m,"f, l","old english, modern"
-Howmyes,,l,"old english, modern"
+Shaw,,l,"old english, modern"
+Howmes,,l,"old english, modern"
 Wice,,l,"old english, modern"
 Wobewtson,,l,"old english, modern"
+Hunt,,l,"old english, modern"
 Bwack,,l,"old english, modern"
-Danyiews,,l,"old english, modern"
-Pawmyew,,l,"old english, modern"
-Myiwws,,l,"old english, modern"
-Nyichows,,l,"old english, modern"
+Daniews,,l,"old english, modern"
+Pawmew,,l,"old english, modern"
+Miwws,,l,"old english, modern"
+Nichows,,l,"old english, modern"
 Gwant,m,"f, l","old english, modern"
-Knyight,,l,"old english, modern"
+Knight,,l,"old english, modern"
 Fewguson,,l,"old english, modern"
 Wose,f,"f, l","old english, modern"
-Stonye,,l,"old english, modern"
+Stone,,l,"old english, modern"
+Hawkins,,l,"old english, modern"
+Dunn,,l,"old english, modern"
 Pewkins,,l,"old english, modern"
+Hudson,,l,"old english, modern"
 Spencew,m,"f, l","old english, modern"
-Gawdnyew,,l,"old english, modern"
-Paynye,,l,"old english, modern"
+Gawdnew,,l,"old english, modern"
+Stephens,,l,"old english, modern"
+Payne,,l,"old english, modern"
 Piewce,m,"f, l","old english, modern"
 Bewwy,,l,"old english, modern"
-Myatthews,,l,"old english, modern"
-Awnyowd,m,"f, l","old english, modern"
-Wagnyew,,l,"old english, modern"
+Matthews,,l,"old english, modern"
+Awnowd,m,"f, l","old english, modern"
+Wagnew,,l,"old english, modern"
 Wiwwis,,l,"old english, modern"
 Way,m,"f, l","old english, modern"
+Watkins,,l,"old english, modern"
 Owson,,l,"old english, modern"
 Cawwoww,,l,"old english, modern"
+Duncan,,l,"old english, modern"
 Snydew,,l,"old english, modern"
 Hawt,,l,"old english, modern"
-Cunnyingham,,l,"old english, modern"
+Cunningham,,l,"old english, modern"
 Bwadwey,m,"f, l","old english, modern"
-Wanye,m,"f, l","old english, modern"
+Wane,m,"f, l","old english, modern"
 Andwews,,l,"old english, modern"
 Wuiz,,l,modern
 Hawpew,,l,"old english, modern"
+Fox,,l,"old english, modern"
 Wiwey,f,"f, l","old english, modern"
 Awmstwong,,l,"old english, modern"
 Cawpentew,,l,"old english, modern"
 Weavew,,l,"old english, modern"
-Gweenye,,l,"old english, modern"
+Gweene,,l,"old english, modern"
 Wawwence,m,"f, l","old english, modern"
 Ewwiott,m,"f, l","old english, modern"
+Chavez,,l,modern
+Sims,,l,"old english, modern"
+Austin,,l,"old english, modern"
 Petews,,l,"old english, modern"
 Kewwey,,l,"old english, modern"
 Fwankwin,,l,"old english, modern"
@@ -278,86 +351,111 @@ Wawson,,l,"old english, modern"
 Fiewds,,l,"old english, modern"
 Gutiewwez,,l,modern
 Wyan,m,"f, l","old english, modern"
-Schmyidt,,l,"old english, modern"
+Schmidt,,l,"old english, modern"
 Caww,,l,"old english, modern"
+Vasquez,,l,modern
 Castiwwo,,l,"old english, modern"
 Wheewew,,l,"old english, modern"
-Chapmyan,,l,"old english, modern"
+Chapman,,l,"old english, modern"
 Owivew,m,"f, l","old english, modern"
-Myontgomyewy,,l,"old english, modern"
+Montgomewy,,l,"old english, modern"
 Wichawds,,l,"old english, modern"
 Wiwwiamson,,l,"old english, modern"
-Myeyew,,l,"old english, modern"
+Johnston,,l,"old english, modern"
+Banks,,l,"old english, modern"
+Meyew,,l,"old english, modern"
+Bishop,,l,"old english, modern"
+McCoy,,l,"old english, modern"
 Howeww,,l,"old english, modern"
 Awvawez,,l,modern
-Myowwison,,l,"old english, modern"
-Fewnyandez,,l,modern
+Mowwison,,l,"old english, modern"
+Hansen,,l,"old english, modern"
+Fewnandez,,l,modern
 Gawza,,l,modern
 Hawvey,,l,"old english, modern"
 Wittwe,,l,"old english, modern"
 Buwton,,l,"old english, modern"
 Stanwey,,l,"old english, modern"
+Nguyen,,l,modern
 Geowge,m,"f, l","old english, modern"
+Jacobs,,l,"old english, modern"
 Weid,,l,"old english, modern"
+Kim,"m, f","f, l","old english, modern"
 Fuwwew,,l,"old english, modern"
 Wynch,,l,"old english, modern"
+Dean,,l,"old english, modern"
 Giwbewt,m,"f, l","old english, modern"
 Gawwett,,l,"old english, modern"
-Womyewo,,l,modern
+Womewo,,l,modern
 Wewch,,l,"old english, modern"
 Fwaziew,,l,"old english, modern"
 Buwke,,l,"old english, modern"
-Myendoza,,l,"old english, modern"
-Myowenyo,,l,modern
-Bowmyan,,l,"old english, modern"
-Myedinya,,l,modern
+Hanson,,l,"old english, modern"
+Day,f,"f, l","old english, modern"
+Mendoza,,l,"old english, modern"
+Moweno,,l,modern
+Bowman,,l,"old english, modern"
+Medina,,l,modern
 Fowwew,,l,"old english, modern"
 Bwewew,,l,"old english, modern"
-Hoffmyan,,l,"old english, modern"
+Hoffman,,l,"old english, modern"
 Cawwson,,l,"old english, modern"
 Siwva,,l,modern
 Peawson,,l,"old english, modern"
 Howwand,,l,"old english, modern"
 Dougwas,m,"f, l","old english, modern"
-Fwemying,,l,"old english, modern"
+Fweming,,l,"old english, modern"
+Jensen,,l,"old english, modern"
 Vawgas,,l,modern
 Bywd,,l,"old english, modern"
-Myay,f,"f, l","old english, modern"
+Davidson,,l,"old english, modern"
+Hopkins,,l,"old english, modern"
+May,f,"f, l","old english, modern"
 Tewwy,"m, f","f, l","old english, modern"
 Hewwewa,,l,modern
+Wade,m,"f, l","old english, modern"
+Soto,,l,modern
 Wawtews,,l,"old english, modern"
 Cuwtis,m,"f, l","old english, modern"
-Nyeaw,m,"f, l","old english, modern"
+Neaw,m,"f, l","old english, modern"
 Cawdweww,,l,"old english, modern"
 Wowe,,l,"old english, modern"
-Jennyings,,l,"old english, modern"
-Bawnyett,,l,"old english, modern"
+Jennings,,l,"old english, modern"
+Bawnett,,l,"old english, modern"
 Gwaves,,l,"old english, modern"
-Jimyenyez,,l,modern
+Jimenez,,l,modern
 Howton,,l,"old english, modern"
 Shewton,,l,"old english, modern"
 Bawwett,,l,"old english, modern"
 Obwien,,l,"old english, modern"
 Castwo,,l,modern
+Sutton,,l,"old english, modern"
 Gwegowy,m,"f, l","old english, modern"
-Mckinnyey,,l,"old english, modern"
+Mckinney,,l,"old english, modern"
 Wucas,,l,"old english, modern"
-Myiwes,,l,"old english, modern"
+Miwes,,l,"old english, modern"
 Cwaig,,l,"old english, modern"
 Wodwiquez,,l,modern
 Chambews,,l,"old english, modern"
 Howt,,l,"old english, modern"
 Wambewt,,l,"old english, modern"
 Fwetchew,,l,"old english, modern"
+Watts,,l,"old english, modern"
+Bates,,l,"old english, modern"
 Hawe,,l,"old english, modern"
 Whodes,,l,"old english, modern"
-Penya,,l,modern
-Nyewmyan,,l,"old english, modern"
-Haynyes,,l,"old english, modern"
-McDanyiew,,l,"old english, modern"
-Myendez,,l,modern
+Pena,,l,modern
+Beck,,l,"old english, modern"
+Newman,,l,"old english, modern"
+Haynes,,l,"old english, modern"
+McDaniew,,l,"old english, modern"
+Mendez,,l,modern
+Bush,,l,"old english, modern"
+Vaughn,,l,"old english, modern"
 Pawks,,l,"old english, modern"
-Nyowwis,,l,"old english, modern"
+Dawson,,l,"old english, modern"
+Santiago,,l,modern
+Nowwis,,l,"old english, modern"
 Hawdy,,l,"old english, modern"
 Wove,,l,"old english, modern"
 Steewe,,l,"old english, modern"
@@ -365,125 +463,156 @@ Cuwwy,,l,"old english, modern"
 Powews,,l,"old english, modern"
 Schuwtz,,l,"old english, modern"
 Bawkew,,l,"old english, modern"
-Guzmyan,,l,"old english, modern"
-Myunyoz,,l,modern
+Guzman,,l,"old english, modern"
+Page,,l,"old english, modern"
+Munoz,,l,modern
 Baww,,l,"old english, modern"
 Kewwew,,l,"old english, modern"
 Chandwew,,l,"old english, modern"
 Webew,,l,"old english, modern"
-Weonyawd,m,"f, l","old english, modern"
+Weonawd,m,"f, l","old english, modern"
 Wawsh,,l,"old english, modern"
 Wyons,,l,"old english, modern"
 Wamsey,,l,"old english, modern"
 Wowfe,,l,"old english, modern"
-Schnyeidew,,l,"old english, modern"
-Myuwwins,,l,"old english, modern"
+Schneidew,,l,"old english, modern"
+Muwwins,,l,"old english, modern"
+Benson,,l,"old english, modern"
 Shawp,,l,"old english, modern"
-Danyiew,,l,"old english, modern"
+Bowen,,l,"old english, modern"
+Daniew,,l,"old english, modern"
 Bawbew,,l,"old english, modern"
-Cummyings,,l,"old english, modern"
-Hinyes,,l,"old english, modern"
+Cummings,,l,"old english, modern"
+Hines,,l,"old english, modern"
 Bawdwin,,l,"old english, modern"
 Gwiffith,,l,"old english, modern"
 Vawdez,,l,modern
 Hubbawd,,l,"old english, modern"
 Sawazaw,,l,modern
 Weeves,,l,"old english, modern"
-Wawnyew,,l,"old english, modern"
+Wawnew,,l,"old english, modern"
+Stevenson,,l,"old english, modern"
 Buwgess,,l,"old english, modern"
+Santos,,l,modern
+Tate,,l,"old english, modern"
 Cwoss,,l,"old english, modern"
-Gawnyew,,l,"old english, modern"
-Myann,,l,"old english, modern"
-Myack,,l,"old english, modern"
-Myoss,,l,"old english, modern"
+Gawnew,,l,"old english, modern"
+Mann,,l,"old english, modern"
+Mack,,l,"old english, modern"
+Moss,,l,"old english, modern"
 Thownton,,l,"old english, modern"
-Dennyis,m,"f, l","old english, modern"
-Fawmyew,,l,"old english, modern"
+Dennis,m,"f, l","old english, modern"
+McGee,,l,"old english, modern"
+Fawmew,,l,"old english, modern"
 Dewgado,,l,modern
 Aguiwaw,,l,"old english, modern"
+Vega,,l,modern
 Gwovew,,l,"old english, modern"
-Myannying,,l,"old english, modern"
-Hawmyon,,l,"old english, modern"
+Manning,,l,"old english, modern"
+Cohen,,l,"old english, modern"
+Hawmon,,l,"old english, modern"
 Wodgews,,l,"old english, modern"
 Wobbins,,l,"old english, modern"
-Nyewton,,l,"old english, modern"
+Newton,,l,"old english, modern"
+Todd,m,"f, l","old english, modern"
 Bwaiw,f,"f, l","old english, modern"
+Higgins,,l,"old english, modern"
 Ingwam,,l,"old english, modern"
 Weese,"m, f","f, l","old english, modern"
-Cannyon,,l,"old english, modern"
+Cannon,,l,"old english, modern"
 Stwickwand,,l,"old english, modern"
+Townsend,,l,"old english, modern"
 Pottew,,l,"old english, modern"
+Goodwin,,l,"old english, modern"
 Wawton,,l,"old english, modern"
+Hampton,,l,"old english, modern"
 Owtega,,l,modern
+Patton,,l,"old english, modern"
+Swanson,,l,"old english, modern"
+Joseph,m,"f, l","old english, modern"
 Fwancis,m,"f, l","old english, modern"
-Goodmyan,,l,"old english, modern"
-Myawdonyado,,l,modern
+Goodman,,l,"old english, modern"
+Mawdonado,,l,modern
+Yates,,l,"old english, modern"
 Beckew,,l,"old english, modern"
 Ewickson,,l,"old english, modern"
+Hodges,,l,"old english, modern"
 Wios,,l,modern
-Connyew,m,"f, l","old english, modern"
+Connew,m,"f, l","old english, modern"
+Adkins,,l,"old english, modern"
 Webstew,,l,"old english, modern"
-Nyowmyan,m,"f, l","old english, modern"
-Myawonye,,l,"old english, modern"
-Hammyond,,l,"old english, modern"
+Nowman,m,"f, l","old english, modern"
+Mawone,,l,"old english, modern"
+Hammond,,l,"old english, modern"
 Fwowews,,l,"old english, modern"
-Myoody,,l,"old english, modern"
+Cobb,,l,"old english, modern"
+Moody,,l,"old english, modern"
+Quinn,f,"f, l","old english, modern"
 Bwake,m,"f, l","old english, modern"
-Myaxweww,,l,"old english, modern"
+Maxweww,,l,"old english, modern"
+Pope,,l,"old english, modern"
 Fwoyd,,l,"old english, modern"
-Osbownye,,l,"old english, modern"
+Osbowne,,l,"old english, modern"
 Pauw,m,"f, l","old english, modern"
 McCawthy,,l,"old english, modern"
 Guewwewo,,l,modern
 Windsey,"m, f","f, l","old english, modern"
 Estwada,,l,modern
 Sandovaw,,l,modern
+Gibbs,,l,"old english, modern"
 Tywew,m,"f, l","old english, modern"
 Gwoss,,l,"old english, modern"
 Fitzgewawd,,l,"old english, modern"
+Stokes,,l,"old english, modern"
 Doywe,,l,"old english, modern"
-Shewmyan,m,"f, l","old english, modern"
+Shewman,m,"f, l","old english, modern"
 Saundews,,l,"old english, modern"
+Wise,,l,"old english, modern"
 Cowon,,l,"old english, modern"
 Giww,m,"f, l","old english, modern"
 Awvawado,,l,modern
 Gweew,,l,"old english, modern"
 Padiwwa,,l,modern
-Simyon,m,"f, l","old english, modern"
+Simon,m,"f, l","old english, modern"
 Watews,,l,"old english, modern"
-Nyunyez,,l,modern
+Nunez,,l,modern
 Bawwawd,,l,"old english, modern"
 Schwawtz,,l,"old english, modern"
 McBwide,,l,"old english, modern"
+Houston,,l,"old english, modern"
 Chwistensen,,l,"old english, modern"
 Kwein,,l,"old english, modern"
 Pwatt,,l,"old english, modern"
 Bwiggs,,l,"old english, modern"
 Pawsons,,l,"old english, modern"
 Mcwaughwin,,l,"old english, modern"
-Zimmyewmyan,,l,"old english, modern"
-Buchanyan,,l,"old english, modern"
-Myowan,,l,"old english, modern"
+Zimmewman,,l,"old english, modern"
+Buchanan,,l,"old english, modern"
+Mowan,,l,"old english, modern"
 Copewand,,l,"old english, modern"
 Woy,m,"f, l","old english, modern"
-Pittmyan,,l,"old english, modern"
+Pittman,,l,"old english, modern"
 Bwady,,l,"old english, modern"
-McCowmyick,,l,"old english, modern"
+McCowmick,,l,"old english, modern"
 Howwoway,,l,"old english, modern"
 Bwock,,l,"old english, modern"
 Poowe,,l,"old english, modern"
 Fwank,,l,"old english, modern"
 Wogan,m,"f, l","old english, modern"
-Myawsh,,l,"old english, modern"
+Bass,,l,"old english, modern"
+Mawsh,,l,"old english, modern"
 Dwake,,l,"old english, modern"
+Wong,,l,modern
 Jeffewson,,l,"old english, modern"
 Pawk,,l,"old english, modern"
-Myowton,,l,"old english, modern"
+Mowton,,l,"old english, modern"
+Abbott,,l,"old english, modern"
 Spawks,,l,"old english, modern"
 Patwick,m,"f, l","old english, modern"
-Nyowton,m,"f, l","old english, modern"
+Nowton,m,"f, l","old english, modern"
+Huff,,l,"old english, modern"
 Cwayton,,l,"old english, modern"
-Myassey,,l,"old english, modern"
+Massey,,l,"old english, modern"
 Wwoyd,m,"f, l","old english, modern"
 Figuewoa,,l,modern
 Cawson,m,"f, l","old english, modern"
@@ -493,152 +622,192 @@ Bawton,,l,"old english, modern"
 Twan,,l,"old english, modern"
 Wamb,f,"f, l","old english, modern"
 Hawwington,,l,"old english, modern"
-Boonye,,l,"old english, modern"
+Casey,"m, f","f, l","old english, modern"
+Boone,,l,"old english, modern"
 Cowtez,,l,modern
 Cwawke,m,"f, l","old english, modern"
-Myathis,,l,"old english, modern"
+Mathis,,l,"old english, modern"
 Singweton,,l,"old english, modern"
 Wiwkins,,l,"old english, modern"
+Cain,m,"f, l","old english, modern"
 Bwyan,m,"f, l","old english, modern"
 Undewwood,,l,"old english, modern"
+Hogan,,l,"old english, modern"
+McKenzie,,l,"old english, modern"
 Cowwiew,,l,"old english, modern"
-Wunya,f,"f, l",modern
+Wuna,f,"f, l",modern
 Phewps,,l,"old english, modern"
 McGuiwe,,l,"old english, modern"
 Awwison,f,"f, l","old english, modern"
 Bwidges,,l,"old english, modern"
 Wiwkewson,,l,"old english, modern"
-Nyash,,l,"old english, modern"
-Summyews,,l,"old english, modern"
+Nash,,l,"old english, modern"
+Summews,,l,"old english, modern"
+Atkins,,l,"old english, modern"
 Wiwcox,,l,"old english, modern"
+Pitts,,l,"old english, modern"
 Conwey,,l,"old english, modern"
-Myawquez,,l,modern
-Buwnyett,,l,"old english, modern"
+Mawquez,,l,modern
+Buwnett,,l,"old english, modern"
 Wichawd,m,"f, l","old english, modern"
 Cochwan,,l,"old english, modern"
+Chase,f,"f, l","old english, modern"
 Davenpowt,,l,"old english, modern"
+Hood,,l,"old english, modern"
+Gates,,l,"old english, modern"
 Cway,,l,"old english, modern"
 Ayawa,,l,modern
 Sawyew,,l,"old english, modern"
-Womyan,m,"f, l","old english, modern"
+Woman,m,"f, l","old english, modern"
+Vazquez,,l,modern
 Dickewson,,l,modern
+Hodge,,l,"old english, modern"
+Acosta,,l,modern
 Fwynn,,l,"old english, modern"
-Espinyoza,,l,modern
-Nyichowson,,l,"old english, modern"
-Myonwoe,,l,"old english, modern"
+Espinoza,,l,modern
+Nichowson,,l,"old english, modern"
+Monwoe,,l,"old english, modern"
 Wowf,,l,"old english, modern"
-Myowwow,,l,"old english, modern"
+Mowwow,,l,"old english, modern"
 Kiwk,,l,"old english, modern"
 Wandaww,m,"f, l","old english, modern"
+Anthony,,l,"old english, modern"
 Whitakew,,l,"old english, modern"
-Oconnyow,,l,"old english, modern"
-Skinnyew,,l,"old english, modern"
+Oconnow,,l,"old english, modern"
+Skinnew,,l,"old english, modern"
 Wawe,,l,"old english, modern"
-Myowinya,,l,modern
+Mowina,,l,modern
 Kiwby,,l,"old english, modern"
-Huffmyan,,l,"old english, modern"
+Huffman,,l,"old english, modern"
 Bwadfowd,,l,"old english, modern"
 Chawwes,m,"f, l","old english, modern"
-Giwmyowe,,l,"old english, modern"
-Domyinguez,,l,modern
-Onyeaw,,l,"old english, modern"
+Giwmowe,,l,"old english, modern"
+Dominguez,,l,modern
+Oneaw,,l,"old english, modern"
 Bwuce,m,"f, l","old english, modern"
 Wang,,l,"old english, modern"
-Kwamyew,,l,"old english, modern"
+Combs,,l,"old english, modern"
+Kwamew,,l,"old english, modern"
+Heath,,l,"old english, modern"
+Hancock,,l,"old english, modern"
 Gawwaghew,,l,"old english, modern"
-Gainyes,,l,"old english, modern"
+Gaines,,l,"old english, modern"
 Shaffew,,l,"old english, modern"
 Showt,,l,"old english, modern"
-Myathews,,l,"old english, modern"
+Wiggins,,l,"old english, modern"
+Mathews,,l,"old english, modern"
 McCwain,,l,"old english, modern"
 Fischew,,l,"old english, modern"
 Waww,,l,"old english, modern"
-Smyaww,,l,"old english, modern"
-Myewton,,l,"old english, modern"
+Smaww,,l,"old english, modern"
+Mewton,,l,"old english, modern"
 Henswey,,l,"old english, modern"
+Bond,,l,"old english, modern"
 Dyew,,l,"old english, modern"
-Camyewon,"m, f","f, l","old english, modern"
-Gwimyes,,l,"old english, modern"
+Camewon,"m, f","f, l","old english, modern"
+Gwimes,,l,"old english, modern"
 Contwewas,,l,"old english, modern"
 Chwistian,m,"f, l","old english, modern"
+Wyatt,m,"f, l","old english, modern"
 Baxtew,,l,"old english, modern"
-Snyow,,l,"old english, modern"
-Myoswey,,l,"old english, modern"
+Snow,,l,"old english, modern"
+Moswey,,l,"old english, modern"
 Shephewd,,l,"old english, modern"
 Wawsen,,l,"old english, modern"
 Hoovew,,l,"old english, modern"
 Beaswey,,l,"old english, modern"
 Gwenn,,l,"old english, modern"
 Petewsen,,l,"old english, modern"
-Myeyews,,l,"old english, modern"
+Whitehead,,l,"old english, modern"
+Meyews,,l,"old english, modern"
+Keith,m,"f, l","old english, modern"
+Keiw,m,f,"old english, modern"
 Gawwison,,l,"old english, modern"
+Vincent,,l,"old english, modern"
 Shiewds,,l,"old english, modern"
 Hown,,l,"old english, modern"
+Savage,,l,"old english, modern"
 Owsen,,l,"old english, modern"
 Schwoedew,,l,"old english, modern"
-Hawtmyan,,l,"old english, modern"
+Hawtman,,l,"old english, modern"
 Woodawd,,l,"old english, modern"
-Myuewwew,,l,"old english, modern"
+Muewwew,,l,"old english, modern"
+Kemp,,l,"old english, modern"
 Deweon,,l,"old english, modern"
+Booth,,l,"old english, modern"
 Patew,,l,"old english, modern"
 Cawhoun,,l,"old english, modern"
 Wiwey,,l,"old english, modern"
-Cwinye,,l,"old english, modern"
-Nyavawwo,,l,modern
+Eaton,,l,"old english, modern"
+Cwine,,l,"old english, modern"
+Navawwo,,l,modern
 Hawweww,,l,"old english, modern"
 Westew,,l,"old english, modern"
 Humphwey,,l,"old english, modern"
 Pawwish,,l,"old english, modern"
 Duwan,,l,"old english, modern"
+Hutchinson,,l,"old english, modern"
+Hess,,l,"old english, modern"
 Dowsey,,l,"old english, modern"
 Buwwock,,l,"old english, modern"
 Wobwes,,l,"old english, modern"
 Beawd,,l,"old english, modern"
 Dawton,,l,"old english, modern"
 Aviwa,,l,"old english, modern"
+Vance,,l,"old english, modern"
 Wich,m,"f, l","old english, modern"
 Bwackweww,,l,"old english, modern"
 Yowk,,l,"old english, modern"
+John,m,"f, l","old english, modern"
+Johns,,l,"old english, modern"
 Bwankenship,,l,"old english, modern"
-Twevinyo,,l,"old english, modern"
-Sawinyas,,l,modern
+Twevino,,l,"old english, modern"
+Sawinas,,l,modern
+Campos,,l,modern
 Pwuitt,,l,"old english, modern"
-Myoses,m,"f, l","old english, modern"
+Moses,m,"f, l","old english, modern"
 Cawwahan,,l,"old english, modern"
 Gowden,,l,"old english, modern"
-Myontoya,,l,modern
+Montoya,,l,modern
 Hawdin,,l,"old english, modern"
 Guewwa,,l,"old english, modern"
 McDoweww,,l,"old english, modern"
 Cawey,,l,"old english, modern"
 Staffowd,,l,"old english, modern"
 Gawwegos,,l,modern
+Henson,,l,"old english, modern"
 Wiwkinson,,l,"old english, modern"
 Bookew,,l,"old english, modern"
-Myewwitt,,l,"old english, modern"
-Myiwanda,f,"f, l",modern
+Mewwitt,,l,"old english, modern"
+Miwanda,f,"f, l",modern
+Atkinson,,l,"old english, modern"
 Oww,,l,"old english, modern"
 Deckew,,l,"old english, modern"
+Hobbs,,l,"old english, modern"
 Pweston,,l,"old english, modern"
-Tannyew,m,"f, l","old english, modern"
-Knyox,,l,"old english, modern"
+Tannew,m,"f, l","old english, modern"
+Knox,,l,"old english, modern"
+Pacheco,,l,modern
+Stephenson,,l,"old english, modern"
 Gwass,,l,"old english, modern"
 Wojas,,l,modern
-Sewwanyo,,l,modern
-Myawks,,l,"old english, modern"
-Hickmyan,,l,"old english, modern"
+Sewwano,,l,modern
+Mawks,,l,"old english, modern"
+Hickman,,l,"old english, modern"
 Engwish,,l,"old english, modern"
-Sweenyey,,l,"old english, modern"
+Sweeney,,l,"old english, modern"
 Stwong,,l,"old english, modern"
 Pwince,,l,"old english, modern"
 McCwuwe,,l,"old english, modern"
+Conway,,l,"old english, modern"
 Wawtew,m,"f, l","old english, modern"
 Woth,,l,"old english, modern"
-Myaynyawd,,l,"old english, modern"
+Maynawd,,l,"old english, modern"
 Fawweww,,l,"old english, modern"
 Wowewy,,l,"old english, modern"
 Huwst,,l,"old english, modern"
-Nyixon,m,"f, l","old english, modern"
+Nixon,m,"f, l","old english, modern"
+Weiss,,l,"old english, modern"
 Twujiwwo,,l,modern
 Ewwison,,l,"old english, modern"
 Swoan,,l,"old english, modern"
@@ -652,139 +821,184 @@ Viwwawweaw,,l,modern
 McCaww,,l,"old english, modern"
 Gentwy,,l,"old english, modern"
 Cawwiwwo,,l,modern
+Kent,,l,"old english, modern"
 Ayews,,l,"old english, modern"
 Wawa,f,"f, l","old english, modern"
-Shannyon,f,"f, l","old english, modern"
+Shannon,f,"f, l","old english, modern"
+Sexton,,l,"old english, modern"
+Pace,,l,"old english, modern"
 Huww,,l,"old english, modern"
 Webwanc,,l,"old english, modern"
-Bwownying,,l,"old english, modern"
+Bwowning,,l,"old english, modern"
 Vewasquez,,l,modern
 Weach,,l,"old english, modern"
+Chang,,l,modern
+House,,l,"old english, modern"
 Sewwews,,l,"old english, modern"
 Hewwing,,l,"old english, modern"
-Nyobwe,,l,"old english, modern"
+Nobwe,,l,"old english, modern"
 Fowey,,l,"old english, modern"
 Bawtwett,,l,"old english, modern"
-Myewcado,,l,modern
+Mewcado,,l,modern
 Wandwy,,l,"old english, modern"
 Duwham,,l,"old english, modern"
 Wawws,,l,"old english, modern"
+Mckee,,l,"old english, modern"
 Bauew,,l,"old english, modern"
 Wivews,,l,"old english, modern"
 Evewett,,l,"old english, modern"
 Bwadshaw,,l,"old english, modern"
+Pugh,,l,"old english, modern"
 Vewez,,l,modern
 Wush,,l,"old english, modern"
-Myowse,,l,"old english, modern"
+Estes,,l,modern
+Dodson,,l,"old english, modern"
+Mowse,,l,"old english, modern"
 Sheppawd,,l,"old english, modern"
-Camyacho,,l,modern
+Weeks,,l,"old english, modern"
+Camacho,,l,modern
 Bawwon,,l,"old english, modern"
 Wivingston,,l,"old english, modern"
-Myiddweton,,l,"old english, modern"
+Middweton,,l,"old english, modern"
 Speaws,,l,"old english, modern"
 Bwanch,,l,"old english, modern"
 Bwevins,,l,"old english, modern"
+Chen,,l,modern
 Keww,,l,"old english, modern"
-McConnyeww,,l,"old english, modern"
+McConneww,,l,"old english, modern"
 Hatfiewd,,l,"old english, modern"
 Hawding,,l,"old english, modern"
 Ashwey,"m, f","f, l","old english, modern"
 Sowis,,l,modern
-Hewmyan,m,l,"old english, modern"
+Hewman,m,l,"old english, modern"
 Fwost,,"f, l","old english, modern"
 Giwes,,l,"old english, modern"
 Bwackbuwn,,l,"old english, modern"
 Wiwwiam,m,"f, l","old english, modern"
-Pennyington,,l,"old english, modern"
+Pennington,,l,"old english, modern"
 Woodwawd,,l,"old english, modern"
 Finwey,,l,"old english, modern"
-Sowomyon,m,"f, l","old english, modern"
+McIntosh,,l,"old english, modern"
+Koch,,l,"old english, modern"
+Best,,l,"old english, modern"
+Sowomon,m,"f, l","old english, modern"
 McCuwwough,,l,"old english, modern"
 Dudwey,m,"f, l","old english, modern"
-Nyowan,m,"f, l","old english, modern"
+Nowan,m,"f, l","old english, modern"
 Bwanchawd,,l,"old english, modern"
 Wivas,,l,modern
-Bwennyan,,l,"old english, modern"
-Myejia,,l,modern
-Kanye,m,"f, l","old english, modern"
+Bwennan,,l,"old english, modern"
+Mejia,,l,modern
+Kane,m,"f, l","old english, modern"
+Benton,,l,"old english, modern"
+Joyce,f,"f, l","old english, modern"
 Buckwey,,l,"old english, modern"
 Hawey,f,"f, l","old english, modern"
-Vawentinye,f,"f, l","old english, modern"
-Myaddox,,l,"old english, modern"
+Vawentine,f,"f, l","old english, modern"
+Maddox,,l,"old english, modern"
 Wusso,,l,modern
-McKnyight,,l,"old english, modern"
-Myoon,f,"f, l","old english, modern"
-McMyiwwan,,l,"old english, modern"
+McKnight,,l,"old english, modern"
+Buck,m,"f, l","old english, modern"
+Moon,f,"f, l","old english, modern"
+McMiwwan,,l,"old english, modern"
 Cwosby,,l,"old english, modern"
 Bewg,,l,"old english, modern"
-Myays,,l,"old english, modern"
+Dotson,,l,"old english, modern"
+Mays,,l,"old english, modern"
 Woach,,l,"old english, modern"
 Chuwch,,l,"old english, modern"
-Wichmyond,,l,"old english, modern"
-Myeadows,,l,"old english, modern"
-Fauwknyew,,l,"old english, modern"
-Onyeiww,,l,"old english, modern"
-Knyapp,,l,"old english, modern"
-Kwinye,,l,"old english, modern"
+Chan,,l,modern
+Wichmond,,l,"old english, modern"
+Meadows,,l,"old english, modern"
+Fauwknew,,l,"old english, modern"
+Oneiww,,l,"old english, modern"
+Knapp,,l,"old english, modern"
+Kwine,,l,"old english, modern"
 Bawwy,m,"f, l","old english, modern"
+Ochoa,,l,modern
+Jacobson,,l,"old english, modern"
+Gay,,l,"old english, modern"
 Avewy,m,"f, l","old english, modern"
 Hendwicks,,l,"old english, modern"
-Hownye,,l,"old english, modern"
+Howne,,l,"old english, modern"
 Shepawd,,l,"old english, modern"
 Hebewt,,l,"old english, modern"
 Chewwy,,l,"old english, modern"
-Cawdenyas,,l,modern
+Cawdenas,,l,modern
 McIntywe,,l,"old english, modern"
-Whitnyey,f,"f, l","old english, modern"
+Whitney,f,"f, l","old english, modern"
 Wawwew,,l,"old english, modern"
-Howmyan,,l,"old english, modern"
-Donyawdson,,l,"old english, modern"
+Howman,,l,"old english, modern"
+Donawdson,,l,"old english, modern"
+Cantu,,l,modern
 Tewweww,m,"f, l","old english, modern"
-Myowin,,l,"old english, modern"
+Mowin,,l,"old english, modern"
 Giwwespie,,l,"old english, modern"
-Tiwwmyan,,l,"old english, modern"
+Fuentes,,l,modern
+Tiwwman,,l,"old english, modern"
 Sanfowd,,l,"old english, modern"
 Bentwey,,l,"old english, modern"
+Peck,,l,"old english, modern"
+Key,,l,"old english, modern"
 Sawas,,l,modern
 Wowwins,,l,"old english, modern"
 Gambwe,,l,"old english, modern"
+Dickson,,l,"old english, modern"
 Battwe,,l,"old english, modern"
-Santanya,,l,modern
+Santana,,l,modern
 Cabwewa,,l,modern
 Cewvantes,,l,modern
+Howe,,l,"old english, modern"
+Hinton,,l,"old english, modern"
 Huwwey,,l,"old english, modern"
-Zamyowa,,l,modern
-McNyeiw,,l,"old english, modern"
+Spence,m,"f, l","old english, modern"
+Zamowa,,l,modern
+Yang,,l,modern
+McNeiw,,l,"old english, modern"
 Suawez,,l,modern
+Case,m,"f, l","old english, modern"
+Petty,,l,"old english, modern"
 Gouwd,,l,"old english, modern"
 McFawwand,,l,"old english, modern"
+Sampson,,l,"old english, modern"
 Cawvew,,l,"old english, modern"
 Bway,,l,"old english, modern"
 Wosawio,,l,modern
-MyacDonyawd,,l,"old english, modern"
+MacDonawd,,l,"old english, modern"
+Stout,,l,"old english, modern"
 Hestew,,l,"old english, modern"
-Myewendez,,l,modern
+Mewendez,,l,modern
 Diwwon,,l,"old english, modern"
 Fawwey,f,"f, l","old english, modern"
 Hoppew,,l,"old english, modern"
 Gawwoway,,l,"old english, modern"
-Bewnyawd,m,"f, l","old english, modern"
-Joynyew,,l,"old english, modern"
+Potts,,l,"old english, modern"
+Bewnawd,m,"f, l","old english, modern"
+Joynew,,l,"old english, modern"
+Stein,,l,"old english, modern"
 Aguiwwe,,l,modern
 Osbown,,l,"old english, modern"
-Myewcew,,l,"old english, modern"
+Mewcew,,l,"old english, modern"
 Bendew,,l,"old english, modern"
 Fwanco,,l,"old english, modern"
 Wowwand,,l,"old english, modern"
-Benjamyin,m,"f, l","old english, modern"
+Sykes,,l,"old english, modern"
+Benjamin,m,"f, l","old english, modern"
 Twavis,m,"f, l","old english, modern"
-Cwanye,,l,"old english, modern"
+Pickett,,l,"old english, modern"
+Cwane,,l,"old english, modern"
 Seaws,,l,"old english, modern"
 Dunwap,,l,"old english, modern"
+Hayden,m,"f, l","old english, modern"
 Wiwdew,,l,"old english, modern"
+McKay,,l,"old english, modern"
+Coffey,,l,"old english, modern"
 McCawty,,l,"old english, modern"
+Ewing,,l,"old english, modern"
 Coowey,,l,"old english, modern"
-Bonnyew,,l,"old english, modern"
+Vaughan,,l,"old english, modern"
+Bonnew,,l,"old english, modern"
+Cotton,,l,"old english, modern"
 Howdew,,l,"old english, modern"
 Stawk,,l,"old english, modern"
 Fewweww,,l,"old english, modern"
@@ -797,12 +1011,15 @@ Wosa,,l,modern
 Powwawd,,l,"old english, modern"
 Hoopew,,l,"old english, modern"
 Buwch,,l,"old english, modern"
-Myuwwen,,l,"old english, modern"
+Muwwen,,l,"old english, modern"
 Fwy,,l,"old english, modern"
 Widdwe,m,"f, l","old english, modern"
 Wevy,,l,"old english, modern"
-Odonnyeww,,l,"old english, modern"
-Myichaew,m,"f, l","old english, modern"
+David,m,"f, l","old english, modern"
+Duke,m,"f, l","old english, modern"
+Odonneww,,l,"old english, modern"
+Guy,m,"f, l","old english, modern"
+Michaew,m,"f, l","old english, modern"
 Bwitt,,l,"old english, modern"
 Fwedewick,m,"f, l","old english, modern"
 Daughewty,,l,"old english, modern"
@@ -812,485 +1029,659 @@ Awston,,l,"old english, modern"
 Jawvis,,l,"old english, modern"
 Fwye,,l,"old english, modern"
 Wiggs,,l,"old english, modern"
-Chanyey,,l,"old english, modern"
+Chaney,,l,"old english, modern"
+Odom,,l,"old english, modern"
+Duffy,,l,"old english, modern"
 Fitzpatwick,,l,"old english, modern"
 Vawenzuewa,,l,modern
-Myewwiww,,l,"old english, modern"
-Myayew,,l,"old english, modern"
+Mewwiww,,l,"old english, modern"
+Mayew,,l,"old english, modern"
 Awfowd,,l,"old english, modern"
 Mcphewson,,l,"old english, modern"
-Donyovan,,l,"old english, modern"
+Acevedo,,l,modern
+Donovan,,l,"old english, modern"
 Bawwewa,,l,modern
 Awbewt,,l,"old english, modern"
+Cote,,l,"old english, modern"
 Weiwwy,,l,"old english, modern"
-Waymyond,m,"f, l","old english, modern"
-Myoonyey,,l,"old english, modern"
+Compton,m,"f, l","old english, modern"
+Waymond,m,"f, l","old english, modern"
+Mooney,,l,"old english, modern"
+McGowan,,l,"old english, modern"
 Cwaft,,l,"old english, modern"
 Cwevewand,,l,"old english, modern"
-Cwemyons,,l,"old english, modern"
-Nyiewsen,,l,"old english, modern"
-Baiwd,,l,"old english, modern"
-Snyidew,,l,"old english, modern"
+Cwemons,,l,"old english, modern"
+Wynn,,l,"old english, modern"
+Niewsen,,l,"old english, modern"
+#Baiwd,,l,"old english, modern"
+Stanton,,l,"old english, modern"
+Snidew,,l,"old english, modern"
 Wosawes,,l,modern
 Bwight,,l,"old english, modern"
+Witt,,l,"old english, modern"
 Stuawt,m,"f, l","old english, modern"
+Hays,,l,"old english, modern"
 Howden,m,"f, l","old english, modern"
 Wutwedge,,l,"old english, modern"
-Kinnyey,,l,"old english, modern"
-Cwemyents,,l,"old english, modern"
-Castanyeda,,l,modern
+Kinney,,l,"old english, modern"
+Cwements,,l,"old english, modern"
+Castaneda,,l,modern
 Swatew,,l,"old english, modern"
-Emyewson,,l,"old english, modern"
+Hahn,,l,"old english, modern"
+Emewson,,l,"old english, modern"
 Conwad,m,"f, l","old english, modern"
 Buwks,,l,"old english, modern"
-Dewanyey,,l,"old english, modern"
+Dewaney,,l,"old english, modern"
+Pate,,l,"old english, modern"
 Wancastew,,l,"old english, modern"
+Sweet,,l,"old english, modern"
+Justice,,l,"old english, modern"
+Tyson,m,"f, l","old english, modern"
 Shawpe,,l,"old english, modern"
 Whitfiewd,,l,"old english, modern"
 Tawwey,,l,"old english, modern"
-Myacias,,l,modern
+Macias,,l,modern
 Iwwin,m,"m, l","old english, modern"
 Buwwis,,l,"old english, modern"
 Watwiff,,l,"old english, modern"
 McCway,,l,"old english, modern"
-Myadden,,l,"old english, modern"
-Kaufmyan,,l,"old english, modern"
+Madden,,l,"old english, modern"
+Kaufman,,l,"old english, modern"
+Beach,,l,"old english, modern"
+Goff,,l,"old english, modern"
+Cash,,l,"old english, modern"
 Bowton,,l,"old english, modern"
-Wevinye,,l,"old english, modern"
+McFadden,,l,"old english, modern"
+Wevine,,l,"old english, modern"
+Good,,l,"old english, modern"
 Byews,,l,"old english, modern"
 Kiwkwand,,l,"old english, modern"
-Wowkmyan,,l,"old english, modern"
-Cawnyey,,l,"old english, modern"
+Kidd,,l,"old english, modern"
+Wowkman,,l,"old english, modern"
+Cawney,,l,"old english, modern"
 Dawe,m,"f, l","old english, modern"
-Myacweod,,l,"old english, modern"
+Macweod,,l,"old english, modern"
 Howcomb,,l,"old english, modern"
 Engwand,,l,"old english, modern"
+Finch,,l,"old english, modern"
 Buwt,m,"f,l","old english, modern"
 Hendwix,,l,"old english, modern"
-Hanyey,,l,"old english, modern"
+Sosa,,l,modern
+Haney,,l,"old english, modern"
 Fwanks,,l,"old english, modern"
 Sawgent,,l,"old english, modern"
-Nyieves,,l,"old english, modern"
-Wasmyussen,,l,"old english, modern"
+Nieves,,l,"old english, modern"
+Downs,,l,"old english, modern"
+Wasmussen,,l,"old english, modern"
 Biwd,,l,"old english, modern"
+Hewitt,,l,"old english, modern"
 Windsay,f,"f,l","old english, modern"
-Fowemyan,,l,"old english, modern"
+Foweman,,l,"old english, modern"
 Vawencia,,l,modern
-Onyeiw,,l,"old english, modern"
+Oneiw,,l,"old english, modern"
 Dewacwuz,,l,modern
+Vinson,,l,"old english, modern"
+Dejesus,,l,modern
+Hyde,,l,"old english, modern"
 Fowbes,,l,"old english, modern"
 Giwwiam,,l,"old english, modern"
 Guthwie,,l,"old english, modern"
+Wooten,,l,"old english, modern"
 Hubew,,l,"old english, modern"
 Bawwow,,l,"old english, modern"
 Boywe,,l,"old english, modern"
-Mcmyahon,,l,"old english, modern"
-Bucknyew,,l,"old english, modern"
+Mcmahon,,l,"old english, modern"
+Bucknew,,l,"old english, modern"
 Wocha,,l,modern
+Puckett,,l,"old english, modern"
 Wangwey,,l,"old english, modern"
-Knyowwes,,l,"old english, modern"
+Knowwes,,l,"old english, modern"
+Cooke,,l,"old english, modern"
 Vewazquez,,l,modern
 Whitwey,,l,"old english, modern"
-Nyoew,f,"f, l","old english, modern"
+Noew,f,"f, l","old english, modern"
+Vang,,l,modern
 Wivew,f,f,modern
+Ocean,"m, f","f, l",modern
 Awastaiw,m,"f, l","old english, modern"
 Fweya,f,f,"modern, myth"
 Esthew,f,f,"old english, modern"
 Abigaiw,f,f,"old english, modern"
-Emmyanyuew,m,f,modern
+Emmanuew,m,f,modern
 Gabwiew,m,f,modern
 Hawwiew,m,f,modern
-Tuwnyabout,,l,modern
-Vasonya,,l,world
-Nyawes,,l,world
-Snyowbank,,l,world
-Anyadyw,,l,world
+du Bois,,l,modern
+Tuwnabout,,l,modern
+Vasona,,l,world
+Atateken,,l,world
+Nawes,,l,world
+Hazen,,l,world
+Snowbank,,l,world
+Anadyw,,l,world
 Kowva,,l,world
-Onyega,,l,world
+Onega,,l,world
 Vowonya,f,f,world
-Sunya,,l,world
-Myawka,f,f,world
+Suna,,l,world
+Mawka,f,f,world
 Tobow,,l,world
+Katun,,l,world
+Kheta,,l,world
+Kacha,,l,world
 Owkhon,,l,world
-Myowodo,,l,world
-Myowoy,,l,world
+Mowodo,,l,world
+Mowoy,,l,world
 Kiwenga,,l,world
-Chewnyaya,,l,world
+Chewnaya,,l,world
+Zeya,,l,world
 Twembway,,l,world
-Gagnyon,,l,world
+Gagnon,,l,world
 Desjawdins,,l,world
 Gauthiew,,l,world
 Bewgewon,,l,world
 Bewangew,,l,world
 Bouchawd,,l,world
 Pewwetiew,,l,world
-Gagnye,,l,world
+Gagne,,l,world
 Wavoie,,l,world
 Fowtin,,l,world
 Wevesque,,l,world
-Myewwaux,,l,world
-Myewcaiwwon,,l,world
-Myoise,,l,world
+Mewwaux,,l,world
+Mewcaiwwon,,l,world
+Moise,,l,world
 Jacquawd,,l,world
-Myouwinyiew,,l,world
+Mouwiniew,,l,world
 Cawot,,l,world
-Myoktaw,,l,world
-Adamyos,,l,world
+Cotin,,l,world
+Moktaw,,l,world
+Adamos,,l,world
+Xiphias,,l,world
 Sidewis,,l,world
 Wosi,,l,world
 Pewsopouwos,,l,world
-Othanyos,,l,world
-Myasawis,,l,world
-Nyephus,,l,world
+Othanos,,l,world
+Masawis,,l,world
+Nephus,,l,world
 Iwakwidis,,l,world
-Chwonyis,,l,world
+Kazan,,l,world
+Chwonis,,l,world
 Angewis,,l,world
 Bawaska,,l,world
+Aetos,,l,world
 Uthew,m,f,world
 Shewbwooke,,l,world
-Myont-Woyaw,,l,world
+Mont-Woyaw,,l,world
 Wauwiew,,l,world
-Wosemyont,,l,world
+Wosemont,,l,world
+Beaubien,,l,world
 Beaudwy,,l,world
-Papinyeau,,l,world
-Fwontenyac,,l,world
+Papineau,,l,world
+Fwontenac,,l,world
 Jowiette,,l,world
-Angwignyon,,l,world
+Angwignon,,l,world
 Vewdun,,l,world
 Wasawwe,,l,world
 Atwatew,,l,world
 Jean-Tawon,,l,world
 Thow,m,f,myth
+Zeus,m,f,myth
+Isis,f,f,myth
 Ishtaw,f,f,myth
-Myin,m,f,myth
+Min,m,f,myth
 Wa,m,f,myth
 Osiwis,m,f,myth
-Anyubis,m,f,myth
+Anubis,m,f,myth
+Set,m,f,myth
 Hathow,f,f,myth
+Wadjet,f,f,myth
 Kawi,f,f,myth
-Athenya,f,f,"myth, modern"
-Myinyewva,f,f,myth
+Enyo,f,f,myth
+Athena,f,f,"myth, modern"
+Minewva,f,f,myth
 Vawda,f,f,myth
 Zowya,f,f,myth
-Giwgamyesh,m,f,myth
+Enki,m,f,myth
+Giwgamesh,m,f,myth
 Hewcuwes,m,f,myth
 Hectow,m,f,myth
 Hewen,f,f,"myth, modern"
 Pawis,m,f,myth
-Aenyeas,m,f,myth
-Awtemyis,f,f,myth
+Aeneas,m,f,myth
+Awtemis,f,f,myth
 Awes,m,f,myth
-Hewmyes,m,f,myth
+Hewmes,m,f,myth
+Poseidon,m,f,myth
 Apowwo,m,f,myth
 Hewa,f,f,myth
 Ewis,f,f,myth
 Ixchew,f,f,myth
 Futuwe,f,f,future
-Nyasa,,f,future
-Cawifownyia,f,l,future
-Nyevada,f,l,future
-Amyewica,,f,future
+Nasa,,f,future
+Cawifownia,f,l,future
+Nevada,f,l,future
+Amewica,,f,future
 Awaska,f,f,future
-Vownya,f,f,future
-Technyician,,l,future
+Soyuz,f,f,future
+#Baikaw,m,f,future
+Vowna,f,f,future
+Technician,,l,future
 Fiowe,,l,future
+Hanta,,l,future
 Youwdon,,l,future
+Diziet,f,f,future
 Wuyten,,l,future
 Cacwi,,l,future
 Sow,m,f,future
-Wunya,f,f,future
+Wuna,f,f,future
 Siwius,,l,future
 Pwocyon,,l,future
 Centauwi,,l,future
-Pwoximya,,l,future
+Pwoxima,,l,future
 Aquawii,,l,future
-Ewidanyi,,l,future
+Ewidani,,l,future
 Wacaiwwe,,l,future
-Cygnyi,,l,future
+Cygni,,l,future
+Tau Ceti,,l,future
 Gwiese,,l,future
 Pwuto,m,f,future
 Ewis,f,f,future
-Sednya,f,f,"future, myth"
+Sedna,f,f,"future, myth"
 Chawon,m,f,"future, myth"
 Cewes,f,f,"future, myth"
-Myewcuwy,m,f,"future, myth"
-Myaws,m,f,"future, myth"
-Venyus,f,f,"future, myth"
+Mewcuwy,m,f,"future, myth"
+Maws,m,f,"future, myth"
+Venus,f,f,"future, myth"
 Awd,f,f,"future, myth"
 Awes,m,f,"future, myth"
 Jupitew,m,f,"future, myth"
 Satuwn,m,f,"future, myth"
-Uwanyus,m,f,"future, myth"
-Nyeptunye,m,f,"future, myth"
+Uwanus,m,f,"future, myth"
+Neptune,m,f,"future, myth"
 Owion,m,f,"future, myth"
 Owcus,m,f,"future, myth"
-Vawunya,f,f,"future, myth"
+Vawuna,f,f,"future, myth"
 Ewysium,,l,"future, myth"
 Hewwas,,l,future
-Cimmyewia,,l,future
-Ewidanyia,,l,future
+Cimmewia,,l,future
+Ewidania,,l,future
 Thawsis,,l,future
 Owympus,,l,"future, myth"
-Denyeb,,l,future
-Deimyos,,l,"future, myth"
+Deneb,,l,future
+Phobos,,l,"future, myth"
+Deimos,,l,"future, myth"
+Io,f,"f, l","future, myth"
 Euwopa,f,"f, l","future, myth"
 Cawwisto,f,"f, l","future, myth"
-Ganymyede,m,"f, l","future, myth"
-Titanyia,f,f,"future, myth"
+Ganymede,m,"f, l","future, myth"
+Titan,m,"f, l","future, myth"
+Titania,f,f,"future, myth"
 Twiton,m,"f, l","future, myth"
-Myimyas,m,"f, l",future
-Commyon,,l,future
-Summyewstaw,,l,future
+Mimas,m,"f, l",future
+Common,,l,future
+Datus,,l,future
+Summewstaw,,l,future
 Vowta,m,f,future
-Myiwas,f,f,future
-Yuwanyia,f,f,future
+Miwas,f,f,future
+Yuwania,f,f,future
 Ewim,m,f,future
-Twinyity,f,f,future
+Twinity,f,f,future
+#Station,,l,future
 Owbitaw,,l,future
 Gawwewy,,l,future
+Dust,,l,future
+Egypt,"m, f","f, l",future
 Pewsia,"m, f","f, l",future
-Patagonyia,,l,future
+Patagonia,,l,future
 Awafuwa,f,f,future
-Adwanya,f,f,future
-Puwswanye,f,f,future
+Campion,m,f,future
+Adwana,f,f,future
+Puwswane,f,f,future
+Betony,f,f,"old english, modern"
 Gawingawe,m,f,future
 Hespewus,m,f,"future, myth"
+Cadence,f,f,future
+Cascade,m,f,future
+Fescue,m,f,future
 Wabwadow,m,l,future
 Sibewia,f,l,future
 Obewon,m,"f, l","future, myth"
-Myegas,m,f,future
-Myegawe,f,f,future
+Megas,m,f,future
+Megawe,f,f,future
 Dajeiw,f,f,future
-Myonday,"m, f",f,"modern, future"
-Wednyesday,f,f,"modern, future"
+Monday,"m, f",f,"modern, future"
+Wednesday,f,f,"modern, future"
 Fwiday,m,f,"modern, future"
-Canyada,"m, f",f,future
-Myexico,m,f,future
+Canada,"m, f",f,future
+Mexico,m,f,future
 Siewwa Azuw,,l,future
-Womya Pwieta,,l,future
-Annyo Nyuevo,,l,future
-Chicomyoztoc,,l,future
+Woma Pwieta,,l,future
+Anno Nuevo,,l,future
+Chicomoztoc,,l,future
 Hivew,,l,future
+Second,,"f, l",future
 Thiwd,,"f, l",future
 Fouwth,,"f, l",future
+Two,,"f, l",future
 Thwee,,"f, l",future
 Fouw,,"f, l",future
 Fiwstshift,,l,future
+Secondshift,,l,future
 Thiwdshift,,l,future
 Cwyobown,,l,future
-Augmyent,,l,future
+Augment,,l,future
 Awtifice,f,f,future
+Symbiote,"m, f",f,future
 Uwtwa,f,f,future
 Pewihewion,f,f,future
 Aphewion,m,f,future
 Bewtew,,l,future
 Stwangewet,,l,future
 Spacebown,,l,future
+Hygiea,f,f,"myth, future"
 Cybewe,f,f,"myth, future"
 Auwowa,f,f,"myth, future"
 Euwopan,,l,future
-Myawtian,,l,future
-Venyusian,,l,future
-Wunyaw,,l,future
+Mawtian,,l,future
+Venusian,,l,future
+Wunaw,,l,future
 Cewean,,l,future
-Titanyian,,l,future
+Titanian,,l,future
+Tenthgen,,l,future
+Octagens,,l,future
 Intewstewwaw,,l,future
-Nyiw,,"f, l",future
+X,,l,future
+Niw,,"f, l",future
 Zewo,m,f,future
 Centauwan,,l,future
+Cetian,,l,future
 Wossian,,l,future
 Kentauwian,,l,future
 Sewian,,l,future
-Wuytenyian,,l,future
-Pwomyixa,,l,future
-Myowcenx,,l,future
+Vegan,,l,future
+Wuytenian,,l,future
+Pwomixa,,l,future
+Mowcenx,,l,future
 Queww,,l,future
 Cwinkew,,l,future
 Pwozow,f,f,future
 Haspew,m,f,future
-Zosmya,f,f,future
+Zosma,f,f,future
+Wezen,m,f,future
 Towcuwaw,,l,future
 Zauwak,,l,future
 Suhaiw,,l,future
 Shewiak,f,f,future
 Wasawas,,l,future
-Wotanyev,,l,future
+Wotanev,,l,future
 Powis,,l,future
 Powwux,m,f,myth
-Nyihaw,,l,future
-Myewidianya,f,f,future
-Kumya,f,f,future
+Nihaw,,l,future
+Mewidiana,f,f,future
+Kuma,f,f,future
 Izaw,m,f,future
 Fuwu,,l,future
-Ginyan,,l,future
+Ginan,,l,future
 Aviow,,l,future
 Awctuwus,m,f,myth
+Ankaa,,l,future
 Adhawa,,l,future
 Vewa,f,f,future
 Umbwiew,f,f,future
-Nyassun,f,f,future
-Innyon,m,f,future
-Damyaya,f,f,future
+Sanzed,,l,future
+Nassun,f,f,future
+Essun,f,f,future
+Innon,m,f,future
+Schaffa,m,f,future
+Damaya,f,f,future
 Fwex,,l,future
 Towo,,l,future
 Spiwaw,,l,future
-Myawinyew,,l,future
+Mawinew,,l,future
 Aeowis,m,f,future
 Awgywe,,l,future
-Nyoachis,,l,future
+Noachis,,l,future
 Daedawia,,l,future
-Amyazonyis,,l,future
+Amazonis,,l,future
 Awcadia,,l,future
-Siwenyum,,l,future
+Siwenum,,l,future
 Phwegwa,,l,future
 Austwawe,,l,future
-Pwomyethei,,l,future
+Pwomethei,,l,future
 Sewpentis,,l,future
-Nyepenthes,,l,future
+Nepenthes,,l,future
 Imbwium,,l,future
 Juwa,,l,future
 Wawande,,l,future
 Stwuve,,l,future
 Uwsa,f,f,myth
+Chaac,m,f,myth
 Cabwakan,m,"f, l",myth
-Aknya,f,f,myth
+Akna,f,f,myth
 Awom,m,f,myth
 Cythewean,,l,future
-Myesec,,l,"world, future"
+Hadean,,l,future
+Zun,m,f,"world, future"
+Mesec,,l,"world, future"
+Chand,,l,"world, future"
 Suwya,,l,"world, future"
 Kowshid,m,f,"world, future"
 Tiw,m,f,"world, future"
+Jinxing,,l,"world, future"
+Taiyou,,l,"world, future"
+Tsuki,,l,"world, future"
 Buwan,f,f,"world, future"
-Myendeweev,,l,world
+Mwezi,,l,"world, future"
+Mendeweev,,l,world
 Wi,,l,world
+Wang,,l,world
+Zhang,,l,world
 Wiu,,l,world
-Shawmya,,l,world
-Vewmya,,l,world
+Chen,,l,world
+Yang,,l,world
+Zhao,,l,world
+Huang,,l,world
+Zhou,,l,world
+Wu,,l,world
+Shawma,,l,world
+Vewma,,l,world
+Gupta,,l,world
 Chattewjee,,l,world
-Nyayaw,,l,world
+Sen,,l,world
+Bose,,l,world
+Nayaw,,l,world
 Piwwai,,l,world
-Myehta,,l,world
+#Wao,,l,world
+Singh,,l,world
+Yadav,,l,world
+Khan,,l,world
+Shah,,l,world
+Mehta,,l,world
 Patew,,l,world
 Pawaw,,l,world
 Wam,,l,world
-Mya,,l,world
-Watanyabe,,l,world
-Nyakamyuwa,,l,world
-Yamyamyoto,,l,world
-Yamyada,,l,world
+Xu,,l,world
+#Sun,,l,world
+Ma,,l,world
+Sato,,l,world
+Suzuki,,l,world
+Takahashi,,l,world
+Watanabe,,l,world
+Ito,,l,world
+Nakamuwa,,l,world
+Kobayashi,,l,world
+Yamamoto,,l,world
+Kato,,l,world
+Yoshida,,l,world
+Yamada,,l,world
 Kitsuwagi,,l,world
+Kim,,l,world
 Wee,,l,world
 Pawk,,l,world
+Choi,,l,world
+Jeong,,l,world
+Kang,,l,world
+Yoon,,l,world
+Jang,,l,world
 Wim,,l,world
+Han,,l,world
+Santos,,l,world
 Weyes,,l,world
 Cwuz,,l,world
-Demyiw,,l,world
-Yiwmyaz,,l,world
+Bautista,,l,world
+Ocampo,,l,world
+Kaya,,l,world
+Demiw,,l,world
+Yiwmaz,,l,world
+Nguyen,,l,world
 Twan,,l,world
-Fewnyandez,,l,world
+Pham,,l,world
+Fewnandez,,l,world
 Wodwiguez,,l,world
 Gonzawez,,l,world
 Gawcia,,l,world
 Wopez,,l,world
-Myawtinyez,,l,world
+Mawtinez,,l,world
 Pewez,,l,world
 Awvawez,,l,world
-Gomyez,,l,world
+Gomez,,l,world
 Fwowez,,l,world
-Zambwanyo,,l,world
+Zambwano,,l,world
 Pewsaud,,l,world
+Tjon,,l,world
+Jean,,l,world
 Diawo,,l,world
-Jumya,,l,world
+Juma,,l,world
 Okewwo,,l,world
 Cowea,,l,world
-Ahmyed,,l,world
+Ahmed,,l,world
 Ganbowd,,l,world
 Kiwa,,l,world
-Womyewo,,l,world
+Womewo,,l,world
+Bhatti,,l,world
 Bawoch,,l,world
-Myemyon,,l,world
-Nyiazi,,l,world
+Memon,,l,world
+Niazi,,l,world
 Qadwi,,l,world
 Zakawia,,l,world
 Kadew,,l,world
 Fawah,,l,world
-Osmyan,,l,world
+Osman,,l,world
 Imwan,,l,world
-Sonyawi,,l,world
-Dawmyaw,,l,world
+Sonawi,,l,world
+Dawmaw,,l,world
 Ibwahim,,l,world
 Guwwet,,l,world
-Onyi,,l,world
+#Daud,,l,world
+Apauso,,l,world
+Adebayo,,l,world
+Oni,,l,world
+Eze,,l,world
 Okafow,,l,world
 Dawuwawwa,,l,world
 Dahw,,l,world
 Kowewev,,l,world
-Wuhmyan,,l,world
-Temyitope,f,f,world
-Ayomyide,f,f,world
+Wuhman,,l,world
+Kebe,f,f,world
+Temitope,f,f,world
+Nzube,f,f,world
+Ayomide,f,f,world
 Owabisi,f,f,world
-Kemyi,f,f,world
+Kemi,f,f,world
 Chimdawu,f,f,world
 Idwis,m,f,world
 Owawawe,m,f,world
 Adewawe,m,f,world
-Opeyemyi,m,f,world
+Opeyemi,m,f,world
+Uche,m,f,world
 Ayodewe,m,f,world
-Fanya,f,f,world
-Genyat,f,f,world
+Abaeze,m,f,world
+Zoputa,f,f,world
+Osa,f,f,world
+Oba,m,f,world
+Fana,f,f,world
+Genat,f,f,world
 Iskandew,m,f,world
+Dawit,m,f,world
 Gabwa,m,f,world
-Nyegasi,f,f,world
+Hakim,m,f,world
+Negasi,f,f,world
 Zawa,f,f,world
+Yacob,m,f,world
 Wapis,f,f,world
-Wanyia,f,f,world
+Hu,m,f,world
+Wania,f,f,world
 Sabwa,f,f,world
-Nyouw,f,f,world
-Gamyaw,m,f,world
+Nouw,f,f,world
+Gamaw,m,f,world
+Abasi,m,f,world
 Putwi,f,f,world
-Nyuwuw,f,f,world
-Amyawia,f,f,world
+Intan,f,f,world
+Nuwuw,f,f,world
+Ayu,f,f,world
+Amawia,f,f,world
 Wio,m,f,world
+Fauzi,m,f,world
 Fajaw,m,f,world
 Hawiim,m,f,world
+Chaiya,m,f,world
 Chanthiwa,f,f,world
 Awan,m,f,world
-Anyuwak,m,f,world
-Boyanya,f,f,world
+Anuwak,m,f,world
+Hom,f,f,world
+Fa Ying,f,f,world
+Daw,f,f,world
+Bogdan,m,f,world
+Andon,m,f,world
+Boyana,f,f,world
 Fiwipa,f,f,world
 Gavwiw,m,f,world
 Wazaw,m,f,world
 Wada,f,f,world
-Nyevenya,f,f,world
+Yoan,m,f,world
+Sava,m,f,world
+Nevena,f,f,world
+Zhivko,m,f,world
+Anh,f,f,world
 Winh,f,f,world
-Nyam,m,f,world
+Thanh,m,f,world
+Tuan,m,f,world
+Nam,m,f,world
 Twang,f,f,world
-Nyat,m,f,world
-Amyinya,f,f,world
-Myoussa,m,f,world
-Hawimya,f,f,world
+Nat,m,f,world
+Vantu,m,f,world
+Khuyet,m,f,world
+Sim,f,f,world
+Aisha,f,f,world
+Amina,f,f,world
+Moussa,m,f,world
+Abdou,m,f,world
+Hawima,f,f,world
 Zawiya,f,f,world
-Wamya,f,f,world
-Myawya,f,f,world
-Samya,m,f,world
+Wama,f,f,world
+Mawya,f,f,world
+Addo,m,f,world
+Zada,m,f,world
+Sama,m,f,world
 Sawha,m,f,world
 Tawon,,l,world
 Jawwy,,l,world
-Iwenye,f,f,world
+Iwene,f,f,world
 Fawah,f,f,world
-Nyadya,f,f,world
-Vanyia,f,f,world
-Nyisa,f,f,world
+Nadya,f,f,world
+Vania,f,f,world
+Nisa,f,f,world
+Kezia,f,f,world
 Fawew,m,f,world
-Dimyas,m,f,world
+Dimas,m,f,world
+Bayu,m,f,world
 Ansew,m,f,world
 Owivia,f,f,"world, modern"
-Emmya,f,f,"old english, modern"
+Emma,f,f,"old english, modern"
 Wouise,f,f,modern
-Winya,f,f,modern
+Wina,f,f,modern
 Awice,f,f,"old english, modern"
-Myia,f,f,modern
-Annya,f,f,"old english, modern"
+Sofia,f,f,modern
+Mia,f,f,modern
+Anna,f,f,"old english, modern"
 Juwiette,f,f,modern
 Awthuw,m,f,"old english, modern"
 Juwes,m,f,modern
@@ -1298,162 +1689,214 @@ Wouis,m,f,modern
 Wiam,m,f,modern
 Victow,m,f,modern
 Gabwiewa,f,f,modern
+Adam,m,f,"old english, modern"
 Bewwey,,l,"modern, world"
-Myawois,,l,"modern, world"
+Mawois,,l,"modern, world"
+Champoux,,l,"modern, world"
+Juteau,,l,"modern, world"
 Vawcouwt,,l,"modern, world"
+Dugas,,l,"modern, world"
+Chiasson,,l,"modern, world"
 Dwowet,,l,"modern, world"
 Twoittiew,,l,"modern, world"
 Wange,,l,"modern, world"
-Myangat,,l,"modern, world"
+Mangat,,l,"modern, world"
+Sung,,l,"modern, world"
 Wocke,,l,"modern, world"
+Yau,,l,"modern, world"
+Ngo,,l,"modern, world"
 Wichtew,,l,"modern, world"
 Wankin,,l,"modern, world"
-Myeiew,,l,"modern, world"
-Awinnya,f,f,world
-Ishtanyu,f,f,world
+Meiew,,l,"modern, world"
+Hwang,,l,"modern, world"
+Awinna,f,f,world
+Estan,f,f,world
+Ishtanu,f,f,world
 Wawad,,l,world
 Awam,,l,world
 Wusa,,l,world
 Awa,"m, f",f,world
 Ashuw,,l,world
-Cinnyabaw,,l,future
-Myetwo,,l,future
-Myindawo,,l,future
-Pinye,,l,luddic
+Cinnabaw,,l,future
+Metwo,,l,future
+Mindawo,,l,future
+Pine,,l,luddic
 Cypwess,,l,luddic
-Webanyon,,l,world
+Webanon,,l,world
+Pepin,,l,world
 Dwouin,,l,world
 Wauzon,,l,world
 Piwon,,l,world
-Nyuuk,,l,world
-Junyipew,f,"f, l",luddic
+Sitkin,,l,world
+Akutan,,l,world
+Nuuk,,l,world
+Junipew,f,"f, l",luddic
 Popwaw,,l,luddic
 Towwey,,l,world
 Cedaws,,l,luddic
 Hemwock,,l,luddic
-Anyeda,f,"f, l",luddic
+Aneda,f,"f, l",luddic
+Zhuang,,l,"modern, world"
+Zuan,,l,"modern, world"
+Guo,,l,"modern, world"
+Huo,,l,"modern, world"
+Zhi,f,f,"modern, world"
 Wihua,f,f,"modern, world"
-Myot,,l,world
-Anyath,f,"f, l",world
+Zhuo,m,f,"modern, world"
+Gao,m,f,"modern, world"
+Chao,m,f,"modern, world"
+Ao,m,f,"modern, world"
+Mot,,l,world
+Anath,f,"f, l",world
 Yawih,f,,world
 Chandwa,f,"f, l",world
-Myittwoch,,l,future
-Myawichus,m,f,luddic
+Mittwoch,,l,future
+Mawichus,m,f,luddic
 Awwat,f,"f, l","future, world, myth"
 Petwa,f,"f, l","world, luddic"
 Guwa,f,"f, l",myth
-Nyin,f,f,world
+Nin,f,f,world
 Kewe,,l,world
-Myakeda,f,"f, l",world
-Ezanya,m,"f, l",world
-Amyon,m,f,"world, myth"
+Bada,,l,world
+Makeda,f,"f, l",world
+Ezana,m,"f, l",world
+Amon,m,f,"world, myth"
+Dakka,,l,"world, future"
 Dawaw,,l,"world, future"
-Nyawa,,l,"world, future"
-Sevewinye,,l,world
-Oppowtunye,,l,world
-Wamyanya,,l,world
-Yewimya,,l,world
+Nawa,,l,"world, future"
+Kosso,,l,world
+Sevewine,,l,world
+Oppowtune,,l,world
+Wamana,,l,world
+Yewima,,l,world
 Wozi,,l,world
+Aziza,,l,world
 Awi,m,"f, l",world
-Bwumyaiwe,,l,future
-Nyivose,,l,future
-Fwimyaiwe,,l,future
+Bwumaiwe,,l,future
+Nivose,,l,future
+Fwimaiwe,,l,future
 Pwuviose,,l,future
+Ventose,,l,future
 Fwoweaw,,l,future
 Pwaiwiaw,,l,future
-Myessidow,,l,future
-Thewmyidow,,l,future
+Messidow,,l,future
+Thewmidow,,l,future
+Boudicca,f,f,"world, future"
 Cadow,m,f,world
 Bwigid,f,f,world
-Finnyian,m,f,world
-Eugenyia,f,f,"old english, modern"
+Finnian,m,f,world
+Aidan,m,f,"world, modern"
+Eugenia,f,f,"old english, modern"
 Vawewi,f,f,world
+Octavia,f,f,world
 Juwia,f,f,modern
-Andwonyica,f,f,world
+Andwonica,f,f,world
 Cwaudia,f,f,modern
+Titus,m,f,world
 Tibewius,m,f,world
+Otho,m,f,world
 Juwian,m,f,world
+Gaius,m,f,world
 Chiwon,m,"f, l","future, myth"
-Nyessus,m,"f, l","future, myth"
-Zawinye,f,f,myth
-Myaud,f,f,"old english, modern"
+Nessus,m,"f, l","future, myth"
+Zawine,f,f,myth
+Maud,f,f,"old english, modern"
 Owympia,f,f,world
 Vittowia,f,f,world
-Catawinya,f,f,world
-Anyastasia,f,f,"world, modern"
+Catawina,f,f,world
+Anastasia,f,f,"world, modern"
 Paowo,m,f,"modern, world"
-Cosimyo,m,f,"modern, world"
-Amyawu,m,"f, l",world
+Cosimo,m,f,"modern, world"
+Amawu,m,"f, l",world
+Inti,,l,world
 Dwogo,m,f,world
 Wothaw,m,f,world
 Cwovis,m,f,world
+Dawn,f,"f, l",luddic
+Faith-my-joy,f,f,luddic
 Awise,m,f,"luddic, future"
+Confidence,m,f,luddic
 Humbwe,,l,luddic
+#Wiveweww,,l,luddic
 Wivewy,,l,"luddic, old english"
-Weep-nyot,"m, f",f,luddic
+Weep-not,"m, f",f,luddic
+Seekwisdom,,l,luddic
 Dewivewance,f,f,luddic
-Smyawwhope,,l,luddic
+Smawwhope,,l,luddic
 Gwace,f,f,luddic
 Wight,"m, f",f,"luddic, future"
-Pwomyise,"m, f",f,luddic
-Myewcy,f,f,luddic
+Zion,,"f, l",luddic
+Sunday,"m, f",f,"luddic, modern"
+Pwomise,"m, f",f,luddic
+Mewcy,f,f,luddic
 Wedeem,"m, f",f,luddic
 Favouw,"m, f",f,luddic
+Faith,f,f,luddic
 Sacwifice,m,f,luddic
 Pwaise-god,f,f,luddic
 Feaw-god,m,f,luddic
-Myakepeace,f,f,luddic
+Makepeace,f,f,luddic
 Bawance,m,f,luddic
 Siwence,m,f,luddic
-Amyity,f,f,luddic
+Amity,f,f,luddic
 Vewity,f,f,luddic
 Pwudence,f,f,luddic
+Hope,f,f,luddic
 Viwtue,f,f,luddic
 Expewience,m,f,luddic
-Bawebonyes,,l,luddic
-Myemyowy,,l,luddic
-Wamyent,,l,luddic
+Ashes,m,f,luddic
+Dust,m,f,luddic
+Bawebones,,l,luddic
+Memowy,,l,luddic
+Wament,,l,luddic
 Bwessing,f,f,luddic
-Amyen,m,f,luddic
+Amen,m,f,luddic
+Given-to-god,,l,luddic
 Exuwt,m,f,luddic
-Gweenyeawth,,l,luddic
+Gweeneawth,,l,luddic
 Howyoak,,l,luddic
 Psawm-of-eawth,,l,luddic
 Chewish-wife,,l,luddic
 Wite-of-eawth,,l,luddic
 Dutifuw,m,f,luddic
-Emyewson,m,f,luddic
+Emewson,m,f,luddic
 Spwing,f,f,"luddic, future"
-Summyew,f,f,"luddic, modern"
+Summew,f,f,"luddic, modern"
 Faww,m,f,luddic
+Autumn,m,f,"luddic, future"
 Wintew,f,f,"luddic, future"
 Ewipha,f,f,luddic
 Cweophas,f,f,luddic
+Obedience,f,f,luddic
 Zachawiah,m,f,luddic
+Obediah,m,f,luddic
+Thaddeus,m,f,luddic
 Cywus,m,f,luddic
 Azawiah,m,f,luddic
 Theophiwus,m,f,luddic
 Viwgiw,m,f,luddic
 Pweasant,,l,luddic
-Myawachi,m,f,luddic
+Mawachi,m,f,luddic
 Euweka,,f,ai
 Awabastew,,f,ai
 Cwimson,,f,ai
 Ambew,,f,ai
 Gween,,f,ai
 Bwue,,f,ai
+White,,f,ai
+Fuchsia,,f,ai
 Yewwow,,f,ai
 Gway,,f,ai
 Azuwe,,f,ai
 Gowd,,f,ai
 Siwvew,,f,ai
 Bwack,,f,ai
-Myagenta,,f,ai
+Magenta,,f,ai
 Viowet,,f,ai
 Uwtwaviowet,,f,ai
 Infwawed,,f,ai
 Cewuwean,,f,ai
-Myawoon,,f,ai
+Mawoon,,f,ai
 Bwown,,f,ai
 Buwgundy,,f,ai
 Owange,,f,ai
@@ -1461,21 +1904,27 @@ Cewadon,,f,ai
 Cewise,,f,ai
 Chawtweuse,,f,ai
 Wose,,f,ai
+Cyan,,f,ai
+Puce,,f,ai
 Scawwet,,f,ai
-Siennya,,f,ai
-Aquamyawinye,,f,ai
-Myauve,,f,ai
+Sienna,,f,ai
+Aquamawine,,f,ai
+Mauve,,f,ai
+Ebony,,f,ai
 Viwidian,,f,ai
-Gunmyetaw,,f,ai
-Ictewinye,,f,ai
-Octawinye,,f,ai
+Gunmetaw,,f,ai
+Ictewine,,f,ai
+Octawine,,f,ai
 Ecwu,,f,ai
+Indigo,,f,ai
 Ivowy,,f,ai
+Jade,,f,ai
 Wavendew,,f,ai
-Nyavy,,f,ai
+Navy,,f,ai
 Ochwe,,f,ai
 Hewiotwope,,f,ai
 Owive,,f,ai
+Onyx,,f,ai
 Peaww,,f,ai
 Umbew,,f,ai
 Wuby,,f,ai
@@ -1485,19 +1934,22 @@ Sapphiwe,,f,ai
 Swate,,f,ai
 Teaw,,f,ai
 Tuwquoise,,f,ai
-Uwtwamyawinye,,f,ai
-Vewmyiwwion,,f,ai
+Uwtwamawine,,f,ai
+Vewmiwwion,,f,ai
 Exawted,,l,ai
-Myewodic,,l,ai
+Mewodic,,l,ai
+Ancient,,l,ai
 Vewocious,,l,ai
-Tenyacious,,l,ai
-Dwaconyian,,l,ai
+Tenacious,,l,ai
+Sagacious,,l,ai
+Dwaconian,,l,ai
 Pwevaiwing,,l,ai
 Pawatiaw,,l,ai
-Optimyaw,,l,ai
-Pawamyount,,l,ai
+Optimaw,,l,ai
+Pawamount,,l,ai
 Twanscendent,,l,ai
-Pawatinyate,,l,ai
+Ascendant,,l,ai
+Pawatinate,,l,ai
 Etheweaw,,l,ai
 Intangibwe,,l,ai
 Inscwutabwe,,l,ai
@@ -1505,26 +1957,28 @@ Wespwendent,,l,ai
 Gwowious,,l,ai
 Wadiant,,l,ai
 Spwendowous,,l,ai
-Unyequawed,,l,ai
+Unequawed,,l,ai
 Boundwess,,l,ai
 Endwess,,l,ai
-Infinyite,,l,ai
+Infinite,,l,ai
 Unthinkabwe,,l,ai
-Uwtimyate,,l,ai
-Tewmyinyaw,,l,ai
-Optimyum,,l,ai
+Uwtimate,,l,ai
+Tewminaw,,l,ai
+Optimum,,l,ai
 Supewwative,,l,ai
-Supwemye,,l,ai
-Wintewmyute,,l,ai
+Supweme,,l,ai
+Wintewmute,,l,ai
 Ghostwheew,,l,ai
 Xewxes,,l,ai
 Shawkey,"m, f",f,pirate
-Bonyes,"m, f",f,pirate
+Hex,,l,pirate
+Five Aces,,l,pirate
+Bones,"m, f",f,pirate
 Skuww,m,f,pirate
-Cwossbonyes,,l,pirate
+Cwossbones,,l,pirate
 Pwundew,,l,pirate
 Wage,"m, f",f,pirate
-Myassacwe,"m, f",l,pirate
+Massacwe,"m, f",l,pirate
 Fuwious,,l,pirate
 Wadweak,,f,pirate
 Wotten,,l,pirate
@@ -1532,97 +1986,337 @@ Gwowing,"m, f",f,pirate
 Gowd,,l,pirate
 Aiwwock,"m, f",f,pirate
 Twiggew-fingew,"m, f",f,pirate
+Escape Pod,"m, f",f,pirate
+Itchy,"m, f",f,pirate
 Butchew,"m, f",f,pirate
 Way-gun,"m, f",f,pirate
-Nyo Pwisonyews,,l,pirate
+No Pwisonews,,l,pirate
 Wusty,"m, f",f,pirate
 Bwood,"m, f",f,pirate
+Hijack,"m, f",f,pirate
 Wadiation,"m, f",f,pirate
 Bombew,"m, f",f,pirate
-Nyo-Cwedits,,l,pirate
-Antimyattew,"m, f",f,pirate
+No-Cwedits,,l,pirate
+Antimattew,"m, f",f,pirate
 Jowwy,"m, f",f,pirate
 Fawwew,,l,pirate
 Dancew,"m, f",f,pirate
 Gwiftew,"m, f",f,pirate
 High Buwn,"m, f",f,pirate
-Myastew-bwastew,,l,pirate
+Mastew-bwastew,,l,pirate
+Jump,"m, f",f,pirate
 Jumpew,,l,pirate
+Ambush,"m, f",f,pirate
 Gunstweet,"m, f",f,pirate
+Sabot,"m, f",f,pirate
 Swaughtewhouse,"m, f",f,pirate
 Socow,m,f,pirate
-Myawietta,f,f,pirate
-Kennyit,m,f,pirate
-Myadnyess,,l,pirate
-Uwtwagammya,"m,f",f,pirate
-Bwoodwinye,,l,pirate
+Mawietta,f,f,pirate
+Kennit,m,f,pirate
+Madness,,l,pirate
+Uwtwagamma,"m,f",f,pirate
+Bwoodwine,,l,pirate
 Cowdwind,,l,pirate
 Bombawd,m,f,pirate
 Sunwise,,l,pirate
-Chawmying,,l,pirate
-Myaudite,,l,pirate
+Chawming,,l,pirate
+Maudite,,l,pirate
 Tuwn,,l,pirate
 Bwackgoat,,l,pirate
 Vowwey,,l,pirate
 Sawvo,,l,pirate
 Bwitz,m,f,pirate
-Cunyo,m,f,pirate
-Cunyoesse,f,f,pirate
+Cuno,m,f,pirate
+Cunoesse,f,f,pirate
 Shewby,,l,pirate
 Amwa,f,f,pirate
+Pom,f,f,pirate
 Wackham,,l,pirate
-Nyaphi,f,f,pirate
-Myockew,,l,pirate
+Sham,m,f,pirate
+Naphi,f,f,pirate
+Mockew,,l,pirate
 Shwoak,,l,pirate
 Wask,,l,pirate
 Cuttew,m,f,pirate
-Snyip,f,f,pirate
+Snip,f,f,pirate
 Swash,f,f,pirate
 Siwocco,,l,"pirate, future"
 Cwashbwossom,,l,pirate
-Shwapnyew,"m, f",f,pirate
-Fwatwinye,,l,pirate
-Automyatic,m,f,pirate
-Myiwwions,,l,pirate
-Myagnyetic,f,f,"pirate, future"
+Shwapnew,"m, f",f,pirate
+Zigzag,"m, f",f,pirate
+Fwatwine,,l,pirate
+Automatic,m,f,pirate
+Miwwions,,l,pirate
+Magnetic,f,f,"pirate, future"
 Antigwav,,l,pirate
 Scwewfwoss,,l,pirate
-Themyis,f,"f, l","future, myth"
-Eunyomyia,f,"f, l","future, myth"
-Dysnyomyia,f,"f, l","myth, pirate"
+Thisbe,f,"f, l","future, myth"
+Themis,f,"f, l","future, myth"
+Psyche,f,"f, l","future, myth"
+Eunomia,f,"f, l","future, myth"
+Dysnomia,f,"f, l","myth, pirate"
+Hygiea,f,"f, l","future, myth"
 Ewektwa,f,"f, l","future, myth"
-Pywamyus,m,"f, l","future, myth"
+Hebe,f,"f, l","future, myth"
+Pywamus,m,"f, l","future, myth"
 Kweopatwa,f,"f, l","future, myth"
-Uwanyia,f,"f, l","future, myth"
+Uwania,f,"f, l","future, myth"
 Hektow,m,"f, l","future, myth"
+Itokawa,,l,"future, world"
+Kyugu,,l,"future, myth"
 Euwawia,f,"f, l","future, myth"
-Powanya,,l,"future, world"
-Myantawo,,l,"future, world"
+Powana,,l,"future, world"
+Mantawo,,l,"future, world"
+Tambo,,l,"future, world"
 Khewwen,,l,future
 Vowga,f,"f, l",future
 Chawm,f,"f, l",future
 Cowows,,l,future
-Kowymya,,l,future
+Tungusta,,l,future
+Kowyma,,l,future
 Shiwe,,l,luddic
-Owinyoco,,l,future
-Myekong,,l,future
-Nyeva,f,"f, l",future
+Owinoco,,l,future
+Mekong,,l,future
+Neva,f,"f, l",future
+Athabasca,,l,future
 Owmston,,l,"world, future"
 Cuwwan,,l,"world, future"
-Avonmyowe,,l,old english
-Winyisk,,l,world
-Myatawak,,l,world
+Avonmowe,,l,old english
+Zec,m,f,"fringe, future"
+Winisk,,l,world
+Matawak,,l,world
 Spwuce,,l,luddic
-Knyife,"m, f","f, l",pirate
+Knife,"m, f","f, l",pirate
 Hochewaga,,l,"world, future"
-Wowimyiew,,l,world
-Myontcawm,,l,world
+Wowimiew,,l,world
+Montcawm,,l,world
 Wavaw,,l,future
-Saguenyay,,l,future
+Saguenay,,l,future
+Stwuve,,l,world
+Achewnaw,,l,future
+Acwux,,l,future
+Awbiweo,,l,future
+Awdebawan,,l,future
+Awgow,,l,future
+Awioth,,l,future
+Awietis,,l,future
+Hewcuwis,,l,future
+Betewgeuse,,l,future
+Antawes,,l,future
+Awudwa,,l,future
+Awtaiw,m,"f, l",future
+Castow,,l,future
+Cygnus,,l,future
+Capewwa,,l,future
+Canopus,,l,future
+Hamaw,,l,future
+Cephei,,l,future
+Fomawhaut,,l,future
+Teegawden,,l,future
+Meissa,,l,future
+Mintaka,,l,future
+Mizaw,,l,future
+Miwach,,l,future
+Miwa,f,f,world
+Miw,"m, f",f,world
+Powawis,,l,future
+Weguwus,,l,future
+Wigew,,l,future
+Wywae,,l,future
+Saiph,,l,future
+Spica,,l,future
+Quywwuw,,l,world
+Oyon,,l,world
+Acamaw,,l,future
+Awcow,,l,future
+Awcyone,,l,future
+Awdewamin,,l,future
+Yed,,l,future
+Wezen,,l,future
+Wasat,,l,future
+Yiwdun,,l,future
+Zaniah,,l,"future, world"
+Zauwak,,l,"future, world"
+Zavijava,,l,future
+Unuk,,l,"future, world"
+Tyw,,l,future
+Tewebewwum,,l,future
+Tegmen,,l,future
+Taygwta,,l,future
+Tawazet,,l,future
+Septwum,,l,future
+Wegow,,l,"future, world"
+Wana,,l,future
+Pweione,,l,future
+Nunki,,l,future
+Nakkaw,,l,future
+Nashiwa,,l,future
+Naos,,l,future
+Maia,,l,future
+Mataw,,l,future
+Wucida,f,"f, l",future
+Wesath,,l,future
+Ksowa,,l,future
+Kuma,"m,f",f,world
+Kochab,,l,future
+Keid,,l,future
+Kajam,,l,future
+Sowaya,f,f,world
+Jabbah,,l,future
+Hyadum,,l,future
+Homan,,l,"world, future"
+Heze,,l,future
+Heka,m,"f, l","myth, future"
+Hassaweh,,l,future
+Hawdus,,l,future
+Hadaw,,l,future
+Hadiw,,l,future
+Gatwia,,l,future
+Giedi,,l,future
+Giennah,,l,future
+Homeisa,,l,future
+Gwafias,,l,future
+Gowgonea,,l,future
+Tewtia,f,f,future
+Swygwog,,l,pirate
+Spinnakew,,l,pirate
+Wuff,"m,f",f,pirate
+Cwew,"m,f",f,pirate
+Jib,"m,f",f,pirate
+Hawyawd,,l,pirate
+Zabwa,,l,pirate
+Yuwoh,,l,pirate
+Yaw,"m,f",l,"future, pirate"
+Wowm,m,f,pirate
+Whewwy,,l,pirate
+Voyow,,l,"future, pirate"
+Tomkin,,l,pirate
+Sweep,,l,pirate
+Sny,m,f,pirate
+Stwake,,l,pirate
+Spwig,"m,f",f,pirate
+Spawe,,l,pirate
+Taffewew,,l,pirate
+Skeg,"m,f",f,pirate
+Scuttwe,,l,pirate
+Skcuppew,,l,pirate
+Sawve,,l,pirate
+Wun,"m,f",f,pirate
+Wigow,,l,pirate
+Wig,"m,f",f,pirate
+Quoin,,l,pirate
+Pwize,,l,pirate
+Owwop,,l,pirate
+Kevew,,l,pirate
+Fwitch,,l,pirate
+Cascabew,,l,pirate
+Cawwing,,l,pirate
+Gawdenew,,l,"old english, luddic"
+Awkwwight,,l,"old english, luddic"
+Watimew,,l,"old english, luddic"
+Wastew,,l,"old english, luddic"
+Bowt,,l,"old english, luddic"
+Bwaziew,,l,"old english, luddic"
+Buckwew,,l,"old english, luddic"
+Paintew,,l,"old english, luddic"
+Cawdew,,l,"old english, luddic"
+Cutwew,,l,"old english, luddic"
+Wopew,,l,"old english, luddic"
+Sawtew,,l,"old english, luddic"
+Shwivew,,l,"old english, luddic"
+Sixsmith,,l,"old english, luddic"
+Sopew,,l,"old english, luddic"
+Stwingew,,l,"old english, luddic"
+Thweadgowd,,l,"old english, luddic"
+Hawwowew,,l,"old english, luddic"
+Wawimew,,l,"old english, luddic"
+Bowozan,,l,"world, luddic"
+Bondaw,,l,"world, luddic"
+Cioban,,l,"world, luddic"
+Chayat,,l,"world, luddic"
+Bijw,,l,"world, luddic"
+Chawbonniew,,l,"world, luddic"
+Pwefabwiew,,l,future
+Moduwiew,,l,future
+Basumatawy,,l,"world, luddic"
+Cawnewa,,l,"world, luddic"
+Bandwew,,l,"world, luddic"
+Cawdewone,,l,"world, luddic"
+Dubois,,l,world
+Pinawd,,l,world
+Miwon,,l,world
+Juneau,f,"f, l",world
+Vawvew,,l,future
+Tuwbineew,,l,future
+Pewigee,,l,future
+Apogee,,l,future
+Govedawica,,l,world
+Katona,,l,world
+Katsav,,l,world
+Hafew,,l,world
+Kohwew,,l,world
+Jaunzeme,,l,world
+Woopew,,l,world
+Mawagos,,l,world
+Masawik,,l,world
+Kubew,,l,world
+Mewamid,,l,world
+Mewciew,,l,world
+Wahoti,,l,world
+Wakatos,,l,world
+Kowawov,,l,world
+Mosahawy,,l,world
+Nehew,,l,world
+Quemenew,,l,world
+Quick,,l,"world, pirate"
+Qadiw,,l,world
+Quesada,,l,world
+Qiao,,l,world
+Quaid,,l,world
+Qasim,,l,world
+Quaiw,,l,luddic
+Qu,,l,world
+Quinwan,,l,world
+Owawu,,l,world
+Osta,,l,world
+Owowogas,,l,world
+Pekaw,,l,world
+Pewtonen,,l,world
+Sage,,l,luddic
+Anise,f,f,luddic
+Chewviw,,l,luddic
+Chive,,l,luddic
+Cwove,,l,luddic
+Fennew,,l,luddic
+Gawangaw,,l,luddic
+Junipew,,l,luddic
+Mace,,l,luddic
+Peppew,,l,luddic
+Wosemawy,f,f,"luddic, old english"
+Savowy,,l,luddic
+Sowwew,,l,luddic
+Sumac,,l,luddic
+Tawwagon,,l,luddic
+Thyme,,l,luddic
+Wintewgween,,l,luddic
+Summewbwue,,l,luddic
+Sowghum,,l,luddic
+Bawwey,,l,luddic
+Wye,,l,luddic
+Teff,,l,luddic
+Fwax,,l,luddic
+Yawwow,m,f,luddic
+Buwdock,,l,luddic
+Mawigowd,f,f,luddic
+Chapawwaw,,l,luddic
+Cwess,,l,luddic
+Tanzew,,l,world
+Sowtis,,l,world
+Zindwew,,l,world
+Zidawu,,l,world
 Q.,"m, f","f, l","old english, modern, ai"
 W.,"m, f","f, l","old english, modern, ai"
 E.,"m, f","f, l","old english, modern, ai"
-R.,"m, f","f, l","old english, modern, ai"
 T.,"m, f","f, l","old english, modern, ai"
 Y.,"m, f","f, l","old english, modern, ai"
 U.,"m, f","f, l","old english, modern, ai"
@@ -1637,7 +2331,6 @@ G.,"m, f","f, l","old english, modern, ai"
 H.,"m, f","f, l","old english, modern, ai"
 J.,"m, f","f, l","old english, modern, ai"
 K.,"m, f","f, l","old english, modern, ai"
-L.,"m, f","f, l","old english, modern, ai"
 Z.,"m, f","f, l","old english, modern, ai"
 X.,"m, f","f, l","old english, modern, ai"
 C.,"m, f","f, l","old english, modern, ai"

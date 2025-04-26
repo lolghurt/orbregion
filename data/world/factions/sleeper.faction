@@ -1,5 +1,9 @@
 {
-	"shipNameSources":{
-		"ORBREGION":1,
-	},
-},				
+	"displayName":"sweepew",
+	"displayNameWithArticle":"the sweepew",
+	"displayNameLong":"sweepew",
+	"displayNameLongWithArticle":"the sweepew",
+	"personNamePrefix":"sweepew",
+	"displayNameIsOrAre":"awe",
+	"description":"No descwiption yet.",
+},	

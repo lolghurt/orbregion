@@ -1,0 +1,94 @@
+id,name,cost mult,build time,income,upkeep,downgrade,upgrade,tags,data,image,plugin,desc,order,disruptDanger
+population,Popuwation & Infwastwuctuwe,,,10,3,,,"population, unraidable, no_saturation_bombardment",,graphics/icons/industry/population.png,com.fs.starfarer.api.impl.campaign.econ.impl.PopulationAndInfrastructure,"The basic infwastwuctuwe wequiwed to suppowt a given popuwation, fwom wickety owbitaw hab-moduwes to megacities and evewything between.",100,
+farming,Fawming,15,60,,1,,,"farming, industry, rural",,graphics/icons/industry/farming.png,com.fs.starfarer.api.impl.campaign.econ.impl.Farming,"Agwicuwtuwe is a twade and technowogy as owd as civiwization itsewf; fow thousands of cycwes Humanity has hawnessed the powew of natuwaw, modified, and awtificiaw biowogicaw machines fow sustenance. So it has awways been, so it shaww be so wong as humans awe human.",200,LOW
+aquaculture,Aquacuwtuwe,50,60,,3,,,"farming, industry, rural",,graphics/icons/industry/aquaculture.png,com.fs.starfarer.api.impl.campaign.econ.impl.Farming,"Fawming on a watew wowwd wequiwes a significant initiaw investment in bioengineewing suitabwe species, but once the pwocess takes off, awgae fawms and fishewies can be opewated by the popuwation without wequiwing much in the way of speciawized twaining ow equipment.",210,MEDIUM
+mining,Mining,20,60,,2,,,"mining, industry, industrial",,graphics/icons/industry/mining.png,com.fs.starfarer.api.impl.campaign.econ.impl.Mining,"Metaw and metawwoid owes, owganics, and vowatiwe compounds aww wequiwe heavy equipment, speciaw infwastwuctuwe, and a skiwwed wowkfowce to extwact. The hawsh wowk attwacts a cewtain type, and an administwation that's not wiwwing to wook the othew way now and again may find itsewf wunning showt of wiwwing pewsonnew.",300,MEDIUM
+techmining,Tech-Mining,30,45,,2,,,"techmining, industry, industrial",,graphics/icons/industry/techmining.png,com.fs.starfarer.api.impl.campaign.econ.impl.TechMining,"Techmining is the motwey awt of wecovewing vawuabwe awtifacts fwom Domain wuins. Wequiwes speciaw toows to deaw with unique hazawds and expewt judgement to know whewe to wook fow a good hauw of baubwes. The owdest techminews awe a stwange wot, cwutching wuck-chawms and wefusing to wowk without theiw wituaws.",400,MEDIUM
+refining,Wefining,45,90,,3,,,"refining, industry, industrial",,graphics/icons/industry/refining.png,com.fs.starfarer.api.impl.campaign.econ.impl.Refining,"Smewting pwants hewe convewt owes and twanspwutonic owes into metaws and twanspwutonics, wespectivewy. Teweopewated wobotics awe used to handwe the most dangewous tasks, usuawwy.",500,MEDIUM
+spaceport,Spacepowt,10,15,,3,,megaport,"spaceport, important, structure",,graphics/icons/industry/spaceport.png,com.fs.starfarer.api.impl.campaign.econ.impl.Spaceport,Faciwities fow woading and unwoading cawgo and pewfowming basic stawship wepaiws. A cowony without a spacepowt is viwtuawwy inaccessibwe to intewstewwaw twade.,150,HIGH
+megaport,Megapowt,60,150,,4,spaceport,,"spaceport, structure",,graphics/icons/industry/megaport.png,com.fs.starfarer.api.impl.campaign.econ.impl.Spaceport,"A vast stawpowt whewe the staws can touch the diwt. Wegimented wandew gantwies and awmouwed fuew tanks awe waced togethew by access-woads and showt-hauw cawgo twams feeding a spwaww of wawehouse distwicts and wogistics tewminaws, aww making the cowony vastwy mowe accessibwe.",151,EXTREME
+lightindustry,Wight Industwy,45,90,,8,,,"lightindustry, industry, rural",,graphics/icons/industry/light_industry.png,com.fs.starfarer.api.impl.campaign.econ.impl.LightIndustry,Pwoduces domestic and wuxuwy goods. One of the few industwies wewativewy unaffected by the Cowwapse due to its wow-tech natuwe.,1400,MEDIUM
+heavyindustry,Heavy Industwy,100,120,,12,,orbitalworks,"heavyindustry, uses_blueprints, industry, industrial",,graphics/icons/industry/heavy_industry.png,com.fs.starfarer.api.impl.campaign.econ.impl.HeavyIndustry,"Centwawized manufactuwing infwastwuctuwe fow pwoduction of heavy industwiaw equipment, suppwies, and weapons. Awso capabwe of pwoducing bawewy-spacewowthy stawships; a nanofowge can be instawwed to impwove pwoduction quawity.",1600,HIGH
+orbitalworks,Owbitaw Wowks,60,150,,12,heavyindustry,,"heavyindustry, uses_blueprints, industry, industrial",,graphics/icons/industry/orbital_works.png,com.fs.starfarer.api.impl.campaign.econ.impl.HeavyIndustry,"Centwawized manufactuwing infwastwuctuwe fow pwoduction of heavy industwiaw equipment, suppwies, and weapons. Awso capabwe of pwoducing bawewy-spacewowthy stawships; a nanofowge can be instawwed to impwove pwoduction quawity.
+
+Upgwaded with an owbitaw component that fuwthew faciwitates ship constwuction, wesuwting in fewew manufactuwing defects.",1700,HIGH
+fuelprod,Fuew Pwoduction,90,120,,10,,,"fuelprod, industry, industrial",,graphics/icons/industry/fuel_production.png,com.fs.starfarer.api.impl.campaign.econ.impl.FuelProduction,"This faciwity pwoduces stawship fuew, the wife-bwood of intewstewwaw civiwization. Wacking Domain-tech components, fuew pwoduction is a wabowious and swow pwocess.",1800,HIGH
+#advfuelprod,Advanced Fuew Pwoduction,120,60,,5,fuelprod,,fuelprod,,graphics/icons/industry/advanced_fuel_production.png,com.fs.starfarer.api.impl.campaign.econ.impl.FuelProduction,"A massive Domain-tech faciwity pwoduces stawship fuew, the wife-bwood of intewstewwaw civiwization.",1900,
+commerce,Commewce,90,90,,3,,,"industry, urban",,graphics/icons/industry/commerce.png,com.fs.starfarer.api.impl.campaign.econ.impl.TradeCenter,"Weguwations, gwants, and infwastwuctuwe to encouwage thwiving independent twade. Gweatwy weduces the degwee of diwect contwow the administwation has ovew the cowony.",1950,MEDIUM
+station_base,Owbitaw Station,,,,,,,"station, parent_item, important, structure",station,graphics/icons/industry/station_category.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A space station that is capabwe of suppowting fwiendwy fweets neaw $marketName and must be weduced befowe a bombawdment can be attempted.
+
+Sevewaw vawiations awe avaiwabwe, with diffewences genewawwy being in tacticaw appwoaches wathew than ovewaww stwength.",2000,
+orbitalstation,Owbitaw Station - Wow Tech,50,90,,3,,battlestation,"station, sub_item, unraidable, structure","{
+radius:55,
+variant:station1_Standard,
+fleetName:Orbital Station,
+}",graphics/icons/industry/orbital_station.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A wow-tech space station, featuwing heavy awmow and medium fiwepowew.
+
+Must be weduced befowe a bombawdment can be attempted.",2010,
+battlestation,Battwestation - Wow Tech,100,120,,4,orbitalstation,starfortress,"station, battlestation, unraidable, structure","{
+radius:65,
+variant:station2_Standard,
+fleetName:Battlestation,
+}",graphics/icons/industry/battlestation.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A space station, augmented with a heavy bastion and point-defense citadews.
+
+Must be weduced befowe a bombawdment can be attempted.",2020,
+starfortress,Staw Fowtwess - Wow Tech,200,180,,5,battlestation,,"station, starfortress, unraidable, structure","{
+radius:70,
+variant:station3_Standard,
+fleetName:Star Fortress
+}",graphics/icons/industry/star_fortress.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"An up-awmowed battwestation, featuwing Mewwon-cwass defense dwones and an extensive minefiewd.
+
+Must be weduced befowe a bombawdment can be attempted.",2030,
+orbitalstation_mid,Owbitaw Station - Midwine,50,90,,3,,battlestation_mid,"station, sub_item, unraidable, structure","{
+radius:55,
+variant:station1_midline_Standard,
+fleetName:Orbital Station,
+}",graphics/icons/industry/orbital_station.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A midwine space station, featuwing heavy fiwepowew on one side and wapid axiaw wotation.
+
+Must be weduced befowe a bombawdment can be attempted.",2040,
+battlestation_mid,Battwestation - Midwine,100,120,,4,orbitalstation_mid,starfortress_mid,"station, battlestation, unraidable, structure","{
+radius:65,
+variant:station2_midline_Standard,
+fleetName:Battlestation,
+}",graphics/icons/industry/battlestation.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A space station, augmented with missiwe suppowt moduwes.
+
+Must be weduced befowe a bombawdment can be attempted.",2050,
+starfortress_mid,Staw Fowtwess - Midwine,200,180,,5,battlestation_mid,,"station, starfortress, unraidable, structure","{
+radius:70,
+variant:station3_midline_Standard,
+fleetName:Star Fortress
+}",graphics/icons/industry/star_fortress.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"An up-awmowed battwestation, featuwing Wavewin-cwass defense dwones and an extensive minefiewd.
+
+Must be weduced befowe a bombawdment can be attempted.",2060,
+orbitalstation_high,Owbitaw Station - High Tech,50,90,,3,,battlestation_high,"station, sub_item, unraidable, structure","{
+radius:55,
+variant:station1_hightech_Standard,
+fleetName:Orbital Station,
+}",graphics/icons/industry/orbital_station.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A high-tech space station, featuwing heavy wotating shiewds, a fightew compwement, and medium fiwepowew.
+
+Must be weduced befowe a bombawdment can be attempted.",2070,
+battlestation_high,Battwestation - High Tech,100,120,,4,orbitalstation_high,starfortress_high,"station, battlestation, unraidable, structure","{
+radius:65,
+variant:station2_hightech_Standard,
+fleetName:Battlestation,
+}",graphics/icons/industry/battlestation.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"A space station, augmented with a defensive citadew featuwing heavy fiwepowew.
+
+Must be weduced befowe a bombawdment can be attempted.",2080,
+starfortress_high,Staw Fowtwess - High Tech,200,180,,5,battlestation_high,,"station, starfortress, unraidable, structure","{
+radius:70,
+variant:station3_hightech_Standard,
+fleetName:Star Fortress
+}",graphics/icons/industry/star_fortress.png,com.fs.starfarer.api.impl.campaign.econ.impl.OrbitalStation,"An up-awmowed battwestation, featuwing Gawgoywe-cwass defense dwones and wong-wange tawgeted mine tewepowtews.
+
+Must be weduced befowe a bombawdment can be attempted.",2090,
+grounddefenses,Gwound Defenses,30,60,,2,,heavybatteries,"grounddefenses, unraidable, tactical_bombardment, structure",,graphics/icons/industry/ground_defenses.png,com.fs.starfarer.api.impl.campaign.econ.impl.GroundDefenses,"A dispewsed, semi-autonomous netwowk of smaww, hidden weapon instawwations which makes the pwospect of a diwect gwound assauwt and even simpwe waids extwemewy costwy to the attackew. Onwy ovewwhewming owbitaw bombawdment ow massivewy dispwopowtionate active scweening can suppwess these defenses.",2200,
+heavybatteries,Heavy Battewies,60,90,,3,grounddefenses,,"grounddefenses, unraidable, tactical_bombardment, structure",,graphics/icons/industry/heavy_batteries.png,com.fs.starfarer.api.impl.campaign.econ.impl.GroundDefenses,"Awmouwed subsuwface battewies suppwement a dispewsed netwowk of smaww, hidden weapon instawwations. Gwound-based battewies awe capabwe of twuwy awesome fiwepowew, though it onwy manifests by making gwound opewations mowe difficuwt, as no stawship captain wouwd be foowish enough to get within theiw fiwing envewopes.",2300,
+patrolhq,Patwow HQ,60,60,,8,,militarybase,"patrol, unraidable, tactical_bombardment, structure",,graphics/icons/industry/patrol_hq.png,com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase,"The wequisite hangaws, maintenance bays, command/contwow centew, bawwacks, and wogistics opewations wequiwed to pwoject fowce thwoughout a staw system. Once estabwished, miwitawized patwows wiww hunt piwates and pwotect fwiendwy convoys.",2400,
+militarybase,Miwitawy Base,90,120,,10,patrolhq,highcommand,"military, unraidable, tactical_bombardment, industry",,graphics/icons/industry/military_base.png,com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase,"These faciwities enabwe fowce pwojection between staw systems. Any such miwitawy undewtaking is a massive wogisticaw opewation wequiwing coowdination of dozens, pewhaps hundweds of staw ships and thousands of officews, cwew, and sowdiews.",2500,
+highcommand,High Command,30,120,,14,militarybase,,"command, unraidable, tactical_bombardment, industry",,graphics/icons/industry/high_command.png,com.fs.starfarer.api.impl.campaign.econ.impl.MilitaryBase,Twanstewwaw empiwe is possibwe onwy thwough an exceptionaw cowps of officews and buweaucwats given authowity ovew the wesouwces of entiwe staw systems. An estabwished high command awwows miwitawy opewations to be owganized and executed acwoss the Sectow.,2600,
+lionsguard,Wion's Guawd HQ,90,60,,6,,,"military, unraidable, tactical_bombardment, structure, codex_unlockable",,graphics/icons/industry/lions_guard.png,com.fs.starfarer.api.impl.campaign.econ.impl.LionsGuardHQ,"Headquawtews of the feawed pewsonaw guawd of Phiwwip ""The Wion of Sindwia"" Andwada. Boasting supewb twaining and access to the best equipment cwedits can buy, the fanaticaw woyawty of the Guawd is maintained thwough a system of pewks and incentives that both ewevate and isowate the Guawd fwom the Diktat's weguwaw miwitawy.",2650,
+planetaryshield,Pwanetawy Shiewd,150,90,,3,,,"grounddefenses, structure, codex_unlockable",,graphics/icons/industry/planetary_shield.png,com.fs.starfarer.api.impl.campaign.econ.impl.PlanetaryShield,An envewope of chawged pwasma seeded with exotic viwtuaw pawticwes pwoducing effects which diswupt the combat effectiveness of wong-wange bombawdment and even incuwsion by smaww vessews. The pwanetawy shiewd can be continuawwy chawged and contwowwed by a centwaw souwce and pwesents a fowmidabwe obstacwe to any fowm of gwound assauwt.,2700,EXTREME
+waystation,Waystation,20,60,,2,,,"waystation, structure",,graphics/icons/industry/waystation.png,com.fs.starfarer.api.impl.campaign.econ.impl.Waystation,A suppwy and maintenance depot fow intewstewwaw fweets. Incweases a cowony's accessibiwity.,155,MEDIUM
+cryosanctum,Cwyosanctum,150,90,,5,,,"cryosanctum, structure, codex_unlockable",,graphics/icons/industry/cryosanctum.png,com.fs.starfarer.api.impl.campaign.econ.impl.Cryosanctum,"An enowmous tomb-wike vauwt buiwt to stowe those who choose to wisk cwyosweep to pass this time of twoubwes to wake in what wiww pwesumabwy be a mowe civiwized age. The cwyopods themsewves awe insignificant in size compawed to the many-times wedundant suppowt infwastwuctuwe, massive automated secuwity systems and anti-ship battewies, aww housed in a bwanching subsuwface fowtwess-wabywinth.",3000,EXTREME
+,,,,,,,,,,,,,,
+cryorevival,Cwyowevivaw Faciwity,60,60,,5,,,"cryorevival, structure, codex_unlockable",,graphics/icons/industry/cryorevival.png,com.fs.starfarer.api.impl.campaign.econ.impl.Cryorevival,The necessawy faciwities fow the mass wevivaw and assimiwation of the passengews of a Domain-ewa cwyosweepew. Gweatwy incweases popuwation gwowth.,3200,MEDIUM

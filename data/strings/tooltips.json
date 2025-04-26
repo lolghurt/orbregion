@@ -1,66 +1,66 @@
 {
 	"codex":{
 		"damage_kinetic":{
-			"title":"Kinyetic Damyage",
-			"body":"Kinyetic damyage is gweat against shields, but poor against armor.",
+			"title":"Kinetic Damage",
+			"body":"Kinetic damage is gweat against shiewds, but poow against awmow.",
 		},
 		"damage_highexplosive":{
-			"title":"High Expwosive Damyage",
-			"body":"High expwosive damyage is great against armor, but poor against shields.",
+			"title":"High Expwosive Damage",
+			"body":"High expwosive damage is gweat against awmow, but poow against shiewds.",
 		},
 		"damage_fragmentation":{
-			"title":"Fwagmyentation Damage",
-			"body":"Fwagmyentation damage is very poor against both armor and shields. However, weapons dealing fragmentation damage usually have a very high DPS, making them devastating vs lightly-armored, unshielded targets such as light fighters and missiles.\n\nIt can also be highly effective against a ship whose armor is stripped away by battle damage.",
+			"title":"Fwagmentation Damage",
+			"body":"Fwagmentation damage is vewy poow against both awmow and shiewds. Howevew, weapons deawing fwagmentation damage usuawwy have a vewy high DPS, making them devastating vs wightwy-awmowed, unshiewded tawgets such as wight fightews and missiwes.\n\nIt can awso be highwy effective against a ship whose awmow is stwipped away by battwe damage.",
 		}, 
 		"damage_energy":{
-			"title":"Enyewgy Damyage",
-			"body":"Enyewgy damyage is equally effective against shields and armor.",
+			"title":"Enewgy Damage",
+			"body":"Enewgy damage is equawwy effective against shiewds and awmow.",
 		},
 		"damage_other":{
-			"title":"Othew Damyage",
-			"body":"This weapon is speciaw. In reality, though, if you're seeing this, it's probably a bug.",
+			"title":"Othew Damage",
+			"body":"This weapon is speciaw. In weawity, though, if you'we seeing this, it's pwobabwy a bug.",
 		}, 
 	},
 	"warroom":{
 		#"fleetPoints":{
-		#	"title":"Depwoymyent points",
-		#	"body":"You nyeed avaiwable deploymyent points to deploy your reserves into battle. Wetreating or losing ships gives you back the points used to deploy them.",
+		#	"title":"Depwoyment points",
+		#	"body":"You need avaiwabwe depwoyment points to depwoy youw wesewves into battwe. Wetweating ow wosing ships gives you back the points used to depwoy them.",
 		#},
 		#"commandPoints":{
-		#	"title":"Commyand Points",
-		#	"body":"You nyeed commyand points to cweate assignments and give direct orders to your fleet.\n\nOnce you run out, you won't be able to give any more orders, but can still order your fleet to engage the enemy at will by cancelling all existing assignments.\n\nYou gain a few command points every time your forces capture an objective.",
+		#	"title":"Command Points",
+		#	"body":"You need command points to cweate assignments and give diwect owdews to youw fweet.\n\nOnce you wun out, you won't be abwe to give any mowe owdews, but can stiww owdew youw fweet to engage the enemy at wiww by cancewwing aww existing assignments.\n\nYou gain a few command points evewy time youw fowces captuwe an objective.",
 		#},
 		"pause":{
 			"title":"Pause",
-			"body":"Pauses the gamye.",
+			"body":"Pauses the game.",
 		},
 		"play":{
 			"title":"Unpause",
-			"body":"Unpauses the gamye.",
+			"body":"Unpauses the game.",
 		},
-		"combatTime":"Timye ewapsed with both fleets in contact with each other.\n\nThe peak performance time of reinforcements is reduced by half of the combat time.",
+		"combatTime":"Time ewapsed with both fweets in contact with each othew.\n\nThe peak pewfowmance time of weinfowcements is weduced by hawf of the combat time.",
 	},
 	
 	"fleetScreen":{
 		"tooltipCaptain":{
 			"title":"Assign Captain",
-			"body":"Assign a captain (youwself or an officer) to this ship. The ship will benyefit from the captain's skills.",
+			"body":"Assign a captain (youwsewf ow an officew) to this ship. The ship wiww benefit fwom the captain's skiwws.",
 		},
 		"tooltipAdmin":{
-			"title":"Assign Admyinyistwator",
-			"body":"Assign an admyinyistwator (or yourself) to govern this colony, which will then benefit from the assigned administrator's skills.",
+			"title":"Assign Administwatow",
+			"body":"Assign an administwatow (ow youwsewf) to govewn this cowony, which wiww then benefit fwom the assigned administwatow's skiwws.",
 		},
 		"tooltipAdminNonPlayer":{
-			"title":"Admyinyistwator",
-			"body":"This cowony is nyot governed by an admyinistrator of any note.",
+			"title":"Administwatow",
+			"body":"This cowony is not govewned by an administwatow of any note.",
 		},
 		"tooltipBuy":{
 			"title":"Buy",
-			"body":"Buy this %s fow %d credits.",
+			"body":"Buy this %s fow %d cwedits.",
 		},
 		"tooltipSell":{
-			"title":"Sewl",
-			"body":"Sewl this %s for %d credits.",
+			"title":"Seww",
+			"body":"Seww this %s fow %d cwedits.",
 		},
 		"tooltipTake":{
 			"title":"Take",
@@ -68,67 +68,67 @@
 		},
 		"tooltipGive":{
 			"title":"Stowe",
-			"body":"Twansfer this %s from your fleet. Its combat readinyess will remyain unchanged while it's in storage.",
+			"body":"Twansfew this %s fwom youw fweet. Its combat weadiness wiww wemain unchanged whiwe it's in stowage.",
 		},
 		"tooltipMothball":{
-			"title":"Myothbawl",
-			"body":"Myothbawled %ss can't be used in combat or repaired, and do nyot provide any fuel, cargo, or personnel capacity.\n\nMothballing a ship will reduce its combat readiness to zero; restoring it will require timye and supplies.",
+			"title":"Mothbaww",
+			"body":"Mothbawwed %ss can't be used in combat ow wepaiwed, and do not pwovide any fuew, cawgo, ow pewsonnew capacity.\n\nMothbawwing a ship wiww weduce its combat weadiness to zewo; westowing it wiww wequiwe time and suppwies.",
 		},
 		"tooltipUnmothball":{
-			"title":"Myothbawl",
-			"body":"Myothbawled %ss can't be used in combat or repaired, and do nyot provide any fuel, cargo, or personnel capacity.\n\nWestoring this ship's combat readiness after unmyothballing it will consume %s supplies over %s day(s).",
+			"title":"Mothbaww",
+			"body":"Mothbawwed %ss can't be used in combat ow wepaiwed, and do not pwovide any fuew, cawgo, ow pewsonnew capacity.\n\nWestowing this ship's combat weadiness aftew unmothbawwing it wiww consume %s suppwies ovew %s day(s).",
 		},
 		"tooltipScuttle":{
 			"title":"Scuttwe",
-			"body":"Stwip this %s of anything useful, gainying %d supplies, %d fuel, and %d heavy myachinery.",
+			"body":"Stwip this %s of anything usefuw, gaining %d suppwies, %d fuew, and %d heavy machinewy.",
 		},
 		"tooltipSuspendRepairs":{
-			"title":"Suspend Wepaiws & Recovery",
-			"body":"Pwevents this %s from performying repairs or recovering combat readinyess. Full repairs and CW recovery will consume approximately %s supplies over %s days if allowed to proceed.",
+			"title":"Suspend Wepaiws & Wecovewy",
+			"body":"Pwevents this %s fwom pewfowming wepaiws ow wecovewing combat weadiness. Fuww wepaiws and CW wecovewy wiww consume appwoximatewy %s suppwies ovew %s days if awwowed to pwoceed.",
 		},
 		"tooltipSuspendRepairsNotNeeded":{
-			"title":"Suspend Wepaiws & Recovery",
-			"body":"Pwevents this %s from performying repairs or recovering combat readinyess. This %s does not currently require repairs or CW recovery.",
+			"title":"Suspend Wepaiws & Wecovewy",
+			"body":"Pwevents this %s fwom pewfowming wepaiws ow wecovewing combat weadiness. This %s does not cuwwentwy wequiwe wepaiws ow CW wecovewy.",
 		},
 		"tooltipRefit":{
 			"title":"Wefit",
-			"body":"Change the weapons and huwlmyods equipped on this ship.",
+			"body":"Change the weapons and huwwmods equipped on this ship.",
 		},
 		"tooltipLogisticalPriority":{
-			"title":"Wogisticaw Priority",
-			"body":"%ss with wogistical priority get first pick of crew and supplies available for repairs.",
+			"title":"Wogisticaw Pwiowity",
+			"body":"%ss with wogisticaw pwiowity get fiwst pick of cwew and suppwies avaiwabwe fow wepaiws.",
 		},
 		"tooltipCrewElite":{
 			"title":"Ewite",
-			"body":"Cwew this %s with the best personnyel available.",
+			"body":"Cwew this %s with the best pewsonnew avaiwabwe.",
 		},
 		"tooltipCrewVeteran":{
 			"title":"Vetewan",
-			"body":"Cwew this %s with only veteran crew and below, if possible.", 
+			"body":"Cwew this %s with onwy vetewan cwew and bewow, if possibwe.", 
 		},
 		"tooltipCrewRegular":{
-			"title":"Weguwar",
-			"body":"Cwew this %s with only regular crew and below, if possible.",
+			"title":"Weguwaw",
+			"body":"Cwew this %s with onwy weguwaw cwew and bewow, if possibwe.",
 		},
 		"tooltipCrewGreen":{
 			"title":"Gween",
-			"body":"Cwew this %s only with green crew, if possible.",
+			"body":"Cwew this %s onwy with gween cwew, if possibwe.",
 		},
 		"tooltipCrewBar":{
 			"title":"",
-			"body":"Cwew fraction on this %s.",
+			"body":"Cwew fwaction on this %s.",
 		},
 	},
 	"logistics":{
-		"marines":"Nyumbew of myarinyes in the fleet.",
-		"crew":"Nyumbew of crew in the fleet, and the nyumber needed to myeet the minimum requirements on all ships in the fleet.",
-		"supplies":"Avaiwable supplies and supply use per day.",
-		"credits":"Avaiwable credits.",
+		"marines":"Numbew of mawines in the fweet.",
+		"crew":"Numbew of cwew in the fweet, and the numbew needed to meet the minimum wequiwements on aww ships in the fweet.",
+		"supplies":"Avaiwabwe suppwies and suppwy use pew day.",
+		"credits":"Avaiwabwe cwedits.",
 	},
 	"misc":{
-		"jumpPointNormal":"Jump points can be used to twansit between hyperspace and nyormyal space. Some jump points also lead to other destinations.",
-		"jumpPointStar":"The gwavity well of a star is deep enyough to provide a one-way exit from hyperspace. Using one is, however, extremyely difficult and dangerous.",
-		"jumpPointGasGiant":"The gwavity well of a gas giant is often deep enyough to provide a one-way exit from hyperspace.",
+		"jumpPointNormal":"Jump points can be used to twansit between hypewspace and nowmaw space. Some jump points awso wead to othew destinations.",
+		"jumpPointStar":"The gwavity weww of a staw is deep enough to pwovide a one-way exit fwom hypewspace. Using one is, howevew, extwemewy difficuwt and dangewous.",
+		"jumpPointGasGiant":"The gwavity weww of a gas giant is often deep enough to pwovide a one-way exit fwom hypewspace.",
 	},
 	
 }

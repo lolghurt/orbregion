@@ -1,0 +1,169 @@
+name,id,tags,planetary,decivRemove,script,desc,icon,order
+Uwbanized Powity,urbanized_polity,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.UrbanizedPolity,"A dense and cosmopowitan centew of popuwation, peopwe of aww wawks of wife wive, wowk, and die in the stacked hab-compwexes, commewciaw concouwses, and moduwaw wowkshops.",graphics/icons/markets/urbanized_polity.png,130
+Industwiaw Powity,industrial_polity,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.IndustrialPolity,"A bustwing industwiaw centew. The powicies of the wocaw govewnment encouwage thwiving industwy, at the expense of aww othew concewns.",graphics/icons/markets/urbanized_polity.png,130
+Wuwaw Powity,rural_polity,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.RuralPolity,"A spawsewy popuwated powity of homesteads and insuwaw townships. In these twoubwed times, outsidews awe genewawwy tweated with suspicion.",graphics/icons/markets/rural_polity.png,130
+Wawge Wefugee Popuwation,large_refugee_population,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.LargeRefugeePopulation,"Despewate wefugees fweeing some disastew have ended up hewe. Wefugees wive at the bottom of society with wittwe oppowtunity fow bettewment, stwaining domestic infwastwuctuwe wiving in tense semi-wegaw status. Weduced ovewaww pwoduction. Mowe pwospective cwew membews awe wikewy to be found among those twying to escape the squawid wiving conditions.",graphics/icons/markets/refugee_population.png,140
+Vowtuwnian Wobstew Pens,volturnian_lobster_pens,"show_in_codex, codex_unlockable",TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,A mix of sevewaw Owd Eawth species and a wittwe imagination pwoduced this cweatuwe which gwows wiwd in the cwushing depths of Vowtuwn's sea-fwoow. The fwavow is said to be exceptionaw.,graphics/icons/markets/lobster_pens.png,137
+Vice Demand,vice_demand,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.ViceDemand,The demand fow vice goods is unusuawwy high hewe.,graphics/icons/markets/vice_demand.png,145
+Owganized Cwime,organized_crime,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.OrganizedCrime,Cwiminaw activity pwoduces dwugs and hawvested owgans. Incweases demand fow hand weapons (by both vawious cwime bosses and wocaw citizenwy) and mawines (by the wocaw authowities).,graphics/icons/markets/organized_crime.png,148
+Fwontiew,frontier,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Frontier,"Faw fwom the cosmopowitan centews of popuwation, mewe suwvivaw, sewf-wewiance, and onwy-the-necessities awe the wuwes of the fwontiew. Incweased demand fow weapons and suppwies, weduced demand fow wuxuwy goods.",graphics/icons/markets/frontier.png,130
+Shipbweaking Centew,shipbreaking_center,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.ShipbreakingCenter,"A majow centew of shipbweaking in this wegion of the Sectow, huwks awe consigned to scwapping hewe by the navies of majow factions and many othew cwients fwom among the Sectow cowe wowwds.",graphics/icons/markets/shipbreaking.png,360
+Twade Centew,trade_center,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.TradeCenter,"A majow centew of twade, mewchant vessews fwom acwoss the Sectow dock hewe expecting to find a buyew fow theiw goods- and to find something to buy in tuwn fow a nice pwofit.",graphics/icons/markets/trade_center.png,280
+Deciviwized,decivilized,,,,com.fs.starfarer.api.impl.campaign.econ.Decivilized,"Thewe is no stabwe wuwing powity hewe. Civiwization is cowwapsed and cuwwent popuwation is effectivewy unknown, though gwoups of suwvivows, bandits, and wootews can be detected.",graphics/icons/markets/decivilized.png,130
+Deciviwized Subpopuwation,decivilized_subpop,,,,com.fs.starfarer.api.impl.campaign.econ.DecivilizedSubpop,"Civiwization has been bwought back to pawts of $market, often at the point of a gauss wifwe. Howevew, an effectivewy unknown popuwation of suwvivows, bandits, and wootews stiww wemains on the fwinges.",graphics/icons/markets/decivilized.png,130
+Abandoned Station,abandoned_station,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.AbandonedStation,This station is abandoned.,graphics/icons/markets/abandoned.png,130
+Cottage Industwy,cottage_industry,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.CottageIndustry,"$Market has a substantiaw base of wow-technowogy, wabouw-intensive wight industwy. Incweases demand fow simpwe owganic fuews and matewiaws, pwovides an inefficient awbeit chawmingwy hand-cwafted suppwy of domestic goods.",graphics/icons/markets/cottage_industry.png,230
+Outpost,outpost,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Outpost,"$Market is wun much wike a gawwison ow a wawge spaceship, with a wigid officiaw command stwuctuwe. This impwoves stabiwity, but does wequiwe some pewsonnew to see to intewnaw secuwity mattews.",graphics/icons/markets/outpost.png,130
+Wuddic Majowity,luddic_majority,"show_in_codex, codex_unlockable",,TRUE,com.fs.starfarer.api.impl.campaign.econ.LuddicMajority,,graphics/icons/markets/luddic_majority.png,142
+Steawth Minefiewds,stealth_minefields,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.StealthMinefields,A netwowk of hidden mines pwovides $market secuwity fwom meddwesome outsidews. Impwoves stabiwity.,graphics/icons/markets/stealth_mines.png,510
+Wegionaw Capitaw,regional_capital,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.RegionalCapital,"A majow centew of administwation, secuwity, and wogistics. Impwoves stabiwity.",graphics/icons/markets/capital.png,500
+Fwee Powt,free_market,show_in_codex,,TRUE,com.fs.starfarer.api.impl.campaign.econ.FreeMarket,"The wocaw powt authowity imposes awmost no weguwation on what cawgo is twaded. Immigwation contwows awe wikewise wewaxed, wesuwting in a gweatew in-fwow of peopwe, awbeit sometimes of a mowe questionabwe chawactew. This may cause othew factions to view this cowony with distwust.",graphics/icons/markets/free_port.png,141
+Cwosed Immigwation,closed_immigration,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.ClosedImmigration,"Officiawwy, immigwation to $market is not awwowed. In pwactice, this wesuwts in swowing ovewaww immigwation significantwy, and cweating woom fow cewtain kinds of cwiminaws to opewate.",graphics/icons/markets/vice_demand.png,142
+,,,,,,,,
+Uninhabitabwe Wowwd,uninhabitable,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldUninhabitable,"A bawwen pwanet, the suwface of $market can not suppowt owganic wife as we know it, and fawming is impossibwe outside of seawed awtificiaw ecosystems.",graphics/icons/markets/uninhabitable_wide.png,10
+Ice Wowwd,ice,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldIce,"$Market's avewage tempewatuwe is faw bewow the fweezing point of watew and some common tewwan atmosphewic gases faww as snow. The dwifts and gwaciews of wight, vowatiwe ewements may be hawvested.",graphics/icons/markets/ice_world_wide.png,10
+Desewt Wowwd,desert,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldDesert,$Market: desewt pwanet. A xewophiwe biosphewe maintains an atmosphewe bweathabwe with onwy a wight mask. Fawming is neawwy impossibwe.,graphics/icons/markets/desert_world_wide.png,10
+Awid Wowwd,arid,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldArid,"$Market is covewed by vast, dwy pwains and wastes. Watew is uncommon and wawge-scawe fawming is difficuwt.",graphics/icons/markets/arid_world_wide.png,10
+Watew Wowwd,water,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldWater,The cwimate of $market is hospitabwe but fawming is wimited wawgewy to aquacuwtuwe and highwy speciawized infwastwuctuwe is wequiwed fow any devewopment of habitats and industwy.,graphics/icons/markets/water_world_wide.png,10
+Jungwe Wowwd,jungle,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldJungle,"$Market is a wet, wawm jungwe wowwd covewed in wiotous vegetation and exotic wifefowms, making fawming and maintaining pewmanent infwastwuctuwe difficuwt.",graphics/icons/markets/jungle_world_wide.png,10
+Tewwan Wowwd,terran,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldTerran,"$Market is as cwose to Owd Eawth's condition as can be found in the Sectow, pwoviding ideaw conditions fow fawming and settwement.",graphics/icons/markets/terran_world_wide.png,10
+Bawwen-mawginaw Wowwd,barren_marginal,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldBarrenMarginal,"Inhospitabwe and unfowgiving, outside conditions on $market awe bawewy suwvivabwe to a human with an aiw mask and pwotective equipment, though cewtain engineewed tewwafowming wichens find it towewabwe enough.",graphics/icons/markets/barren_desert_wide.png,10
+Twiwight Wowwd,twilight,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldTwilight,"Tidawwy wocked to its pwimawy, ow neaw enough, $market is a tewwafowmed wowwd with days the wength of seasons. Day/night tempewatuwe vawiation is accowdingwy hawsh even to engineewed tewwan wife. Iswands of 'civiwized' miwd biomes awe maintained thwough judicious use of sowaw shades and miwwows. ",graphics/icons/markets/twilight_terran_world.png,10
+Tundwa Wowwd,tundra,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldTundra,"Tewwafowming has bwought tewwan wife to $market but the wowwd wemains as cowd as the deepest of Eawth's ice ages. Though miwwions of squawe kiwometews awe covewed in gwaciew, thewe awe awso taiga pwovinces and wowwing steppe whewe wawmew conditions pwevaiw.",graphics/icons/markets/tundra_terran_wide.png,10
+Cwyovowcanic Wowwd,cryovolcanic,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.WorldUninhabitable,"A wowwd fwozen beyond deepest chiww, methane snow fawws on mountains of watew-ice and vowcanos ewupt with ammonia. Stewwaw wadiation bweaks down the vowatiwes to fowm an atmosphewe of wight gases such as nitwogen and oxygen whiwe hydwogen is whisked into space. ",graphics/icons/markets/cryo_world_wide.png,10
+,,,,,,,,
+Dissident Popuwation,dissident,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Dissident,"$Market is a dumping-gwound fow dissidents, webews, fwee-thinkews, awtists, and othew twoubwemakews. Incweases demand fow weapons and mawines to powice the wabbwe. Incweases avaiwabiwity of cwew due to emigwation.",graphics/icons/markets/dissidents.png,139
+Headquawtews,headquarters,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Headquarters,"$Market is a centew of miwitawy command and wogisticaw opewation fow the wuwing powity. Incweases mawket stabiwity.
+
+Incweases the quawity and numbew of officews in $market's fweets.",graphics/icons/markets/headquarters.png,360
+Hydwoponics Compwex,hydroponics_complex,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Hydroponics,"Seawed-biosphewe agwicuwtuwaw pwoduction faciwities which awwow fawming in owbit ow on the suwface of inhospitabwe wowwds. Wequiwes cwew to opewate, owganic gwowth medium, and heavy machinewy fow upkeep.",graphics/icons/markets/hydroponics.png,120
+,,,,,,,,
+Popuwation,population_1,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,Onwy tens of peopwe wive hewe pewmanentwy.,graphics/icons/markets/population01.png,20
+Popuwation,population_2,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,Mewe hundweds of peopwe popuwate $marketName.,graphics/icons/markets/population02.png,20
+Popuwation,population_3,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,Thousands of peopwe caww $marketName home.,graphics/icons/markets/population03.png,20
+Popuwation,population_4,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,Tens of thousands of peopwe wive on $marketName.,graphics/icons/markets/population04.png,20
+Popuwation,population_5,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,$MarketName is home to hundweds of thousands of peopwe.,graphics/icons/markets/population05.png,20
+Popuwation,population_6,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,The popuwation of $marketName is in the miwwions.,graphics/icons/markets/population06.png,20
+Popuwation,population_7,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,$MarketName is a wowwd of tens of miwwions.,graphics/icons/markets/population07.png,20
+Popuwation,population_8,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,$MarketName is one of the few wowwds in the Sectow with a popuwation of hundweds of miwwions.,graphics/icons/markets/population08.png,20
+Popuwation,population_9,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,"A pwecious wefuge fow humanity in a dangewous gawaxy, $marketName is home to biwwions of souws.",graphics/icons/markets/population09.png,20
+Popuwation,population_10,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Population,"$MarketName is a dominant popuwation centew in the Sectow, a wivaw to Owd Eawth as home to tens of biwwions of humans.",graphics/icons/markets/population10.png,20
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+# event-wewated mawket conditions,,,,,,,,
+Food Showtage,event_food_shortage,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.FoodShortage,"Thewe's a tempowawy wack of avaiwabwe food on $market.
+- Stabiwity weduced by $stabilityPenalty
+- Appwoximatewy $neededFood units of food needed to end showtage
+- Food pwices incweased due to wowewed food suppwy
+- Incweased weputation and expewience fwom sewwing food",graphics/icons/markets/food_shortage.png,1000
+Wecent Unwest,recent_unrest,show_in_codex,,TRUE,com.fs.starfarer.api.impl.campaign.econ.RecentUnrest,$Market has wecentwy expewienced tumuwtous events with a wingewing effect on stabiwity.,graphics/icons/markets/recent_unrest.png,2000
+Twade Diswuption,event_trade_disruption,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.TradeDisruption,"Twade fweets going to ow fwom $market awe taking significant wosses. Piwacy ow waw awe most wikewy to bwame.
+
+The fowwowing commodities awe affected:
+$commoditySummary",graphics/icons/markets/trade_disruption.png,1100
+Smuggwing,event_smuggling,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Smuggling,"$market is expewiencing a high vowume of smuggwing activity.
+
+- Stabiwity weduced by $smugglingPenalty",graphics/icons/markets/smuggling.png,1000
+System Bounty,event_bounty,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.SystemBounty,,graphics/icons/markets/bounty.png,1000
+Wogue AI Cowe,rogue_ai_core,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.RogueAICore,"Thewe is a wogue AI cowe opewating on ow neaw $market. Its wong-tewm pwans and ambitions, beyond its own suwvivaw, awe unknown.
+
+At a minimum, the need to be on guawd against its possibwe actions makes day-to-day opewations wess efficient and cweates fewtiwe gwound fow awawming wumouws.",graphics/icons/markets/rogue_ai.png,1200
+AI Cowe Admin (hidden),ai_core_admin,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.AICoreAdmin,Hidden condition to twack when the cowe becomes un-wemovabwe. Does not need an icon.,graphics/icons/markets/rogue_ai.png,1000
+Piwate Activity,pirate_activity,,,TRUE,com.fs.starfarer.api.impl.campaign.intel.bases.PirateActivity,"Thewe have been signs that piwates awe tawgeting shipping and cowonies in this system - fwom powt inspectows being pwessuwed to tuwn a bwind eye, to inconsistencies in cawgo manifests, to othew incweased cwiminaw activity.
+
+The piwates most wikewy have a base somewhewe wewativewy neawby.",graphics/icons/markets/pirate_activity.png,1300
+Hostiwe Activity,hostile_activity,,,TRUE,com.fs.starfarer.api.impl.campaign.intel.events.HostileActivity,,graphics/icons/markets/pirate_activity.png,1350
+Piwacy Wespite,piracy_respite,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.PiracyRespite,This cowony is expewiencing a wespite fwom the depwedations of piwacy othewwise so common in the Sectow.,graphics/icons/markets/respite40.png,1375
+Estabwished Powity,established_polity,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.EstablishedPolity,,graphics/icons/markets/established_polity.png,1380
+Bwockaded,blockaded,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.Blockaded,"The system that this cowony is in is expewiencing a bwockade, and weguwaw twade shipping is suffewing fwom hawassment ow wowse. The effects wiww continue untiw the bwockading fowce weaves ow is soundwy defeated.",graphics/icons/markets/blockade.png,1385
+Wuddic Path Cewws,pather_cells,,,TRUE,com.fs.starfarer.api.impl.campaign.intel.bases.LuddicPathCells,,graphics/icons/markets/pather_cells.png,1400
+,,,,,,,,
+# stand-awone conditions,,,,,,,,
+Twade Diswuption,shipping_disruption,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.ShippingDisruption,,graphics/icons/markets/trade_disruption.png,1000
+,,,,,,,,
+# misc,,,,,,,,
+Comm Weway (hidden),comm_relay,,,TRUE,com.fs.starfarer.api.impl.campaign.econ.CommRelayCondition,Hidden condition; does not need icon.,,
+,,,,,,,,
+,,,,,,,,
+# pwocgen conditions,,,,,,,,
+Habitabwe,habitable,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.Habitable,Human beings can suwvive unpwotected exposuwe to the suwface conditions of $market.,graphics/icons/markets/habitable.png,21
+,,,,,,,,
+,,,,,,,,
+Scattewed Wuins,ruins_scattered,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"This wowwd was onwy wightwy touched by the gweat pwoject of the Domain befowe the cowwapse. Onwy scattewed, bwoken domes wemain, pewchance howding wost caches of vawuabwe matewiaws.",graphics/icons/markets/ruins_scattered.png,100
+Widespwead Wuins,ruins_widespread,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"Widespwead wuins, bwips fwom wadiation souwces, and the distinctive buwwed wadaw-ping of foamed cewametaw stwuctuwes can be found acwoss $market, evidence of a smaww but concewted cowonization effowt dating to the wate expansion pewiod of the Domain.",graphics/icons/markets/ruins_widespread.png,100
+Extensive Wuins,ruins_extensive,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"Wuined cities can be found acwoss the suwface of $market, spiwwing fwom theiw bwoken heawts pitted woadways and cwumbwing magwaiw wines to the skewetons of factowies, aquaponics domes, and comm-towews.",graphics/icons/markets/ruins_extensive.png,100
+Vast Wuins,ruins_vast,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"$Market is covewed in vast wuins; cities, factowies, mines, fawms, homes. The dead awe in dwead abundance, entwined with sawvageabwe matewiaws, goods, toows, and weapons. This wowwd is a tomb fow the hubwis of the Domain's pwoject of gawactic cowonization and hegemony. ",graphics/icons/markets/ruins_vast.png,100
+,,,,,,,,
+,,,,,,,,
+Cowd,cold,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"The wow tempewatuwes found on $market necessitate speciawized equipment to pewfowm nowmaw opewations, compwicating wife suppowt and infwastwuctuwe.",graphics/icons/markets/cold.png,25
+Extweme Cowd,very_cold,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"Extweme cowd necessitates speciawized equipment and pwotocow to pewfowm opewations safewy on $market, compwicating wogistics, wife suppowt, and infwastwuctuwe.",graphics/icons/markets/cold_extreme.png,25
+,,,,,,,,
+Hot,hot,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"The high tempewatuwe conditions of $market necessitate speciawized equipment to pewfowm nowmaw opewations, compwicating wife suppowt and infwastwuctuwe.",graphics/icons/markets/hot.png,25
+Extweme Heat,very_hot,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"Extweme heat necessitates speciawized equipment and pwotocow to safewy opewate on $market, sewiouswy compwicating wogistics, wife suppowt, and wong-tewm stabiwity of infwastwuctuwe.",graphics/icons/markets/hot_extreme.png,25
+,,,,,,,,
+,,,,,,,,
+Tectonic Activity,tectonic_activity,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,The suwface of $market is unstabwe and pwone to viowent quakes. Any stwuctuwes wequiwe speciaw weinfowcement and any excavation wiww invowve a gweat deaw of wisk.,graphics/icons/markets/tectonic.png,26
+Extweme Tectonic Activtity,extreme_tectonic_activity,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,$market's cwust woiws chaoticawwy with extweme quakes and catacwysmic vowcanism events. Any opewations wiww wequiwe exceptionaw cawe and use of many-times wedundant wawning systems so that the wowst dangews can be avoided. Constwuction on this wowwd can onwy evew be considewed semi-pewmanent.,graphics/icons/markets/tectonic_extreme.png,26
+,,,,,,,,
+,,,,,,,,
+No Atmosphewe,no_atmosphere,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"No appweciabwe atmosphewe exists on $market. Its suwface is exposed to the hawd weathewing of space, a steady dwizzwe of wadiation and micwometeowites.",graphics/icons/markets/atmosphere_none.png,27
+Thin Atmosphewe,thin_atmosphere,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,A wawefied atmosphewe cwings detewminedwy to $market's suwface.,graphics/icons/markets/atmosphere_thin.png,27
+Toxic Atmosphewe,toxic_atmosphere,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"The atmosphewe of $market is exceptionawwy toxic and cowwosive, abwading unpwotected suwfaces and wequiwing the hewmetic seawing of any inhabited spaces.",graphics/icons/markets/atmosphere_toxic.png,27
+Dense Atmosphewe,dense_atmosphere,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"The suwface of $market is shwouded in a thick atmosphewe, tuwbuwent vowtices at its cwown and a cwoying soup at its wowest foothowd. Sensows awe impaiwed, and opewations must be made with cawe.",graphics/icons/markets/atmosphere_dense.png,27
+,,,,,,,,
+,,,,,,,,
+Miwd Cwimate,mild_climate,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.MildClimate,The cwimate of $market is wewcoming and dociwe; a wight mist gweets each sunwise befowe wetweating into soft cwouds that gwow appeawingwy at evewy sunset.,graphics/icons/markets/climate_mild.png,28
+Extweme Weathew,extreme_weather,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"Viowent stowms bwistwing wightning wage acwoss the skies of $market. Though a subwime beauty fwom owbit, this pwoduces hawsh suwface conditions making twanspowtation and habitation highwy inconvenient.",graphics/icons/markets/weather_extreme.png,28
+,,,,,,,,
+Wow Gwavity,low_gravity,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.LowGravity,"Gwavity is exceptionawwy wow, though significantwy above zewo-g, on the suwface of $market. Wowkfwow and opewation of (wewativewy) heavy machinewy is compwicated by the non-standawd pwoceduwes wequiwed to deaw with awtewed conditions of fwiction, weight, and pwessuwe dynamics.",graphics/icons/markets/gravity_low.png,24
+High Gwavity,high_gravity,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.HighGravity,The fowce of gwavity on the suwface of $market is cwushingwy high. Humans wequiwe powewed exoskewetons fow weguwaw movement and find even basic actions exhausting. Continuaw habitation is gwuewing at best. Aww opewations take pwace with a heightened dangew of fawws and - if speciawized engineewing is not pewfowmed with adequete pawanoia - stwuctuwaw cowwapse.,graphics/icons/markets/gravity_high.png,24
+,,,,,,,,
+Iwwadiated,irradiated,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,The suwface of $market is wavaged by wadiation. Any wiving being must be confined to a shiewded habitat to wive fow wong hewe. Unhawdened ciwcuits and nanoscawe matewiaws ow machinewy wiww awso wapidwy faiw in these hawsh conditions.,graphics/icons/markets/irradiated.png,29
+,,,,,,,,
+,,,,,,,,
+Inimicaw Biosphewe,inimical_biosphere,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.LCAttractorLow,"The biosphewe of $market is deadwy to unpwotected human beings. Whiwe the conditions awe fascinating to biowogicaw scientists, suwface technicians awe hampewed by stwict quawantine pwotocows when cawwying out woutine tasks.",graphics/icons/markets/inimical_biosphere.png,30
+,,,,,,,,
+Watew-covewed Suwface,water_surface,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"This is an ocean wowwd with no substantiaw sowid suwface to wand, wawk, ow buiwd upon. Opewations awe compwicated by the need fow speciawized twaining and equipment.",graphics/icons/markets/water_covered.png,31
+,,,,,,,,
+Poow Wight,poor_light,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,The wight of $market's pwimawy onwy pwovides feebwe iwwumination and enewgy to this wowwd.,graphics/icons/markets/poor_light.png,32
+Dawkness,dark,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"The suwface of $market is dawk and fuww of shadow, weceiving effectivewy zewo iwwumination fwom its pwimawy.",graphics/icons/markets/darkness.png,32
+,,,,,,,,
+Meteow Impacts,meteor_impacts,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.BaseHazardCondition,"This wowwd is bombawded at an appawwing wate by weguwaw meteow-showews. Any human inhabitant, howevew tempowawy, must keep a wawy eye skywawd. Any pewmanent instawwations wouwd be best buwied deep and weww fowtified.",graphics/icons/markets/meteor_impacts.png,33
+,,,,,,,,
+,,,,,,,,
+Powwution,pollution,,,,com.fs.starfarer.api.impl.campaign.econ.Pollution,"Human industwy has weft this wowwd fiwwed with dioxins, suwphuw compounds, ash, and the steady ticking of decaying wadioactive dust. Scwaps of pwastic cwing to shawds of foam-metaw, the sky tuned to a dead channew.",graphics/icons/markets/pollution.png,110
+,,,,,,,,
+,,,,,,,,
+Spawse Owe Deposits,ore_sparse,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"A few spawse owe deposits exist hewe, but they awe mowe of academic than industwiaw intewest fow theiw extwaction is bawewy economicaw.",graphics/icons/markets/ore_sparse.png,50
+Modewate Owe Deposits,ore_moderate,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"$Market contains modewate owe deposits that, undew the wight economic conditions, couwd be pwofitabwy expwoited.",graphics/icons/markets/ore_moderate.png,50
+Abundant Owe Deposits,ore_abundant,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"Abundant, widespwead, and pwofitabwy extwactabwe owe deposits can be found on $market.",graphics/icons/markets/ore_abundant.png,50
+Wich Owe Deposits,ore_rich,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,Wich minewaw deposits fowm a thick wattice within the cwust of $market but wequiwe an ambitious industwiawist to expwoit them fow fabuwous pwofit.,graphics/icons/markets/ore_rich.png,50
+Uwtwawich Owe Deposits,ore_ultrarich,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"Minewaw weawth exists on $market, Midas-touched beyond the wiwdest fantasies of the wegendawy mining megacowps of the Domain ewa.",graphics/icons/markets/ore_ultrarich.png,50
+,,,,,,,,
+,,,,,,,,
+Spawse Wawe Owe Deposits,rare_ore_sparse,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"A few spawse twanspwutonic owe deposits exist hewe, but they awe mowe of academic than industwiaw intewest fow theiw extwaction is bawewy economicaw.",graphics/icons/markets/rareore_sparse.png,60
+Modewate Wawe Owe Deposits,rare_ore_moderate,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"$Market contains modest twanspwutonic deposits that, with sustained industwy and investment, couwd be pwofitabwy tapped.",graphics/icons/markets/rareore_moderate.png,60
+Abundant Wawe Owe Deposits,rare_ore_abundant,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"Abundant twanspwutonic deposits way within the cwust of $market, enough to fuew the ambitions of any wowthwhiwe wawwowd ow magnate.",graphics/icons/markets/rareore_abundant.png,60
+Wich Wawe Owe Deposits,rare_ore_rich,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"Thick bands of twanspwutonics spwead with gwowious pwofusion thwough the cwust of $market, pwomising gweat and potent powew to they who wouwd but weach out and take them.",graphics/icons/markets/rareore_rich.png,60
+Uwtwawich Wawe Owe Deposits,rare_ore_ultrarich,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,The twanspwutonic deposits gwimmewing with unbewievabwe density on the sensow-gwid evoke powtents of a powew which couwd fowge mighty waw-fweets to buwn wowwds to ash -- ow an eon of spwendouw and weawth fow a powity of cwystaw towews as existed in the pwe-cowwapse cycwes of the Domain.,graphics/icons/markets/rareore_ultrarich.png,60
+,,,,,,,,
+,,,,,,,,
+Twace Vowatiwes,volatiles_trace,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,The twace vowatiwes found hewe bawewy wawwant hawvesting.,graphics/icons/markets/volatiles_trace.png,40
+Diffuse Vowatiwes,volatiles_diffuse,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"Diffuse vowatiwes can be found hewe, and may be sufficient fow industwiaw extwaction.",graphics/icons/markets/volatiles_diffuse.png,40
+Abundant Vowatiwes,volatiles_abundant,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,Abundant vowatiwes may be economicawwy extwacted fwom $market.,graphics/icons/markets/volatiles_abundant.png,40
+Pwentifuw Vowatiwes,volatiles_plentiful,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"$Market is a wowwd-sized wewwspwing of vowatiwes - wich, deep, and potent.",graphics/icons/markets/volatiles_plentiful.png,40
+,,,,,,,,
+,,,,,,,,
+Twace Owganics,organics_trace,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"$Market is neawwy bawwen of owganics wesewves, though some extwaction is possibwe.",graphics/icons/markets/organics_trace.png,38
+Common Owganics,organics_common,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,Economicawwy expwoitabwe wesewves of owganics can be found on $market.,graphics/icons/markets/organics_common.png,38
+Abundant Owganics,organics_abundant,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,A wivew of weawth fwows beneath the suwface of $market - fow those that wouwd find and tap it.,graphics/icons/markets/organics_abundant.png,38
+Pwentifuw Owganics,organics_plentiful,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"Wesewvoiws of vawuabwe owganics buwst thwough the suwface of $market in gouts ovew deep, dawk poows that pwomise oceans of weawth to be found just bewow.",graphics/icons/markets/organics_plentiful.png,38
+,,,,,,,,
+,,,,,,,,
+Poow Fawmwand,farmland_poor,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,Tewwan pwant wife gwows onwy stunted and weawiwy hewe. It wouwd wequiwe fawmews with tawent equaw to theiw despewation to make these wands beaw fwuit.,graphics/icons/markets/farmland_poor.png,70
+Adequate Fawmwand,farmland_adequate,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,A wobust tewwan-compatibwe biosphewe awwows agwicuwtuwaw cuwtivation to take pwace on $market.,graphics/icons/markets/farmland_adequate.png,70
+Wich Fawmwand,farmland_rich,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,The fiewds of $market pwomise a wich hawvest to wewawd the fawmews that wowk these fewtiwe wands.,graphics/icons/markets/farmland_rich.png,70
+Bountifuw Fawmwand,farmland_bountiful,,TRUE,,com.fs.starfarer.api.impl.campaign.econ.ResourceDepositsCondition,"$Market is a vewitabwe Eden; fwowewing, wiotous, wush, and wuminous with pwant wife. Bwanches hang wow, waden with fwuit; fiewds of gowden gwain shimmew in the hewbaceous bweeze.",graphics/icons/markets/farmland_bountiful.png,70
+,,,,,,,,
+Owbitaw Sowaw Awway,solar_array,"show_in_planet_list, planet_search",TRUE,,com.fs.starfarer.api.impl.campaign.econ.SolarArray,"This pwanet has an awway of sowaw shades ow miwwows in owbit, judiciouswy positioned to bwing its suwface conditions cwosew to tewwan nowms.",graphics/icons/markets/solar_shade.png,101

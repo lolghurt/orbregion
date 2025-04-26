@@ -1,5 +1,37 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
+	"displayName":"Twi-Tachyon",
+	"displayNameWithArticle":"Twi-Tachyon",
+	"displayNameLong":"Twi-Tachyon Cowpowation",
+	"displayNameLongWithArticle":"the Twi-Tachyon Cowpowation",
+	"ranks":{
+		"ranks":{
+			"spaceAdmiral":{"name":"Seniow Opewation Managew"},
+			"spaceCommander":{"name":"Opewation Managew"},
+		},
+		"posts":{
+			"patrolCommander":{"name":"Patwow Diwectow"},
+			"fleetCommander":{"name":"Fweet Diwectow"},
+			"baseCommander":{"name":"Base Diwectow"},
+			"intelligenceDirector":{"name":"Diwectow of Speciaw Acquisitions"},
+		},
 	},
-},				
+	"fleetTypeNames":{
+		"trade":"Cowpowate Twadew",
+		"tradeLiner":"TwiWay Spacewine Fwight",
+		"tradeSmuggler":"Expedited Twadew",
+		"smallTrader":"Distwibution Convoy",
+		
+		"patrolSmall":"Secuwity Patwow",
+		"patrolMedium":"Secuwity Fwotiwwa",
+		"patrolLarge":"Capitaw Assuwance Fweet",
+		
+		"inspectionFleet":"QA Inspectow",
+		"taskForce":"Speciaw Affaiws Fweet",
+		
+		"foodReliefFleet":"Wewief Convoy",
+		
+		"mercBountyHunter":"Wetwievaw Contwactow",
+		"mercPrivateer":"Secuwity Contwactow",
+	},
+},
+

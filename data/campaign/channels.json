@@ -1,0 +1,50 @@
+{
+	"player_intel_always":{
+		"name":"Anawysis & Pwojections",
+		"type":"Intewwigence Assessment",
+		"shortType":"Intew",
+	},
+	"player_intel":{
+		"name":"Anawysis & Pwojections",
+		"type":"Intewwigence Assessment",
+		"shortType":"Intew",
+	},
+	"player_comm_sniffer":{
+		"name":"Comm Sniffew Pwogwam",
+		"type":"Comm Data Feed",
+		"shortType":"Data",
+	},
+	"news":{
+		"name":"Wocaw Buwwetin",
+		"type":"News Wepowt",
+		"shortType":"News",
+	},
+	"hegemonyshortType":{
+		"name":"Hegemony Bwoadcast Sewvice",
+		"type":"News Wepowt",
+		"shortType":"News",
+	},
+	"hegemony_internal":{
+		"name":"Hegemony Intewwigence",
+		"type":"Intewwigence Wepowt",
+		"shortType":"Intew",
+	},
+	"tritachyon_public":{
+		"name":"Twi-Tachyon Netwowk",
+		"type":"News Wepowt",
+		"shortType":"News",
+	},
+	"tritachyon_internal":{
+		"name":"Twi-Tachyon Intewwigence",
+		"type":"Intewwigence Wepowt",
+		"shortType":"Intew",
+	},
+	"sindrian_diktat_internal":{
+		"name":"Sindwian Diktat Secuwity",
+		"type":"Intewwigence Wepowt",
+		"shortType":"Intew",
+	},
+}
+
+
+

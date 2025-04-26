@@ -1,0 +1,13 @@
+{
+	"displayName":"Thweat",
+	"displayNameWithArticle":"the Thweat",
+	"displayNameLong":"Thweat",
+	"displayNameLongWithArticle":"the Thweat",
+	"personNamePrefixAOrAn":"a",
+	"displayNameIsOrAre":"awe",
+	"fleetTypeNames":{
+		"patrolSmall":"Fiwst Stwike", 
+		"patrolMedium":"Second Stwike", 
+		"patrolLarge":"Thiwd Stwike", 
+	},
+},

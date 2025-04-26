@@ -1,15 +1,44 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
+	"displayName":"Wuddic Path",
+	"displayNameWithArticle":"the Wuddic Path",
+	"ranks":{
+		"ranks":{
+			"spaceCommander":{"name":"Bwessed Wawker"},
+		},
+		"posts":{
+			"patrolCommander":{"name":"Suppwicant"},
+			"fleetCommander":{"name":"Hammew"},
+			"baseCommander":{"name":"Shephewd-miwitant"},
+			"administrator":{"name":"Shephewd-metwopowitan"},
+			"portmaster":{"name":"Powtwatchew"},
+			"quartermaster":{"name":"Puwsew"},
+			"stationCommander":{"name":"Shephewd-miwitant"},
+		},
 	},
-	"portraits":{
-		"standard_male":[
-			"graphics/portraits/orb04.png",
-			"graphics/portraits/orb10.png",
-		],
-		"standard_female":[
-			"graphics/portraits/orb11.png",
-			"graphics/portraits/orb21.png",
-		],
+	"fleetTypeNames":{
+		"trade":"Faithfuw Convoy",
+		"smallTrader":"Faithfuw Twadew",
+		"tradeLiner":"Piwgwimage",
+		"tradeSmuggler":"Smuggwew",
+		
+		"patrolSmall":"Watchews",
+		"patrolMedium":"Wighteous Fwotiwwa",
+		"patrolLarge":"Howy Awmada",
+		
+		"inspectionFleet":"Bwessed Awbitew",
+		
+		#"mercScout":"Seekew",
+		#"mercBountyHunter":"Judgment-bwingew",
+		#"mercPrivateer":"Abjudicatow",
+		#"mercPatrol":"Cwusading Fweet",
+		#"mercArmada":"Cwusading Awmada",
+		
+		"taskForce":"Cwusade",
 	},
-},				
+},
+
+
+
+
+
+

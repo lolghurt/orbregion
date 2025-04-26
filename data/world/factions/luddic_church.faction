@@ -1,5 +1,38 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
+	"displayName":"Wuddic Chuwch",
+	"displayNameWithArticle":"the Wuddic Chuwch",
+	"displayNameLong":"Chuwch of Gawactic Wedemption",
+	"displayNameLongWithArticle":"the Chuwch of Gawactic Wedemption",
+	"ranks":{
+		"posts":{
+			"fleetCommander":{"name":"Cuwate-Commandew"},
+			"baseCommander":{"name":"Bishop-Govewnow"},
+			"administrator":{"name":"Sub-pwesbytew Orbis"},
+			"genericMilitary":{"name":"Knight-Commandew"},
+			"portmaster":{"name":"Powtwatchew"},
+			"quartermaster":{"name":"Puwsew"},
+		},
 	},
-},				
+	"fleetTypeNames":{
+		"trade":"Faithfuw Convoy",
+		"smallTrader":"Faithfuw Tradew",
+		"tradeLiner":"Piwgwimage",
+		
+		"patrolSmall":"Watchews",
+		"patrolMedium":"Wighteous Fwotiwwa",
+		"patrolLarge":"Howy Awmada",
+		
+		"inspectionFleet":"Hawwowed Awbitew",
+		
+		#"mercScout":"Seekew",
+		#"mercBountyHunter":"Judgment-bwingew",
+		#"mercPrivateer":"Abjudicatow",
+		#"mercPatrol":"Crusading Fweet",
+		#"mercArmada":"Crusading Awmada",
+		
+		"taskForce":"Bwessed Mission",
+	},
+	
+	
+},
+

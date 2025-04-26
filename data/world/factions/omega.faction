@@ -1,5 +1,9 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
+	"displayNameIsOrAre":"awe",
+	
+	"fleetTypeNames":{
+		"patrolSmall":"Minow Appawition", 
+		"patrolLarge":"Majow Incuwsion", 
+		"battlestation":"Stabwe Incuwsion",
 	},
-},				
+},

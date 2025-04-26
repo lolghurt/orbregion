@@ -1,5 +1,14 @@
 {
-	"shipNameSources":{
-		"ORBREGION":0.1,
+	"displayName":"Wemnants",
+	"displayNameWithArticle":"the wemnant",
+	"displayNameLong":"AI Wemnants",
+	"displayNameLongWithArticle":"the AI Wemnants",
+	"entityNamePrefix":"Wemnant",
+	"personNamePrefix":"Wemnant",
+	"displayNameIsOrAre":"awe",
+	"fleetTypeNames":{
+		"patrolSmall":"Fwagment",
+		"patrolMedium":"Sub-Owdo",
+		"patrolLarge":"Owdo",
 	},
-},				
+},
