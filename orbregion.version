@@ -1,12 +1,12 @@
 {
 	"masterVersionFile":"https://raw.githubusercontent.com/lolghurt/orbregion/main/orbregion.version",
 	"modName":"Orbregion",
-	"modThreadId":0,
+	"modThreadId":32814,
 	"modVersion":
 	{
 		"major":1,
 		"minor":2,
-		"patch":0
+		"patch":1
 	
 	},
 	"starsectorVersion":"0.97a-RC11"
