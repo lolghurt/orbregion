@@ -2,7 +2,7 @@
 	"displayName":"Youw",
 	"displayNameWithArticle":"Youw",
 	"shipNameSources":{
-		"ORBREGION":1,
+		"SPACE":6,
 		"GENERAL":1,
 		"PIRATES":1,
 		"BRITISH_NAVY":1,
@@ -18,7 +18,6 @@
 		"CELTIC":1,
 		"EGYPTIAN":1,
 		"AZTEC":1,
-		"SPACE":1,
 		"JAPANESE":1,
 		"GREEK":1,
 		"OTHER":1,

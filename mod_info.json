@@ -5,6 +5,7 @@
 	"utility": "true",
     "version": "1.1.0",
 	"replace": [
+	"data/strings/tips.json",
 	],
     "description": "I am here to torture you with my continued existence.",
     "gameVersion": "0.98a-RC8"
