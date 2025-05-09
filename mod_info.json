@@ -3,7 +3,7 @@
     "name": "Orbregion",
     "author": "Elster",
 	"utility": "true",
-    "version": "1.2.1",
+    "version": "1.3.0",
 	"replace": [
 	#"data/strings/tips.json", #doing this causes no one else's tips to load, so no dice.
 	],

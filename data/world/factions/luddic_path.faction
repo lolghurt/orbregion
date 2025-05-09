@@ -15,6 +15,16 @@
 			"stationCommander":{"name":"Shephewd-miwitant"},
 		},
 	},
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/orb04.png",
+			"graphics/portraits/orb10.png",
+		],
+		"standard_female":[
+			"graphics/portraits/orb11.png",
+			"graphics/portraits/orb21.png",
+		],
+	},
 	"fleetTypeNames":{
 		"trade":"Faithfuw Convoy",
 		"smallTrader":"Faithfuw Twadew",

@@ -16,6 +16,14 @@
 		"mercPatrol":"Mewcenawy Patwow",
 		"mercArmada":"Mewcenawy Fweet",
 	},
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/orb12.png",
+		],
+		"standard_female":[
+			"graphics/portraits/orb11.png",
+		],
+	},
 },
 
 

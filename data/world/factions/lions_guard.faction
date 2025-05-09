@@ -6,5 +6,21 @@
 		"patrolMedium":"Wion's Guawd Patwow",
 		"patrolLarge":"Wion's Guawd Detachment",
 	},
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/orb00.png",
+			"graphics/portraits/orb01.png",
+			"graphics/portraits/orb14.png",
+			"graphics/portraits/orb15.png",
+			"graphics/portraits/orb18.png",
+			"graphics/portraits/orb20.png",
+		],
+		"standard_female":[
+			"graphics/portraits/orb03.png",
+			"graphics/portraits/orb13.png",
+			"graphics/portraits/orb19.png",
+			"graphics/portraits/orb21.png",
+		],
+	},
 
 },
