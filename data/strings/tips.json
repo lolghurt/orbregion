@@ -172,6 +172,10 @@
 		{"freq":0.01, "tip":"Brigade"},
 		{"freq":0.01, "tip":"Bridge"},
 		{"freq":0.01, "tip":"Brick"},
+		{"freq":0.01, "tip":"Basalt"},
+		{"freq":0.01, "tip":"Bratwurst"},
+		{"freq":0.01, "tip":"Bastet"},
+		{"freq":0.01, "tip":"Bastard"},
 	],
      
      

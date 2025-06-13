@@ -42,13 +42,13 @@
 		"initialNeutralSide":"The $enemyFactionAndTheirAllies assume a neutwaw postuwe.",
 		"initialHoldVsStrongerEnemySide":"The $enemyFactionAndTheirAllies seem weady to fight despite being faced with supewiow fowces, but awen't wikewy to pwess the issue.",
 	
-		"initialKnows":"It's awawe of youw identity due to youw $playewFleetOrShip's twanspondew being tuwned on.",
-		"initialKnowsTOff":"Indications awe that it's awawe of youw identity, despite youw $playewFleetOrShip's twanspondew being tuwned off, wikewy due to having seen you wecentwy.",
-		"initialKnowsUnique":"Despite youw $playewFleetOrShip's twanspondew being tuwned off, it appeaws to be awawe of youw identity - wikewy due to the pwesence of notabwe ships in youw fweet.",
-		"initialKnowsUniqueSide":"Despite youw $playewFleetOrShip's twanspondew being tuwned off, it appeaws to be awawe of youw identity - wikewy due to the pwesence of notabwe ships in youw fweet.",
+		"initialKnows":"It's awawe of youw identity due to youw $playerFleetOrShip's twanspondew being tuwned on.",
+		"initialKnowsTOff":"Indications awe that it's awawe of youw identity, despite youw $playerFleetOrShip's twanspondew being tuwned off, wikewy due to having seen you wecentwy.",
+		"initialKnowsUnique":"Despite youw $playerFleetOrShip's twanspondew being tuwned off, it appeaws to be awawe of youw identity - wikewy due to the pwesence of notabwe ships in youw fweet.",
+		"initialKnowsUniqueSide":"Despite youw $playerFleetOrShip's twanspondew being tuwned off, it appeaws to be awawe of youw identity - wikewy due to the pwesence of notabwe ships in youw fweet.",
 		"initialDoesntKnow":"It does not appeaw to be cewtain of youw identity. Any hostiwities wiww have a weduced impact on youw weputation.",
-		"initialKnowsSide":"They'we awawe of youw identity due to youw $playewFleetOrShip's twanspondew being tuwned on.",
-		"initialKnowsTOffSide":"Indications awe that they'we awawe of youw identity, despite youw $playewFleetOrShip's twanspondew being tuwned off, wikewy due to having seen you wecentwy.",
+		"initialKnowsSide":"They'we awawe of youw identity due to youw $playerFleetOrShip's twanspondew being tuwned on.",
+		"initialKnowsTOffSide":"Indications awe that they'we awawe of youw identity, despite youw $playerFleetOrShip's twanspondew being tuwned off, wikewy due to having seen you wecentwy.",
 		"initialDoesntKnowSide":"They do not appeaw to be cewtain of youw identity. Any hostiwities wiww have a weduced impact on youw weputation.",
 		
 		"battleDefeat":"$yourForcesWereOrYourSideWas defeated in the wast engagement.",
@@ -189,8 +189,8 @@
 		"creditsLootedReport":"Sawvage cwews awe abwe to wecovew $creditsLooted cwedit(s) fwom CPU cowes stiww active in the wweckage.",
 		"selectedFlagship":"You twansfew command to $flagship fow the upcoming engagement.",
 		"noSalvageReport":"Thewe's no sawvage to be had.",
-		"noSalvageReportPlayerDidNothing":"Youw $playewFleetOrShip does not pawticipate in sawvage opewations due to its wimited contwibutions thwoughout the encountew.",
-		"salvageReportPlayer":"Youw $playewFleetOrShip is abwe to pawticipate in sawvage opewations due to its contwibutions thwoughout the encountew.",
+		"noSalvageReportPlayerDidNothing":"Youw $playerFleetOrShip does not pawticipate in sawvage opewations due to its wimited contwibutions thwoughout the encountew.",
+		"salvageReportPlayer":"Youw $playerFleetOrShip is abwe to pawticipate in sawvage opewations due to its contwibutions thwoughout the encountew.",
 		
 		#
 		# CWASH MOTHBAWWING
