@@ -25054,15 +25054,15 @@ Call $cheapCom_ref updateStage
 FireAll PopulateOptions","""Thank you fow taking this off my hands.""",,
 ,,,,,,
 # commodity procurement,,,,,,
-proComBlurb,proCom_blurb,,,"""I need to pwocuwe a quantity of $pwoCom_commodityName.""
+proComBlurb,proCom_blurb,,,"""I need to pwocuwe a quantity of $proCom_commodityName.""
 OR
-""I wequiwe dewivewy of a cawgo of $pwoCom_commodityName.""
+""I wequiwe dewivewy of a cawgo of $proCom_commodityName.""
 OR
-""I need a shipment of $pwoCom_commodityName.""",,
-proComBlurbAristo,proCom_blurb,$voice == aristo,,"""The famiwy decided that I must 'demonstwate initiative' by pwocuwing a cawgo of $pwoCom_commodityName. Pewhaps I couwd pay you to sowve this wittwe conundwum.""",,
+""I need a shipment of $proCom_commodityName.""",,
+proComBlurbAristo,proCom_blurb,$voice == aristo,,"""The famiwy decided that I must 'demonstwate initiative' by pwocuwing a cawgo of $proCom_commodityName. Pewhaps I couwd pay you to sowve this wittwe conundwum.""",,
 proComOfferOption,proCom_option,,,,proCom_start:Ask about the $proCom_commodityName procurement,
-proComBlurbBar,proCom_blurbBar,,,A handfuw of commodity twadews downing caffeine-spiked dwinks seems to be giving a $pwoCom_manOwWoman some disappointing news.,,
-proComBlurbBarUnderworld,proCom_blurbBar,$proCom_underworld,,A pack of seedy-wooking twadews passing awound a nawco-stick seem to give a $pwoCom_manOwWoman disappointing news.,,
+proComBlurbBar,proCom_blurbBar,,,A handfuw of commodity twadews downing caffeine-spiked dwinks seems to be giving a $proCom_manOrWoman some disappointing news.,,
+proComBlurbBarUnderworld,proCom_blurbBar,$proCom_underworld,,A pack of seedy-wooking twadews passing awound a nawco-stick seem to give a $proCom_manOrWoman disappointing news.,,
 proComOfferOptionBar,proCom_optionBar,,,,proCom_startBar:Talk to the $proCom_manOrWoman who looks disappointed by the commodity traders,
 proComOfferOptionBarUnderworld,proCom_optionBar,$proCom_underworld,,,proCom_startBar:Talk to the $proCom_manOrWoman who looks disappointed by the seedy-looking traders,
 proComOfferBeginBar,DialogOptionSelected,$option == proCom_startBar,"$missionId = proCom
@@ -25072,45 +25072,45 @@ proComOfferBegin,DialogOptionSelected,$option == proCom_start,"$missionId = proC
 FireBest ProComOfferText",,"contact_accept:Accept
 contact_decline:Decline",
 proComTextLocal,ProComOfferText,"$proCom_variation == LOCAL
-!$proCom_barEvent",SetTextHighlights $proCom_quantity $proCom_pricePerUnit,"""I wequiwe $pwoCom_quantity units of $pwoCom_commodityName dewivewed hewe as soon as possibwe. It's a wush job so I'ww pay ovew mawket vawue, $pwoCom_pwicePewUnit pew unit.""",,
+!$proCom_barEvent",SetTextHighlights $proCom_quantity $proCom_pricePerUnit,"""I wequiwe $proCom_quantity units of $proCom_commodityName dewivewed hewe as soon as possibwe. It's a wush job so I'ww pay ovew mawket vawue, $proCom_pricePerUnit pew unit.""",,
 proComTextLocalUnderworld,ProComOfferText,"$proCom_variation == LOCAL
 !$proCom_barEvent
-$proCom_underworld",SetTextHighlights $proCom_quantity $proCom_pricePerUnit,"""I need $pwoCom_quantity units of $pwoCom_commodityName dewivewed wight hewe as soon as possibwe. I don't cawe whewe it comes fwom ow how it gets done, so wong as it gets hewe.""
+$proCom_underworld",SetTextHighlights $proCom_quantity $proCom_pricePerUnit,"""I need $proCom_quantity units of $proCom_commodityName dewivewed wight hewe as soon as possibwe. I don't cawe whewe it comes fwom ow how it gets done, so wong as it gets hewe.""
 
-""Because I appweciate youw... efficiency, wet's caww it, I'm wiwwing to pay you a genewous $pwoCom_pwicePewUnit pew unit. Agweed?""",,
+""Because I appweciate youw... efficiency, wet's caww it, I'm wiwwing to pay you a genewous $proCom_pricePerUnit pew unit. Agweed?""",,
 proComTextRemote,ProComOfferText,"$proCom_variation == REMOTE
 !$proCom_barEvent","SetTextHighlights $proCom_quantity $proCom_dist $proCom_pricePerUnit $proCom_totalPrice
-Call $proCom_ref showMap ""Destination: $proCom_marketName""","""I need $pwoCom_quantity units of $pwoCom_commodityName dewivewed to $pwoCom_mawketName - that's $pwoCom_dist wight-yeaws away. Due to the impowtance of this shipment, I'ww ensuwe that you'we paid $pwoCom_pwicePewUnit pew unit, which makes fow a totaw of $pwoCom_totawPwice cwedits.""
+Call $proCom_ref showMap ""Destination: $proCom_marketName""","""I need $proCom_quantity units of $proCom_commodityName dewivewed to $proCom_marketName - that's $proCom_dist wight-yeaws away. Due to the impowtance of this shipment, I'ww ensuwe that you'we paid $proCom_pricePerUnit pew unit, which makes fow a totaw of $proCom_totalPrice cwedits.""
 
-""$pwoCom_PewsonPost $pwoCom_pewsonName wiww weceive the shipment fwom you $pwoCom_mawketOnOwAt $pwoCom_mawketName and dewivew payment upon compwetion.""",,
+""$proCom_PersonPost $proCom_personName wiww weceive the shipment fwom you $proCom_marketOnOrAt $proCom_marketName and dewivew payment upon compwetion.""",,
 proComTextRemoteUnderworld,ProComOfferText,"$proCom_variation == REMOTE
 !$proCom_barEvent
 $proCom_underworld","SetTextHighlights $proCom_quantity $proCom_dist $proCom_pricePerUnit $proCom_totalPrice
-Call $proCom_ref showMap ""Destination: $proCom_marketName""","""I need $pwoCom_quantity units of $pwoCom_commodityName dewivewed to $pwoCom_mawketName - that's $pwoCom_dist wight-yeaws away. I don't cawe who you have to shoot to make it happen so wong as it gets thewe.""
+Call $proCom_ref showMap ""Destination: $proCom_marketName""","""I need $proCom_quantity units of $proCom_commodityName dewivewed to $proCom_marketName - that's $proCom_dist wight-yeaws away. I don't cawe who you have to shoot to make it happen so wong as it gets thewe.""
 
-""Caww it $pwoCom_pwicePewUnit pew unit. That makes $pwoCom_totawPwice totaw, because I know that you'ww do what it takes to get it done. You'ww need to tawk to my, ah, associate, $pwoCom_pewsonPost $pwoCom_pewsonName to make the dewivewy and weceive payment. And thewe's no need to mention my name.""",,
+""Caww it $proCom_pricePerUnit pew unit. That makes $proCom_totalPrice totaw, because I know that you'ww do what it takes to get it done. You'ww need to tawk to my, ah, associate, $proCom_personPost $proCom_personName to make the dewivewy and weceive payment. And thewe's no need to mention my name.""",,
 proComTextLocalBar,ProComOfferText,"$proCom_variation == LOCAL score:10
 $proCom_barEvent",SetTextHighlights $proCom_quantity $proCom_pricePerUnit,"$HeOrShe wooks up with a fwickew of hope as you appwoach, ""You'we a stawship captain, wight?""
 
-$HeOrShe sighs, and taps at a TwiPad, ""I need to get $pwoCom_quantity units of $pwoCom_commodityName dewivewed hewe as soon as possibwe. It's vewy impowtant. I'ww even pay above mawket wates, $pwoCom_pwicePewUnit cwedits pew unit. Is this something you couwd do?""
+$HeOrShe sighs, and taps at a TwiPad, ""I need to get $proCom_quantity units of $proCom_commodityName dewivewed hewe as soon as possibwe. It's vewy impowtant. I'ww even pay above mawket wates, $proCom_pricePerUnit cwedits pew unit. Is this something you couwd do?""
 OR
-$HeOrShe wooks up fwom $hisOrHer TwiPad, bwow cweased. ""Pewhaps you can hewp. Youw $shipOrFleet just awwived, did it not?"" $HeOrShe howds up a hand, ""Heaw me out, it'ww just be a moment. I need $pwoCom_quantity units of $pwoCom_commodityName as soon as possibwe, and I'ww pay above mawket pwice, $pwoCom_pwicePewUnit cwedits pew unit. Awe you intewested?""
+$HeOrShe wooks up fwom $hisOrHer TwiPad, bwow cweased. ""Pewhaps you can hewp. Youw $shipOrFleet just awwived, did it not?"" $HeOrShe howds up a hand, ""Heaw me out, it'ww just be a moment. I need $proCom_quantity units of $proCom_commodityName as soon as possibwe, and I'ww pay above mawket pwice, $proCom_pricePerUnit cwedits pew unit. Awe you intewested?""
 OR
-$HeOrShe intewwupts youw attempt at a gweeting with a quick wave, ""I'm sowwy, captain, is it? I don't mean to be abwupt, but I weawwy need to secuwe a dewivewy of $pwoCom_quantity units of $pwoCom_commodityName as soon as possibwe."" 
+$HeOrShe intewwupts youw attempt at a gweeting with a quick wave, ""I'm sowwy, captain, is it? I don't mean to be abwupt, but I weawwy need to secuwe a dewivewy of $proCom_quantity units of $proCom_commodityName as soon as possibwe."" 
 
-$HeOrShe hesitates, sighs, then says ""I'm wiwwing to pay above mawket vawue, $pwoCom_pwicePewUnit pew unit. If you'we intewested.""",,
+$HeOrShe hesitates, sighs, then says ""I'm wiwwing to pay above mawket vawue, $proCom_pricePerUnit pew unit. If you'we intewested.""",,
 proComTextLocalBarUnderworld,ProComOfferText,"$proCom_variation == LOCAL score:10
 $proCom_barEvent
 $proCom_underworld",SetTextHighlights $proCom_quantity $proCom_pricePerUnit,"$HeOrShe bwushes off $hisOrHer coat, muttewing ""They don't know who they've-"" then smiwes suddenwy as you appwoach. 
 
-""Finawwy, someone weasonabwe."" $HeOrShe puwws you aside as if you'we owd business pawtnews, and says quietwy ""I'm wooking fow $pwoCom_quantity units of $pwoCom_commodityName. Dewivewed hewe, as soon as possibwe, don't cawe how it gets done so wong as it gets done, undewstand? I'm wiwwing to pay $pwoCom_pwicePewUnit pew unit, isn't that genewous? It's because I wespect what you'we capabwe of."" 
+""Finawwy, someone weasonabwe."" $HeOrShe puwws you aside as if you'we owd business pawtnews, and says quietwy ""I'm wooking fow $proCom_quantity units of $proCom_commodityName. Dewivewed hewe, as soon as possibwe, don't cawe how it gets done so wong as it gets done, undewstand? I'm wiwwing to pay $proCom_pricePerUnit pew unit, isn't that genewous? It's because I wespect what you'we capabwe of."" 
 
 $HeOrShe wowws $hisOrHer eyes at the gwoup neawby, shwugging with one shouwdew ""Some peopwe, they have no wespect. They'ww weawn. What do you say?""",,
 proComTextRemoteBar,ProComOfferText,"$proCom_variation == REMOTE score:10
 $proCom_barEvent","SetTextHighlights $proCom_quantity $proCom_dist $proCom_pricePerUnit $proCom_totalPrice
 Call $proCom_ref showMap ""Destination: $proCom_marketName""","$HeOrShe wooks up with a fwickew of hope as you appwoach, ""You'we a stawship captain, wight?""
 
-$HeOrShe taps at a TwiPad, ""I need $pwoCom_quantity units of $pwoCom_commodityName dewivewed to $pwoCom_mawketName, $pwoCom_dist wight-yeaws away. You'd be paid above mawket wates, $pwoCom_pwicePewUnit pew unit fow $pwoCom_totawPwice totaw on dewivewy to $pwoCom_pewsonPost $pwoCom_pewsonName. Awe you intewested?""",,"#$HeOrShe looks up from $hisOrHer TriPad as you approach, and says ""Maybe you can help. Your $shipOrFleet just arrived, right?"" $HeOrShe holds up a hand, ""Hear me out, it'll be quick. I need someone to ship $proCom_quantity units of $proCom_commodityName. It's a delivery job, and you'd be paid above market prices, $proCom_pricePerUnit per unit, or $proCom_totalPrice total, to ship the cargo to $proCom_personPost $proCom_personName $proCom_marketOnOrAt $proCom_marketName, which is $proCom_dist light-years away.""
+$HeOrShe taps at a TwiPad, ""I need $proCom_quantity units of $proCom_commodityName dewivewed to $proCom_marketName, $proCom_dist wight-yeaws away. You'd be paid above mawket wates, $proCom_pricePerUnit pew unit fow $proCom_totalPrice totaw on dewivewy to $proCom_personPost $proCom_personName. Awe you intewested?""",,"#$HeOrShe looks up from $hisOrHer TriPad as you approach, and says ""Maybe you can help. Your $shipOrFleet just arrived, right?"" $HeOrShe holds up a hand, ""Hear me out, it'll be quick. I need someone to ship $proCom_quantity units of $proCom_commodityName. It's a delivery job, and you'd be paid above market prices, $proCom_pricePerUnit per unit, or $proCom_totalPrice total, to ship the cargo to $proCom_personPost $proCom_personName $proCom_marketOnOrAt $proCom_marketName, which is $proCom_dist light-years away.""
 
 $HeOrShe takes a breath, then asks ""Can you do it?"""
 proComTextRemoteBarUnderworld,ProComOfferText,"$proCom_variation == REMOTE score:10
@@ -25118,40 +25118,40 @@ $proCom_barEvent
 $proCom_underworld","SetTextHighlights $proCom_quantity $proCom_dist $proCom_pricePerUnit $proCom_totalPrice
 Call $proCom_ref showMap ""Destination: $proCom_marketName""","You appwoach the $manOrWoman as $heOrShe gwawes iciwy, muttewing ""-big mistake,"" then tuwns to you with a coow smiwe. ""Ah, captain."" $HisOrHer eye twitches, the teww of a bwack mawket ocuwaw impwant, ""Youw $shipOrFleet just awwived, yes? Wet's tawk."" 
 
-$HeOrShe waises two fingews at the bawtendew, ""I need $pwoCom_quantity units of $pwoCom_commodityName dewivewed to $pwoCom_mawketName. $pwoCom_dist wight-yeaws away. I won't ask ow answew any questions. It's fuww payment above mawket wate- $pwoCom_pwicePewUnit pew unit, fow $pwoCom_totawPwice totaw on dewivewy to the contact,  $pwoCom_pewsonName. They'ww pay. And don't mention my name.""
+$HeOrShe waises two fingews at the bawtendew, ""I need $proCom_quantity units of $proCom_commodityName dewivewed to $proCom_marketName. $proCom_dist wight-yeaws away. I won't ask ow answew any questions. It's fuww payment above mawket wate- $proCom_pricePerUnit pew unit, fow $proCom_totalPrice totaw on dewivewy to the contact,  $proCom_personName. They'ww pay. And don't mention my name.""
 
 $HisOrHer coow smiwe wetuwns just as the bawtendew awwives with two smaww, potent dwinks. ""Do we have a deaw?""",,
 proComDeliverGreetingNotEnough,PickGreeting,"$proCom_needsCommodity score:1000
 Call $proCom_ref updateData
 !$proCom_playerHasEnough","ShowPersonVisual
 SetTextHighlights $proCom_quantity
-FireAll PopulateOptions","""Yes, hewwo."" $HeOrShe appeaws to be busy bwowsing a shipping manifest on an adjacent dispway, ""I'm expecting a cawgo of $pwoCom_quantity units of $pwoCom_commodityName. To be paid fow,"" $hisOrHer eyes tuwn to you. ""Upon dewivewy. In fuww.""
+FireAll PopulateOptions","""Yes, hewwo."" $HeOrShe appeaws to be busy bwowsing a shipping manifest on an adjacent dispway, ""I'm expecting a cawgo of $proCom_quantity units of $proCom_commodityName. To be paid fow,"" $hisOrHer eyes tuwn to you. ""Upon dewivewy. In fuww.""
 OR
-""I'm expecting a dewivewy of $pwoCom_commodityName, $pwoCom_quantity units, exact."" $HeOrShe idwy weads fwom a datapad. ""That's the deaw.""",,
+""I'm expecting a dewivewy of $proCom_commodityName, $proCom_quantity units, exact."" $HeOrShe idwy weads fwom a datapad. ""That's the deaw.""",,
 proComDeliverGreetingNotEnoughUW,PickGreeting,"$proCom_needsCommodity score:1000
 Call $proCom_ref updateData
 !$proCom_playerHasEnough
 $proCom_underworld","ShowPersonVisual
 SetTextHighlights $proCom_quantity
-FireAll PopulateOptions","""You'we hewe to dewivew $pwoCom_quantity units of $pwoCom_commodityName? This manifest says you can't fuwfiww the shipment.""
+FireAll PopulateOptions","""You'we hewe to dewivew $proCom_quantity units of $proCom_commodityName? This manifest says you can't fuwfiww the shipment.""
 
 $HeOrShe dwops the datapad to $hisOrHer desk with, you sense, mowe fowce than necessawy. 
 
 ""So why awe you hewe?"" $heOrShe asks.
 OR
-""I'm expecting a cawgo of exactwy $pwoCom_quantity units of $pwoCom_commodityName."" $HeOrShe says, weading fwom a datapad. ""Dewivewy in fuww."" $HeOrShe wooks up, finawwy, ""That's the deaw.""",,
+""I'm expecting a cawgo of exactwy $proCom_quantity units of $proCom_commodityName."" $HeOrShe says, weading fwom a datapad. ""Dewivewy in fuww."" $HeOrShe wooks up, finawwy, ""That's the deaw.""",,
 proComDeliverGreeting,PickGreeting,"$proCom_needsCommodity score:1000
 Call $proCom_ref updateData
 $proCom_playerHasEnough","ShowPersonVisual
-SetTextHighlights $proCom_quantity $proCom_pricePerUnit","""Ah, you must be $playerName. We've been expecting you."" $personName weads a datapad, ""And I bewieve- yes, it says hewe you'we dewivewing $pwoCom_quantity units of $pwoCom_commodityName. Is that cowwect?""","proCom_deliver:Deliver the $proCom_commodityName
+SetTextHighlights $proCom_quantity $proCom_pricePerUnit","""Ah, you must be $playerName. We've been expecting you."" $personName weads a datapad, ""And I bewieve- yes, it says hewe you'we dewivewing $proCom_quantity units of $proCom_commodityName. Is that cowwect?""","proCom_deliver:Deliver the $proCom_commodityName
 cutCommLink:Cut the comm link",
 proComDeliverGreetingUnderworld,PickGreeting,"$proCom_needsCommodity score:1000
 Call $proCom_ref updateData
 $proCom_playerHasEnough
 $proCom_underworld","ShowPersonVisual
-SetTextHighlights $proCom_quantity $proCom_pricePerUnit","$personName wooks you ovew newvouswy. ""You have the goods. And they'we weady to be offwoaded - as agweed, $pwoCom_quantity units at $pwoCom_pwicePewUnit pew?""
+SetTextHighlights $proCom_quantity $proCom_pricePerUnit","$personName wooks you ovew newvouswy. ""You have the goods. And they'we weady to be offwoaded - as agweed, $proCom_quantity units at $proCom_pricePerUnit pew?""
 OR
-$personName eyes you suspiciouswy, ""You'we $playerName? I thought you'd wook diffewent."" $HisOrHer eyes fwick ovew to a secondawy dispway, ""It says hewe you've got the cawgo, aww $pwoCom_quantity units. We'ww go ahead with the agweed $pwoCom_pwicePewUnit pew unit. I'ww pwovide you with a dwop-off point.""","proCom_deliver:Deliver the $proCom_commodityName
+$personName eyes you suspiciouswy, ""You'we $playerName? I thought you'd wook diffewent."" $HisOrHer eyes fwick ovew to a secondawy dispway, ""It says hewe you've got the cawgo, aww $proCom_quantity units. We'ww go ahead with the agweed $proCom_pricePerUnit pew unit. I'ww pwovide you with a dwop-off point.""","proCom_deliver:Deliver the $proCom_commodityName
 cutCommLink:Cut the comm link",
 proComDeliverOptionSel,DialogOptionSelected,$option == proCom_deliver,"FireBest ProComCompletedText
 AddCommodity credits $proCom_totalPrice
@@ -25159,7 +25159,7 @@ RemoveCommodity $proCom_commodityId $proCom_quantity
 $proCom_completed = true
 Call $proCom_ref updateStage
 FireAll PopulateOptions",,,
-proComDeliverCompleted,ProComCompletedText,,,"""Thank you, this cawgo of $pwoCom_commodityName is mowe impowtant than you might think.""
+proComDeliverCompleted,ProComCompletedText,,,"""Thank you, this cawgo of $proCom_commodityName is mowe impowtant than you might think.""
 OR
 ""I knew we couwd count on you. Thank you fow the shipment.""
 OR
@@ -25172,7 +25172,7 @@ OR
 OR
 ""Okay, it's done."" $HeOrShe seems to key in some kind of confiwmation on an off-bwand datapad, then wooks back up at you. ""This nevew happened.""",,
 # Pirate encounter at some point after accepting the proCom mission,,,,,,
-PROCOMPirateHail,PROCOMPirateHail,,$entity.ignorePlayerCommRequests = true,"""Oh, captain,"" the piwate $personRank wooks awmost apowogetic. ""It's about the $pwoCom_commodityName pwocuwement you've taken on. A minow mattew,"" $heOrShe waggwes a hand as if it's not quite impowtant enough to expwain, but $heOrShe wiww induwge you, ""But thewe is a competitow who hiwed me to send a message about the wisks of doing business with that pawticuwaw individuaw.""","cutCommLink2:""This isn't personal? That's a relief.""
+PROCOMPirateHail,PROCOMPirateHail,,$entity.ignorePlayerCommRequests = true,"""Oh, captain,"" the piwate $personRank wooks awmost apowogetic. ""It's about the $proCom_commodityName pwocuwement you've taken on. A minow mattew,"" $heOrShe waggwes a hand as if it's not quite impowtant enough to expwain, but $heOrShe wiww induwge you, ""But thewe is a competitow who hiwed me to send a message about the wisks of doing business with that pawticuwaw individuaw.""","cutCommLink2:""This isn't personal? That's a relief.""
 cutCommLink:Say nothing",
 ,,,,,,
 # hand-me-down freighter,,,,,,
@@ -25552,11 +25552,11 @@ extrBlurb2,extr_blurb,$extr_variation == PIRATE_BASE,,"""Command has given me an
 extrOfferOption2,extr_option,$extr_variation == PIRATE_BASE,,,extr_start:Ask about the 'unconventional extraction' mission involving pirates,
 extrBlurb3,extr_blurb,$extr_variation == LUDDIC_PATH_BASE,,"""Command has given me a sensitive mission. Youw independent, mixed-capabiwity unit wouwd be best suited to cawwying it out due to... wewigious ewements.""",,
 extrOfferOption3,extr_option,$extr_variation == LUDDIC_PATH_BASE,,,extr_start:Ask about the 'unconventional extraction' mission involving Pathers,
-extrBlurbBar1,extr_blurbBar,$extr_variation == COLONY,,"A newvous cadet howding a dwink appwoaches you, ""Um, captain. My uh- I mean, the $extw_manOwWoman ovew thewe wants a wowd."" The cadet gwances at a dawk cownew of the baw.",,
+extrBlurbBar1,extr_blurbBar,$extr_variation == COLONY,,"A newvous cadet howding a dwink appwoaches you, ""Um, captain. My uh- I mean, the $extr_manOrWoman ovew thewe wants a wowd."" The cadet gwances at a dawk cownew of the baw.",,
 extrOfferOptionBar1,extr_optionBar,$extr_variation == COLONY,,,extr_startBar:Talk to the $extr_manOrWoman who ordered the cadet to apprehend you,
-extrBlurbBar2,extr_blurbBar,$extr_variation == PIRATE_BASE,,"A newvous cadet howding a dwink appwoaches you, ""Um, captain. My uh- I mean, the $extw_manOwWoman ovew thewe wants a wowd."" The cadet gwances at a dawk cownew of the baw.",,
+extrBlurbBar2,extr_blurbBar,$extr_variation == PIRATE_BASE,,"A newvous cadet howding a dwink appwoaches you, ""Um, captain. My uh- I mean, the $extr_manOrWoman ovew thewe wants a wowd."" The cadet gwances at a dawk cownew of the baw.",,
 extrOfferOptionBar2,extr_optionBar,$extr_variation == PIRATE_BASE,,,extr_startBar:Talk to the $extr_manOrWoman who ordered the cadet to apprehend you,
-extrBlurbBar3,extr_blurbBar,$extr_variation == LUDDIC_PATH_BASE,,"A newvous cadet howding a dwink appwoaches you, ""Um, captain. My uh- I mean, the $extw_manOwWoman ovew thewe wants a wowd."" The cadet gwances at a dawk cownew of the baw.",,
+extrBlurbBar3,extr_blurbBar,$extr_variation == LUDDIC_PATH_BASE,,"A newvous cadet howding a dwink appwoaches you, ""Um, captain. My uh- I mean, the $extr_manOrWoman ovew thewe wants a wowd."" The cadet gwances at a dawk cownew of the baw.",,
 extrOfferOptionBar3,extr_optionBar,$extr_variation == LUDDIC_PATH_BASE,,,extr_startBar:Talk to the $extr_manOrWoman who ordered the cadet to apprehend you,
 extrOfferTextBar1,DialogOptionSelected,"$option == extr_startBar
 $extr_variation == COLONY","$missionId = extr
@@ -25564,23 +25564,23 @@ SetTextHighlightColors $extr_factionColor h h
 Highlight $extr_marketFaction $extr_reward $extr_marines
 Call $extr_ref showMap ""Target: $extr_marketName""","The $manOrWoman sits in the dawk. $HeOrShe is dwessed as a common tech, but speaks as though $heOrShe howds, ow has hewd, command.
 
-""Captain $playerName,"" $heOrShe says. ""My supewiows wecognize that youw unique tawents couwd sewve ouw faction."" Thewe is no dwink on the tabwe, and no invitation to sit. ""We need an agent extwacted fwom $extw_mawketFactionAwticwe $extw_mawketFaction cowony $extw_mawketOnOwAt $extw_mawketName. A fwagged taskfowce cannot do this due to... powiticaw considewations. Ouw offew is $extw_wewawd cwedits.""
+""Captain $playerName,"" $heOrShe says. ""My supewiows wecognize that youw unique tawents couwd sewve ouw faction."" Thewe is no dwink on the tabwe, and no invitation to sit. ""We need an agent extwacted fwom $extr_marketFactionArticle $extr_marketFaction cowony $extr_marketOnOrAt $extr_marketName. A fwagged taskfowce cannot do this due to... powiticaw considewations. Ouw offew is $extr_reward cwedits.""
 
 ""The oppo may be expecting you. We have intew on theiw defenses,"" the $manOrWoman pwaces a datapad on the tabwe fow youw inspection.
 
-You quickwy weview the contents and estimate that you'd need awound $extw_mawines mawines to cawwy off the opewation.","contact_acceptBar:Accept
+You quickwy weview the contents and estimate that you'd need awound $extr_marines mawines to cawwy off the opewation.","contact_acceptBar:Accept
 contact_declineBarNoContinue:Decline",
 extrOfferTextContact1,DialogOptionSelected,"$option == extr_start
 $extr_variation == COLONY","$missionId = extr
 SetTextHighlightColors h $extr_factionColor h
 Highlight $extr_reward $extr_marketFaction $extr_marines
-Call $extr_ref showMap ""Target: $extr_marketName""","""Captain $playerName,"" $heOrShe says. ""As I said, we need the agent extwacted fwom $extw_mawketName. Command has authowized a payment of $extw_wewawd cwedits fow a successfuw mission.""
+Call $extr_ref showMap ""Target: $extr_marketName""","""Captain $playerName,"" $heOrShe says. ""As I said, we need the agent extwacted fwom $extr_marketName. Command has authowized a payment of $extr_reward cwedits fow a successfuw mission.""
 
-""The oppo may be expecting you. I suggest you go in quiet because, as you know, it's $extw_mawketFactionAwticwe $extw_mawketFaction cowony. The situation is enough of a mess as it is."" 
+""The oppo may be expecting you. I suggest you go in quiet because, as you know, it's $extr_marketFactionArticle $extr_marketFaction cowony. The situation is enough of a mess as it is."" 
 
 $HeOrShe pauses a moment. Some hidden fwustwation? ""We do, howevew, have a faiw piece of intew on theiw defensive capabiwities,"" $personLastName says, fingews moving wapidwy to twansfew a datafiwe fow youw inspection - a detaiwed tacticaw wepowt.
 
-You quickwy weview the contents and estimate that you'd need awound $extw_mawines mawines to cawwy off the opewation.","contact_accept:Accept
+You quickwy weview the contents and estimate that you'd need awound $extr_marines mawines to cawwy off the opewation.","contact_accept:Accept
 contact_decline:Decline",
 extrOfferTextBar2,DialogOptionSelected,"$option == extr_startBar
 $extr_variation == PIRATE_BASE","$missionId = extr
@@ -25588,42 +25588,42 @@ SetTextHighlightColors $extr_factionColor h h
 Highlight ""pirates"" $extr_reward $extr_marines
 Call $extr_ref showMap ""Target: $extr_marketName""","The $manOrWoman sits in the dawk at a tabwe with no dwink. $HeOrShe is dwessed as a common tech, but speaks as though $heOrShe howds, ow has hewd, command.
 
-""Captain $playerName,"" $heOrShe says. ""One of ouw top agents infiwtwated the wetinue of a piwate wawwowd $extw_mawketOnOwAt $extw_mawketName. They have been appwehended. Extwaction by any means is now ouw mission objective, though powiticaw considewations make use of the fwagged navy in this opewation... awkwawd. Ouw offew to you is $extw_wewawd cwedits fow successfuw wetuwn of ouw agent.""
+""Captain $playerName,"" $heOrShe says. ""One of ouw top agents infiwtwated the wetinue of a piwate wawwowd $extr_marketOnOrAt $extr_marketName. They have been appwehended. Extwaction by any means is now ouw mission objective, though powiticaw considewations make use of the fwagged navy in this opewation... awkwawd. Ouw offew to you is $extr_reward cwedits fow successfuw wetuwn of ouw agent.""
 
 ""The piwates wiww be expecting you, but we have intew on theiw defenses,"" the $manOrWoman pwaces a datapad on the tabwe.
 
-You quickwy weview the contents and estimate that awound $extw_mawines mawines awe needed to execute the opewation.","contact_acceptBar:Accept
+You quickwy weview the contents and estimate that awound $extr_marines mawines awe needed to execute the opewation.","contact_acceptBar:Accept
 contact_declineBarNoContinue:Decline",
 extrOfferTextContact2,DialogOptionSelected,"$option == extr_start
 $extr_variation == PIRATE_BASE","$missionId = extr
 SetTextHighlightColors $extr_factionColor h h
 Highlight pirate $extr_reward $extr_marines
-Call $extr_ref showMap ""Target: $extr_marketName""","""One of ouw agents infiwtwated the wetinue of a piwate wawwowd $extw_mawketOnOwAt $extw_mawketName. We know that they have been appwehended. Extwaction by any means necessawy is now ouw mission objective, and I bewieve you awe best suited to cawwy out this mission."" $HeOrShe sighs, ""We cannot use the fwagged navy in this opewation due to... powitics. So we come to you. Wetwieve the agent and we wiww pay you $extw_wewawd cwedits.""
+Call $extr_ref showMap ""Target: $extr_marketName""","""One of ouw agents infiwtwated the wetinue of a piwate wawwowd $extr_marketOnOrAt $extr_marketName. We know that they have been appwehended. Extwaction by any means necessawy is now ouw mission objective, and I bewieve you awe best suited to cawwy out this mission."" $HeOrShe sighs, ""We cannot use the fwagged navy in this opewation due to... powitics. So we come to you. Wetwieve the agent and we wiww pay you $extr_reward cwedits.""
 
 With a few taps at $hisOrHer consowe you weceive an incoming data stweam, ""Intew on the piwates' defenses. We won't be sending you in bwind, at weast.""
 
-You quickwy weview the intew and estimate that you'd need awound $extw_mawines mawines to cawwy off this opewation.","contact_accept:Accept
+You quickwy weview the intew and estimate that you'd need awound $extr_marines mawines to cawwy off this opewation.","contact_accept:Accept
 contact_decline:Decline",
 extrOfferTextBar3,DialogOptionSelected,"$option == extr_startBar
 $extr_variation == LUDDIC_PATH_BASE","$missionId = extr
 Highlight $extr_reward $extr_marines
 Call $extr_ref showMap ""Target: $extr_marketName""","The $manOrWoman sits in the dawk at a tabwe with no dwink. $HeOrShe is dwessed as a common tech, but speaks as though $heOrShe howds, ow has hewd, command.
 
-""Captain $playerName,"" $heOrShe says. ""One of ouw top agents infiwtwated a miwitant Wuddic sect $extw_mawketOnOwAt $extw_mawketName. They have been appwehended. Extwaction by any means is now ouw mission objective, though wewigious considewations make use of the fwagged navy in this opewation... awkwawd. Ouw offew to you is $extw_wewawd cwedits fow successfuw wetuwn of ouw agent.""
+""Captain $playerName,"" $heOrShe says. ""One of ouw top agents infiwtwated a miwitant Wuddic sect $extr_marketOnOrAt $extr_marketName. They have been appwehended. Extwaction by any means is now ouw mission objective, though wewigious considewations make use of the fwagged navy in this opewation... awkwawd. Ouw offew to you is $extr_reward cwedits fow successfuw wetuwn of ouw agent.""
 
 ""The Pathews wiww be expecting you, but we have intew on theiw defenses,"" the $manOrWoman pwaces a datapad on the tabwe.
 
-You quickwy weview the contents and estimate that awound $extw_mawines mawines awe needed to execute the opewation.","contact_acceptBar:Accept
+You quickwy weview the contents and estimate that awound $extr_marines mawines awe needed to execute the opewation.","contact_acceptBar:Accept
 contact_declineBarNoContinue:Decline",
 extrOfferTextContact3,DialogOptionSelected,"$option == extr_start
 $extr_variation == LUDDIC_PATH_BASE","$missionId = extr
 SetTextHighlightColors $extr_factionColor h h
 Highlight ""Pathers"" $extr_reward $extr_marines
-Call $extr_ref showMap ""Target: $extr_marketName""","""One of ouw agents infiwtwated a miwitant Wuddic sect $extw_mawketOnOwAt $extw_mawketName."" $HeOrShe meets youw eyes, ""Yes, Pathews. We know ouw agent was appwehended. Extwaction by any means necessawy is now ouw mission objective, and I bewieve you awe best suited to cawwy out this mission."" $HeOrShe sighs, ""We cannot use the fwagged navy in this opewation due to... wewigious considewations. So we come to you. Wetwieve the agent and we wiww pay you $extw_wewawd cwedits.""
+Call $extr_ref showMap ""Target: $extr_marketName""","""One of ouw agents infiwtwated a miwitant Wuddic sect $extr_marketOnOrAt $extr_marketName."" $HeOrShe meets youw eyes, ""Yes, Pathews. We know ouw agent was appwehended. Extwaction by any means necessawy is now ouw mission objective, and I bewieve you awe best suited to cawwy out this mission."" $HeOrShe sighs, ""We cannot use the fwagged navy in this opewation due to... wewigious considewations. So we come to you. Wetwieve the agent and we wiww pay you $extr_reward cwedits.""
 
 With a few taps at $hisOrHer consowe you weceive an incoming data stweam, ""Intew on the Pathews' defenses. We won't be sending you in bwind, at weast.""
 
-You quickwy weview the intew and estimate that you'd need awound $extw_mawines mawines to cawwy off this opewation.","contact_accept:Accept
+You quickwy weview the intew and estimate that you'd need awound $extr_marines mawines to cawwy off this opewation.","contact_accept:Accept
 contact_decline:Decline",
 # interaction with target market,,,,,,
 extrOpenMarket1,OpenInteractionDialog,"$market.extr_target score:1000
@@ -25678,20 +25678,20 @@ DoCanAffordCheck $extr_storyCost extr_storyOption false","You accept the comm we
 
 ""I wecognize that youw capabiwity to empwoy deadwy fowce is not insignificant. I wish to pwopose a path of weast bwoodshed.""
 
-""You wiww have to twust me, captain. And, natuwawwy, I cannot simpwy give you what you want; it wiww come at the pwice of $extw_stowyCost cwedits. I hope you find this an acceptabwe compwomise, given the awtewnative.""","extr_storyOption:Cooperate with the voice and pay the credits
+""You wiww have to twust me, captain. And, natuwawwy, I cannot simpwy give you what you want; it wiww come at the pwice of $extr_storyCost cwedits. I hope you find this an acceptabwe compwomise, given the awtewnative.""","extr_storyOption:Cooperate with the voice and pay the credits
 extr_ignore:Close the connection and head to the bar",
 extr_barStoryOption1,DialogOptionSelected,$option == extr_storyOption,RemoveCommodity credits $extr_storyCost,"The voice pwovides you with a numbewed buwnew account fow the cwedits twansfew. 
 
 ""Excewwent, captain,"" the anonymized  voice says, ""I confiwm weceipt of youw payment. Fwom this point it'ww take onwy a showt time fow the awwangements to be made.""
 
-The voice gives you instwuctions to head to a pawticuwaw baw, $extw_bawName, neaw the concouwse. ""Goodbye, Captain $playerName,"" it says one wast time.
+The voice gives you instwuctions to head to a pawticuwaw baw, $extr_barName, neaw the concouwse. ""Goodbye, Captain $playerName,"" it says one wast time.
 
 With the sinking feewing that youw tawget - and cwedits -might be fuwthew away fwom you with each passing minute, you entew the baw.",extr_continue1:Continue,
 extr_barStoryOption2,DialogOptionSelected,$option == extr_continue1,"$market.extr_needToReturn = true
 Call $market.extr_ref updateStage
-FireAll extrBarStoryOptionHub","The pwopwietow wooks up as soon as you step into the dim tube-wit intewiow. ""Hey!"" You tense, at the tone. ""You can't just wet youw fwiend sweep hewe, I'm not wunning a hotew yeah?"" This must be $extw_bawOwnew.
+FireAll extrBarStoryOptionHub","The pwopwietow wooks up as soon as you step into the dim tube-wit intewiow. ""Hey!"" You tense, at the tone. ""You can't just wet youw fwiend sweep hewe, I'm not wunning a hotew yeah?"" This must be $extr_barOwner.
 
-$extw_bawOwnew puwws you towawd a dawk end of the baw whewe a figuwe appeaws to be passed out dwunk; a wad-wefwective hood has fawwen ovew theiw face. You puww it back, and it is indeed youw extwaction tawget. Wooking a wittwe pawe, unconscious, and dwoowing, but the face matches youw intew.
+$extr_barOwner puwws you towawd a dawk end of the baw whewe a figuwe appeaws to be passed out dwunk; a wad-wefwective hood has fawwen ovew theiw face. You puww it back, and it is indeed youw extwaction tawget. Wooking a wittwe pawe, unconscious, and dwoowing, but the face matches youw intew.
 
 ""I don't want any twoubwe, maybe youw fwiend's on chems, I don't ask questions. But see, I took cawe of 'em wight? No caww to municipaw. Now you take youw fwiend and go now. Go, get out!"" He twies to shoo you towawd the doow as you wift the swack body.","
 
@@ -25700,11 +25700,11 @@ extr_barStoryOptionHubA,extrBarStoryOptionHub,,,,extr_continue2:Leave,
 extr_barStoryOptionHubB,extrBarStoryOptionHub,!$askedRecognize,,,"extr_continue3a:""Wait, how did you recognize me?""",
 extr_barStoryOptionHubC,extrBarStoryOptionHub,!$askedHow,,,"extr_continue3b:""How'd my 'friend' get here?""",
 extr_barStoryOption3a,DialogOptionSelected,$option == extr_continue3a,"$askedRecognize = true 0
-FireAll extrBarStoryOptionHub","$extw_bawOwnew wowws his eyes, ""Youw othew fwiend showed me youw howo, said wook, my othew fwiend the space captain is coming to pick this one up.""
+FireAll extrBarStoryOptionHub","$extr_barOwner wowws his eyes, ""Youw othew fwiend showed me youw howo, said wook, my othew fwiend the space captain is coming to pick this one up.""
 
-""Now you get going, I don't want peopwe thinking my dwinks awe bad ow maybe $extw_bawOwnew wuns a pwace with no cwass. Go, go!""",,
+""Now you get going, I don't want peopwe thinking my dwinks awe bad ow maybe $extr_barOwner wuns a pwace with no cwass. Go, go!""",,
 extr_barStoryOption3b,DialogOptionSelected,$option == extr_continue3b,"$askedHow = true 0
-FireAll extrBarStoryOptionHub","$extw_bawOwnew sighs woudwy, ""I teww you, then you go wight? Now hewe's what I teww you: I didn't see anything. I'm wunning a spacew baw, not a chiwdwen's cweche. Peopwe come in, peopwe go out. I don't wook too cwose, I don't ask impowtant questions, it's 'good wun?', ow 'pwice of fuew ain't what it was eh?'. That's the business.""
+FireAll extrBarStoryOptionHub","$extr_barOwner sighs woudwy, ""I teww you, then you go wight? Now hewe's what I teww you: I didn't see anything. I'm wunning a spacew baw, not a chiwdwen's cweche. Peopwe come in, peopwe go out. I don't wook too cwose, I don't ask impowtant questions, it's 'good wun?', ow 'pwice of fuew ain't what it was eh?'. That's the business.""
 
 ""We made a deaw, now you'we weaving. Out, out!""",,
 extr_barStoryOption3,DialogOptionSelected,$option == extr_continue2,"ShowDefaultVisual
@@ -25712,7 +25712,7 @@ FireAll PopulateOptions","Outside the baw you pass the unconscious fowm to one o
 
 The automedic on the shuttwe back wepowts that the agent was heaviwy and expewtwy sedated.
 
-Wetuwned to consciousness in secuwe quawtews on youw fwagship, the agent is suspicious and uncoopewative untiw you give the confiwmation phwase you wewe pwovided. Cawmew now, they have no expwanation fow how they ended up in $extw_bawName.
+Wetuwned to consciousness in secuwe quawtews on youw fwagship, the agent is suspicious and uncoopewative untiw you give the confiwmation phwase you wewe pwovided. Cawmew now, they have no expwanation fow how they ended up in $extr_barName.
 
 Maybe it doesn't mattew; you just have to get them back, get youw pay, and the job is done.",,
 # returned with target,,,,,,
@@ -25786,12 +25786,12 @@ CBPirate,CBPirateOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"$HeOrShe 
 ""The wewawd is $bcb_wewawd cwedits and you'd have $bcb_days days to cawwy out the job. How about it?""",,
 CBPirateAristo,CBPirateOfferDesc,$voice == aristo,Highlight $bcb_dist $bcb_reward $bcb_days,"$HeOrShe taps on one of the entwies to enwawge the wepowt. A face scowws at you fwom an awwest wecowd howo.
 
-""This chawming individuaw bewieves they'we some kind of piwate."" $PersonName gets a cawnivowous wook in $hisOrHer eyes, ""$bcb_TawgetHeOwShe stowe fwom me. This is unacceptabwe."" $HeOrShe weans back, casuawwy, ""The wost cwedits awe iwwewevant, of couwse. What's impowtant is the message such bwigandage sends. We can't simpwy have piwates steawing the hawd-eawned weawth fwom those who wightfuwwy possess it.""
+""This chawming individuaw bewieves they'we some kind of piwate."" $PersonName gets a cawnivowous wook in $hisOrHer eyes, ""$bcb_TargetHeOrShe stowe fwom me. This is unacceptabwe."" $HeOrShe weans back, casuawwy, ""The wost cwedits awe iwwewevant, of couwse. What's impowtant is the message such bwigandage sends. We can't simpwy have piwates steawing the hawd-eawned weawth fwom those who wightfuwwy possess it.""
 
 ""The tawget is hiding in the $bcb_systemName which is $bcb_dist wight-yeaws distant. I shaww wewawd you with $bcb_wewawd cwedits once you have put down the menace and I shaww give you $bcb_days days to do so. Awe we agweed?""",,
-CBPather1,CBPatherOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"""Ah, this one is a piece of wowk,"" $heOrShe bwings up a case fiwe. ""Wuddic Path opewative. Connected to a few bombings, piwacy, the usuaw. $bcb_TawgetHeOwShe is hiding out in the $bcb_systemName, that's a $bcb_dist wight-yeaw hop.""
+CBPather1,CBPatherOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"""Ah, this one is a piece of wowk,"" $heOrShe bwings up a case fiwe. ""Wuddic Path opewative. Connected to a few bombings, piwacy, the usuaw. $bcb_TargetHeOrShe is hiding out in the $bcb_systemName, that's a $bcb_dist wight-yeaw hop.""
 
-""A few of the wocaw syndics pitched in, so the job's wewawd is $bcb_wewawd cwedits. You'd have $bcb_days days to take $bcb_tawgetHimOwHew out. Intewested?""",,
+""A few of the wocaw syndics pitched in, so the job's wewawd is $bcb_wewawd cwedits. You'd have $bcb_days days to take $bcb_targetHimOrHer out. Intewested?""",,
 CBPather1Aristo,CBPatherOfferDesc,$voice == aristo,Highlight $bcb_dist $bcb_reward $bcb_days,"""Ah, this one, yes,"" $heOrShe puwws up an intew fiwe. ""An adhewent of the so-cawwed 'Wuddic Path'. Bewieves we'd aww be bettew off smashing ouw computews and wiving in caves ow some nonsense. You wouwdn't bewieve the damage they cause when they can bwing themsewves to appwy technowogy to meet theiw goaws. This one is hiding out in the $bcb_systemName, $bcb_dist wight-yeaws away, and has caused gweat pewsonaw offense.""
 
 ""I shaww pwovide a wewawd of $bcb_wewawd cwedits fow taking cawe of this fanatic. You'd have $bcb_days days to compwete the mission.""",,
@@ -25811,9 +25811,9 @@ CBDeserterFaithful,CBDeserterOfferDesc,$voice == faithful,Highlight $bcb_dist $b
 ""Wet me pwoceed. We have been betwayed; a tuwncoat fwom $thePersonFaction has stowen ships and spwead mutiny. We have good intew that $bcb_tawgetHeOwShe is hiding in the $bcb_systemName, $bcb_dist wight-yeaws fwom hewe, awaiting some kind of wendezvous.""
 
 ""They must be intewcepted within $bcb_days days. Youw payment wouwd be $bcb_wewawd cwedits and my pewsonaw thanks. Wiww you pewfowm this sewvice?""",,
-CBMerc,CBMercOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"""This one,"" $heOrShe focuses the bwiefing, ""Is not fow the faint of heawt. An ewite mewcenawy... weww, you don't need to know the detaiws. Wet's just say $bcb_tawgetHeOwShe made the wwong peopwe vewy, vewy unhappy. $bcb_TawgetHeOwShe is hiding out in the $bcb_systemName - that's $bcb_dist wight-yeaws away.""
+CBMerc,CBMercOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"""This one,"" $heOrShe focuses the bwiefing, ""Is not fow the faint of heawt. An ewite mewcenawy... weww, you don't need to know the detaiws. Wet's just say $bcb_tawgetHeOwShe made the wwong peopwe vewy, vewy unhappy. $bcb_TargetHeOrShe is hiding out in the $bcb_systemName - that's $bcb_dist wight-yeaws away.""
 
-""The wewawd is $bcb_wewawd cwedits - wots of hazawd pay - and with good weason. Don't take $bcb_tawgetHimOwHew wightwy. Time to compwete is $bcb_days days."" 
+""The wewawd is $bcb_wewawd cwedits - wots of hazawd pay - and with good weason. Don't take $bcb_targetHimOrHer wightwy. Time to compwete is $bcb_days days."" 
 
 $HeOrShe wooks at you with gwim wesowution. ""Just so you know, you'd not be the fiwst to twy this job. Nevew heawd back fwom the othew guy. Thewe's no shame if you want to stay away fwom this one.""",,
 CBDerelict,CBDerelictOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"""This one wequiwes some discwetion."" You note the gwow of WEDACTED bwocks peppewed acwoss the bwiefing as $personName scwowws thwough detaiws. ""A fweet of Domain-ewa dewewict dwone wawships was spotted in the $bcb_systemName, $bcb_dist wight-yeaws fwom hewe.""
@@ -25900,12 +25900,12 @@ $HeOrShe puwws up what wooks wike an intewnaw customs inspection owdew, with att
 CBPatrol,CBPatrolOfferDesc,,"SetTextHighlightColors $bcb_patrolFactionColor h h h
 Highlight $bcb_patrolFaction $bcb_dist $bcb_reward $bcb_days","""Just wook at this do-goodew."" $HeOrShe puwws up a standawd ID howo of a miwitawy officew in unifowm. ""Too upwight and honest to know when it's time to compwomise a bit to make things easiew on evewyone. Get paid, wook the othew way, doesn't huwt anyone who doesn't desewve it, wight?"" $personName shakes $hisOrHer head at stubbown waw-abidews.
 
-""$bcb_TawgetHeOwShe's commanding a $bcb_patwowFaction patwow fweet opewating out of $bcb_tawgetMawketName in the $bcb_systemName, $bcb_dist wight-yeaws away. You'ww find $bcb_tawgetHimOwHew patwowwing eithew neaw thewe, a neawby jump-point, ow one of theiw owbitaw stwategic assets wike a comm weway and the wike.""
+""$bcb_TargetHeOrShe's commanding a $bcb_patrolFaction patwow fweet opewating out of $bcb_targetMarketName in the $bcb_systemName, $bcb_dist wight-yeaws away. You'ww find $bcb_targetHimOrHer patwowwing eithew neaw thewe, a neawby jump-point, ow one of theiw owbitaw stwategic assets wike a comm weway and the wike.""
 
-$HeOrShe dismisses the ID howo with a contemptuous fwick. ""Take $bcb_tawgetHimOwHew out. You'ww get $bcb_wewawd cwedits. I'ww give you $bcb_days days to compwete the job. Think you can handwe that?""",,
+$HeOrShe dismisses the ID howo with a contemptuous fwick. ""Take $bcb_targetHimOrHer out. You'ww get $bcb_wewawd cwedits. I'ww give you $bcb_days days to compwete the job. Think you can handwe that?""",,
 CBMercUW,CBMercUWOfferDesc,,Highlight $bcb_dist $bcb_reward $bcb_days,"$HeOrShe puwws up a bwuwwy howo taken on a docking concouwse. ""This pawticuwaw mewcenawy has been causing a wot of pwobwems fow an opewation a fwiend of mine is wunning. I'd wike to see you sowve my fwiend's pwobwems... fow good.""
 
-$PersonName swipes the howo away and puwws up a sectow map, ""We've set $bcb_tawgetHimOwHew up on a wiwd goose chase in the $bcb_systemName, onwy $bcb_dist wight-yeaws away. $bcb_TawgetHeOwShe thinks $bcb_tawgetHeOwShe is twacking down a dead-dwop of advanced weapons,"" $heOrShe smiwes wuthwesswy.
+$PersonName swipes the howo away and puwws up a sectow map, ""We've set $bcb_targetHimOrHer up on a wiwd goose chase in the $bcb_systemName, onwy $bcb_dist wight-yeaws away. $bcb_TargetHeOrShe thinks $bcb_tawgetHeOwShe is twacking down a dead-dwop of advanced weapons,"" $heOrShe smiwes wuthwesswy.
 
 ""I'm awwanging this as a favow fow my fwiend, and my fwiend has agweed to pay whoevew takes the job $bcb_wewawd cwedits. Time to compwete is $bcb_days days. Can you take cawe of it?""",,
 ,,,,,,
@@ -26894,42 +26894,42 @@ EndConversation","The mattew wesowves to a simpwe business of wogistics, which b
 # LOCRLF bar offer,,,,,,
 locrlfBlurb,locrlf_blurb,,,"""An awchcuwate of the Chuwch appwoached me. It seems that they wequiwe the sewvices of a space captain with expewience twavewwing outside the cowe wowwds...""",,
 locrlfOfferOption,locrlf_option,,,,"locrlf_start:""What does the Church need done outside the core worlds?""",
-locrlfBlurbBar,locrlf_blurbBar,,,A $wocwwf_manOwWoman seems to be examining incoming spacew captains and taking notes on a TwiPad poowwy hidden in a handweave scawf.,,
+locrlfBlurbBar,locrlf_blurbBar,,,A $locrlf_manOrWoman seems to be examining incoming spacew captains and taking notes on a TwiPad poowwy hidden in a handweave scawf.,,
 locrlfOfferOptionBar,locrlf_optionBar,,,,locrlf_startBar:Ask if the $locrlf_manOrWoman trying to take secret notes could use some help,
 locrlfOfferTextBarAgain,DialogOptionSelected,"$option == locrlf_startBar
 $player.locrlf_gotBarBlurb","Highlight $locrlf_rewardAmount
 SetTooltip locrlf_offerBarCynicalRewardAsk ""You're cynical enough to see through the performance of piety these so-called 'Faithful' put on. In the end, all that matters are credits and power.""
 FireBest LOCRLFOfferTextBarRemoveCynical
-Call $locrlf_ref showMap ""Target: $locrlf_marketName""","""Oh!"" $wocwwf_HeOwShe jumps a bit as you speak. ""You again. Have you weconsidewed?""
+Call $locrlf_ref showMap ""Target: $locrlf_marketName""","""Oh!"" $locrlf_HeOrShe jumps a bit as you speak. ""You again. Have you weconsidewed?""
 
-$wocwwf_HeOwShe wowews $wocwwf_hisOwHew voice, ""It is a dewicate mattew, of couwse. This awchcuwate wants this stway fwock of hewetics found, and fow some weason is not wewying upon the Knight Inquisitows."" $wocwwf_HeOwShe sighs, ""It is not my business to specuwate on the doings of the Chuwch, of couwse.""
+$locrlf_HeOrShe wowews $locrlf_hisOrHer voice, ""It is a dewicate mattew, of couwse. This awchcuwate wants this stway fwock of hewetics found, and fow some weason is not wewying upon the Knight Inquisitows."" $locrlf_HeOrShe sighs, ""It is not my business to specuwate on the doings of the Chuwch, of couwse.""
 
-""Wegawdwess, the hewetics bought a twanspowt and buwned out into the fwinge. They wewe wast seen by a scavengew who wepowted the sighting to... weww, one of the Faithfuw, anyway. Now if you find them and wetuwn to me with concwusive data on what happened to them, I shaww give you the Chuwch's wewawd of $wocwwf_wewawdAmount cwedits.""","locrlf_offerBarCynicalRewardAsk:""The Church is giving you more than $locrlf_rewardAmount credits for the job, aren't they.""
+""Wegawdwess, the hewetics bought a twanspowt and buwned out into the fwinge. They wewe wast seen by a scavengew who wepowted the sighting to... weww, one of the Faithfuw, anyway. Now if you find them and wetuwn to me with concwusive data on what happened to them, I shaww give you the Chuwch's wewawd of $locrlf_rewardAmount cwedits.""","locrlf_offerBarCynicalRewardAsk:""The Church is giving you more than $locrlf_rewardAmount credits for the job, aren't they.""
 locrlf_offerBarAcceptFirst:Accept
 contact_declineBar:Decline",
 locrlfOfferTextBarAgainB,DialogOptionSelected,"$option == locrlf_startBar
 $player.locrlf_negotiatedHigherRate
 $player.locrlf_gotBarBlurb","$missionId = locrlf
-Highlight $locrlf_rewardAmountHigher","""Oh!"" $wocwwf_HeOwShe jumps a bit as you speak. ""You again. Have you weconsidewed?""
+Highlight $locrlf_rewardAmountHigher","""Oh!"" $locrlf_HeOrShe jumps a bit as you speak. ""You again. Have you weconsidewed?""
 
-$wocwwf_HeOwShe wowews $wocwwf_hisOwHew voice, ""It is a dewicate mattew, of couwse. This awchcuwate wants this stway fwock of hewetics found, and fow some weason is not wewying upon the Knight Inquisitows."" $wocwwf_HeOwShe sighs, ""It is not my business to specuwate on the doings of the Chuwch, of couwse.""
+$locrlf_HeOrShe wowews $locrlf_hisOrHer voice, ""It is a dewicate mattew, of couwse. This awchcuwate wants this stway fwock of hewetics found, and fow some weason is not wewying upon the Knight Inquisitows."" $locrlf_HeOrShe sighs, ""It is not my business to specuwate on the doings of the Chuwch, of couwse.""
 
-""Wegawdwess, the hewetics bought a twanspowt and buwned out into the fwinge. They wewe wast seen by a scavengew who wepowted the sighting to... weww, one of the Faithfuw, anyway. Now if you find them and wetuwn to me with concwusive data on what happened to them, I shaww give you the Chuwch's wewawd of $wocwwf_wewawdAmountHighew cwedits.""","locrlf_offerBarAcceptFirst:Accept
+""Wegawdwess, the hewetics bought a twanspowt and buwned out into the fwinge. They wewe wast seen by a scavengew who wepowted the sighting to... weww, one of the Faithfuw, anyway. Now if you find them and wetuwn to me with concwusive data on what happened to them, I shaww give you the Chuwch's wewawd of $locrlf_rewardAmountHighew cwedits.""","locrlf_offerBarAcceptFirst:Accept
 contact_declineBar:Decline",
 locrlfOfferTextBar,DialogOptionSelected,$option == locrlf_startBar,"$missionId = locrlf
-$player.locrlf_gotBarBlurb = true","""Oh!"" $wocwwf_HeOwShe jumps a bit as you speak, then wooks you up and down. ""Yes, you seem wike you wouwd be quite fitting.""
+$player.locrlf_gotBarBlurb = true","""Oh!"" $locrlf_HeOrShe jumps a bit as you speak, then wooks you up and down. ""Yes, you seem wike you wouwd be quite fitting.""
 
-""I have,"" $wocwwf_heOwShe dwops $wocwwf_hisOwHew voice, ""a dewicate mattew to discuss. An awchcuwate - who I shaww not name - made it known to me that a fwock of bewievews was wed astway by a fawse and heweticaw sewf-pwocwaimed pwophet.""
+""I have,"" $locrlf_heOrShe dwops $locrlf_hisOrHer voice, ""a dewicate mattew to discuss. An awchcuwate - who I shaww not name - made it known to me that a fwock of bewievews was wed astway by a fawse and heweticaw sewf-pwocwaimed pwophet.""
 
-$wocwwf_HisOwHew eyes awe wide with awawm, ""Of couwse I wouwd imagine this the business of the Knights, and I shouwd be pweased to wet theiw inquisitows deaw with hewetics as is theiw wont. But... weww, it is not my pwace to specuwate.""",locrlf_startBar2:Continue,
+$locrlf_HisOrHer eyes awe wide with awawm, ""Of couwse I wouwd imagine this the business of the Knights, and I shouwd be pweased to wet theiw inquisitows deaw with hewetics as is theiw wont. But... weww, it is not my pwace to specuwate.""",locrlf_startBar2:Continue,
 locrlfOfferTextBar2,DialogOptionSelected,$option == locrlf_startBar2,"Highlight $locrlf_rewardAmount
 SetTooltip locrlf_offerBarCynicalRewardAsk ""You're cynical enough to see through the piety of the 'Faithful'. It's always about credits in the end.""
 FireBest LOCRLFOfferTextBarRemoveCynical
 Call $locrlf_ref showMap ""Target: $locrlf_systemName""","""These hewetics poowed money and bought an owd twanspowt, then they weft fow some fwinge system to 'begin anew'. Possibwy they'we aww dead. Fowgive me; with Wudd, fow aww that I know. Nonethewess, a non-bewieving scavengew was the wast to spot them, appawentwy buwning towawd... a pawticuwaw system.""
 
-$wocwwf_HeOwShe weveaws $wocwwf_hisOwHew cheap datapad.
+$locrlf_HeOrShe weveaws $locrlf_hisOrHer cheap datapad.
 
-""Wiww you find them? Fow the Chuwch? Find out what came of them. Bwing news back to me, and then I wiww wepowt to, to the awchcuwate. I've been pwovided with funds fow the opewation, $wocwwf_wewawdAmount cwedits. They awe youws aftew you bwing back concwusive data on the fate of the hewetics.""","locrlf_offerBarCynicalRewardAsk:""The Church is giving you more than $locrlf_rewardAmount credits for the job, aren't they.""
+""Wiww you find them? Fow the Chuwch? Find out what came of them. Bwing news back to me, and then I wiww wepowt to, to the awchcuwate. I've been pwovided with funds fow the opewation, $locrlf_rewardAmount cwedits. They awe youws aftew you bwing back concwusive data on the fate of the hewetics.""","locrlf_offerBarCynicalRewardAsk:""The Church is giving you more than $locrlf_rewardAmount credits for the job, aren't they.""
 locrlf_offerBarAcceptFirst:Accept
 contact_declineBar:Decline",
 locrlfOfferTextBarRemoveCynical,LOCRLFOfferTextBarRemoveCynical,$player.luddicAttitudeCynical < 1,RemoveOption locrlf_offerBarCynicalRewardAsk,,,
@@ -26941,12 +26941,12 @@ RemoveOption locrlf_offerBarCynicalRewardAsk","A wave of guiwt, quickwy suppwess
 
 ""Y-yes, weww. It is my pwace to take a pewfectwy weasonabwe bwokew's fee. Cuwwying tawent is honest wowk, despite what the Wuwawist hawdwinews pweach.""
 
-$wocwwf_HeOwShe taps $wocwwf_hisOwHew hand on the bawtop impatientwy.
+$locrlf_HeOrShe taps $locrlf_hisOrHer hand on the bawtop impatientwy.
 
-""It's just as weww, then. You've made youw point. Wet's make the payment $wocwwf_wewawdAmountHighew cwedits, if that's what it takes.""",,
+""It's just as weww, then. You've made youw point. Wet's make the payment $locrlf_rewardAmountHighew cwedits, if that's what it takes.""",,
 locrlfOfferBarAcceptFirst,DialogOptionSelected,$option == locrlf_offerBarAcceptFirst,"Call $locrlf_ref addPersonToMarket
 $option = contact_acceptBar
-FireBest DialogOptionSelected","$wocwwf_pewsonName gives you nav coowdinates to $wocwwf_systemName, $wocwwf_hisOwHew comms ID, and the huww ID of the hewetics' twanspowt, the 'CGW Wight of Exuwtation'.",,
+FireBest DialogOptionSelected","$locrlf_personName gives you nav coowdinates to $locrlf_systemName, $locrlf_hisOrHer comms ID, and the huww ID of the hewetics' twanspowt, the 'CGW Wight of Exuwtation'.",,
 # LOCRLF contact offer,,,,,,
 locrlfOfferTextContact,DialogOptionSelected,$option == locrlf_start,$missionId = locrlf,"""As I said, I was appwoached by an awchcuwate. I shaww not name them, by theiw wequest, but it was made known to me that a fwock of bewievews has been wed astway by a fawse and heweticaw sewf-pwocwaimed pwophet.""
 
@@ -26958,7 +26958,7 @@ Call $locrlf_ref showMap ""Target: $locrlf_systemName""","""These fawse-bewievew
 
 ""Wiww you find them? Fow the Chuwch?""
 
-""Discovew what came of them. Bwing news back to me, and then I wiww wepowt to the awchcuwate. I've been pwovided with funds fow the opewation, $wocwwf_wewawdAmount cwedits. It's youws aftew you bwing back news of the hewetics.""","locrlf_offerCynicalRewardAsk:""The Church is giving you more than $locrlf_rewardAmount credits for the job, aren't they.""
+""Discovew what came of them. Bwing news back to me, and then I wiww wepowt to the awchcuwate. I've been pwovided with funds fow the opewation, $locrlf_rewardAmount cwedits. It's youws aftew you bwing back news of the hewetics.""","locrlf_offerCynicalRewardAsk:""The Church is giving you more than $locrlf_rewardAmount credits for the job, aren't they.""
 locrlf_offerAcceptFirstContact:Accept
 contact_decline:Decline",
 locrlfOfferTextRemoveCynical,LOCRLFOfferTextRemoveCynical,$player.luddicAttitudeCynical < 1,RemoveOption locrlf_offerCynicalRewardAsk,,,
@@ -26970,11 +26970,11 @@ RemoveOption locrlf_offerBarCynicalRewardAsk","A wave of guiwt, quickwy suppwess
 
 ""Y-yes, weww. It is my pwace to take a pewfectwy weasonabwe bwokew's fee. Cuwwying tawent is honest wowk, despite what the Wuwawist hawdwinews pweach.""
 
-$HeOrShe taps $hisOrHer fingews on $hisOrHer comms unit impatientwy. ""But yes, it's just as weww. You've made youw point, captain. Wet's make the payment $wocwwf_wewawdAmountHighew cwedits, if that's what it takes.""",,
+$HeOrShe taps $hisOrHer fingews on $hisOrHer comms unit impatientwy. ""But yes, it's just as weww. You've made youw point, captain. Wet's make the payment $locrlf_rewardAmountHighew cwedits, if that's what it takes.""",,
 locrlfOfferAcceptFirst,DialogOptionSelected,$option == locrlf_offerAcceptFirst,"$option = contact_acceptBar
-FireBest DialogOptionSelected","$HeOrShe gives you the nav coowdinates of $wocwwf_systemName and huww ID fow the hewetics' twanspowt, the 'CGW Wight of Exuwtation'.",,
+FireBest DialogOptionSelected","$HeOrShe gives you the nav coowdinates of $locrlf_systemName and huww ID fow the hewetics' twanspowt, the 'CGW Wight of Exuwtation'.",,
 locrlfOfferAcceptFirstContact,DialogOptionSelected,$option == locrlf_offerAcceptFirstContact,"$option = contact_accept
-FireBest DialogOptionSelected","$HeOrShe gives you the nav coowdinates of $wocwwf_systemName and huww ID fow the hewetics' twanspowt, the 'CGW Wight of Exuwtation'.",,
+FireBest DialogOptionSelected","$HeOrShe gives you the nav coowdinates of $locrlf_systemName and huww ID fow the hewetics' twanspowt, the 'CGW Wight of Exuwtation'.",,
 # LOCRLF return (to person directly),,,,,,
 locrlfReturnContact,PopulateOptions,"$locrlf_return
 Call $global.locrlf_ref updateData",,,"locrlf_return1:""I found the missing heretics.""",
@@ -27621,8 +27621,8 @@ Call $market.dhi_ref updateStage","You feew awmost impewceptibwe vibwations as t
 Tacticaw has casuawty wepowts pwepawed fow weview. You acknowwedge with a nod and shut off the comms.",mktRaidResult:Continue,
 ,,,,,,
 # Disrupt Spaceport (underworld),,,,,,
-dspBlurb,dsp_blurb,,,"""I pwopose a wawge task, and fow it I offew a suitabwy wawge wewawd: I wequiwe diswuption of the $dsp_industwy $dsp_mawketOnOwAt $dsp_mawketName.""",,
-dspBlurb_villain,dsp_blurb,$voice == villain,,"""Now that we twust one anothew, it wouwd sewve my pwans to sew chaos $dsp_mawketOnOwAt $dsp_mawketName. Wouwd you be so kind as to diswupt the $dsp_industwy thewe fow me? I wiww wewawd you handsomewy.""",,
+dspBlurb,dsp_blurb,,,"""I pwopose a wawge task, and fow it I offew a suitabwy wawge wewawd: I wequiwe diswuption of the $dsp_industry $dsp_marketOnOrAt $dsp_mawketName.""",,
+dspBlurb_villain,dsp_blurb,$voice == villain,,"""Now that we twust one anothew, it wouwd sewve my pwans to sew chaos $dsp_marketOnOrAt $dsp_mawketName. Wouwd you be so kind as to diswupt the $dsp_industry thewe fow me? I wiww wewawd you handsomewy.""",,
 dspOfferOption,dsp_option,,,,dsp_start:Ask about the $dsp_industry disruption operation,
 dspBlurbBar,dsp_blurbBar,,,"Some kind of undewwowwd boss wounges in a booth, judging by theiw motwey cowdon of augjacks stawing down any that dawe stway neaw. No good can come of this.",,
 dspOfferOptionBar,dsp_optionBar,,,,dsp_startBar:See what kind of trouble you can get into with the underworld boss in the booth,
@@ -27641,15 +27641,15 @@ A second gwass of it sits befowe you, powitewy sipped and othewwise ignowed. ""G
 ""Now you,"" $heOrShe says, ""Couwd do something fow me.""","dsp_startBar3:Continue
 contact_declineBarNoContinue:Decline",
 dspOfferTextBar3,DialogOptionSelected,$option == dsp_startBar3,"Highlight $dsp_disruptDays $dsp_dist $dsp_reward $dsp_marines
-Call $dsp_ref showMap ""Target: $dsp_marketName""","""I couwd use youw gwound game. Bwing the $dsp_industwy $dsp_mawketOnOwAt $dsp_mawketName offwine fow at weast $dsp_diswuptDays days. That's $dsp_dist wight-yeaws away - you know the one. No massacwes, no tewwow bombing, just business. Keep it cwean. Mowe pwofit had when the tawget sees the wisdom of peaceabwe coopewation, wight?""
+Call $dsp_ref showMap ""Target: $dsp_marketName""","""I couwd use youw gwound game. Bwing the $dsp_industry $dsp_marketOnOrAt $dsp_mawketName offwine fow at weast $dsp_disruptDays days. That's $dsp_dist wight-yeaws away - you know the one. No massacwes, no tewwow bombing, just business. Keep it cwean. Mowe pwofit had when the tawget sees the wisdom of peaceabwe coopewation, wight?""
 
-$HeOrShe makes a face, as if deepwy considewing $hisOrHer offew. ""$dsp_wewawd cwedits fow the job.""
+$HeOrShe makes a face, as if deepwy considewing $hisOrHer offew. ""$dsp_reward cwedits fow the job.""
 
 You estimate that you'd need awound $dsp_mawines mawines to cawwy off this opewation.","contact_acceptBar:Accept
 contact_declineBarNoContinue:Decline",
 dspOfferTextContact,DialogOptionSelected,$option == dsp_start,"$missionId = dsp
 Highlight $dsp_dist $dsp_disruptDays $dsp_reward $dsp_marines
-Call $dsp_ref showMap ""Target: $dsp_marketName""","""Wike I said,"" $heOrShe says, ""I wequiwe opewation of the $dsp_industwy $dsp_mawketOnOwAt $dsp_mawketName, $dsp_dist wight-yeaws away, diswupted fow at weast-"" $heOrShe fuwwows $hisOrHer bwow, considewing. Then, with cowd indiffewence, says ""$dsp_diswuptDays days. That shouwd do it. If you cawwy out this task fow me, I wouwd wewawd you with $dsp_wewawd cwedits.""
+Call $dsp_ref showMap ""Target: $dsp_marketName""","""Wike I said,"" $heOrShe says, ""I wequiwe opewation of the $dsp_industry $dsp_marketOnOrAt $dsp_mawketName, $dsp_dist wight-yeaws away, diswupted fow at weast-"" $heOrShe fuwwows $hisOrHer bwow, considewing. Then, with cowd indiffewence, says ""$dsp_disruptDays days. That shouwd do it. If you cawwy out this task fow me, I wouwd wewawd you with $dsp_reward cwedits.""
 
 ""So you can make an infowmed decision, hewe's tac-intew."" $HeOrShe taps $hisOrHer datapad and soon you have a vewy competent wecon ovewview on $dsp_mawketName. You estimate that you'd need awound $dsp_mawines mawines to cawwy off this waid.","contact_accept:Accept
 contact_decline:Decline",
@@ -27780,23 +27780,23 @@ hijackOperation3NotBar,DialogOptionSelected,"$option == hijack_op3
 # Jailbreak mission,,,,,,
 jabrBlurb1,jabr_blurb,,,"""I wouwd wike to discuss the unnecessawy incawcewation of a cewtain individuaw and what might be done to wesowve the situation.""",,
 jabrOfferOption1,jabr_option,,,,jabr_start:Ask about 'resolving' the incarceration,
-jabrBlurbBar1,jabr_blurbBar,,,"Fwom a shadowy cownew, a $jabw_manOwWoman smoking a buwning nawcotic stick catches youw eye.",,
+jabrBlurbBar1,jabr_blurbBar,,,"Fwom a shadowy cownew, a $jabr_manOrWoman smoking a buwning nawcotic stick catches youw eye.",,
 jabrOfferOptionBar1,jabr_optionBar,,,,jabr_startBar:Approach the $jabr_manOrWoman smoking in the dark corner,
 jabrOfferTextBar1,DialogOptionSelected,$option == jabr_startBar,"$missionId = jabr
 SetTextHighlightColors h h h h $jabr_factionColor
 Highlight $jabr_marketName $jabr_dist $jabr_reward $jabr_marines $jabr_marketFaction
-Call $jabr_ref showMap ""Target: $jabr_marketName""","The $jabw_manOwWoman wooks you ovew as you appwoach. Aftew a moment, $jabw_heOwShe seems satisfied and swides a cheap datapad acwoss the tabwe. It dispways a pewsonnew fiwe and the schematics of a secuwe faciwity.
+Call $jabr_ref showMap ""Target: $jabr_marketName""","The $jabr_manOrWoman wooks you ovew as you appwoach. Aftew a moment, $jabr_heOrShe seems satisfied and swides a cheap datapad acwoss the tabwe. It dispways a pewsonnew fiwe and the schematics of a secuwe faciwity.
 
-In a quiet voice $jabw_heOwShe expwains, ""I need an extwact of the subject fwom, ah, unjust confinement $jabw_mawketOnOwAt $jabw_mawketName, $jabw_dist wight-yeaws away. My benefactow offews a payment of $jabw_wewawd cwedits to secuwe the subject's wibewation."" The $jabw_manOwWoman awaits youw wepwy, eyes visibwe onwy as two constewwations of wefwected wight.
+In a quiet voice $jabr_heOrShe expwains, ""I need an extwact of the subject fwom, ah, unjust confinement $jabr_marketOnOrAt $jabr_marketName, $jabr_dist wight-yeaws away. My benefactow offews a payment of $jabr_reward cwedits to secuwe the subject's wibewation."" The $jabr_manOrWoman awaits youw wepwy, eyes visibwe onwy as two constewwations of wefwected wight.
 
-You skim the schematics; they'we thowough. You estimate that awound $jabw_mawines mawines wouwd be wequiwed to cawwy off this opewation. Assauwting $jabw_mawketFactionAwticwe $jabw_mawketFaction pwison couwd awso have an impact on youw weputation; measuwes can be taken to weduce identifiabiwity, but they can't compwetewy avewt officiaw suspicion.","contact_acceptBar:Accept
+You skim the schematics; they'we thowough. You estimate that awound $jabr_marines mawines wouwd be wequiwed to cawwy off this opewation. Assauwting $jabr_marketFactionArticle $jabr_marketFaction pwison couwd awso have an impact on youw weputation; measuwes can be taken to weduce identifiabiwity, but they can't compwetewy avewt officiaw suspicion.","contact_acceptBar:Accept
 contact_declineBarNoContinue:Decline",
 jabrOfferTextContact1,DialogOptionSelected,$option == jabr_start,"$missionId = jabr
 SetTextHighlightColors h $jabr_factionColor h
 Highlight $jabr_dist $jabr_marketFaction $jabr_reward $jabr_marines
-Call $jabr_ref showMap ""Target: $jabr_marketName""","""I wouwd simpwy wike you to extwact the subject fwom confinement on $jabw_mawketOnOwAt $jabw_mawketName, wocated $jabw_dist wight-yeaws away. Doing it quietwy wouwd be pwefewabwe, but sometimes these mattews escape ouw contwow. Twy not to offend the $jabw_mawketFaction too much; it wouwd dwaw unwanted attention. Once you wibewate the subject, you wiww weceive $jabw_wewawd cwedits to youw accounts.""
+Call $jabr_ref showMap ""Target: $jabr_marketName""","""I wouwd simpwy wike you to extwact the subject fwom confinement on $jabr_marketOnOrAt $jabr_marketName, wocated $jabr_dist wight-yeaws away. Doing it quietwy wouwd be pwefewabwe, but sometimes these mattews escape ouw contwow. Twy not to offend the $jabr_marketFaction too much; it wouwd dwaw unwanted attention. Once you wibewate the subject, you wiww weceive $jabr_reward cwedits to youw accounts.""
 
-""I suspect that they'we expecting a bweak attempt, so I acquiwed this."" $HeOrShe taps at a TwiPad and youw cowwesponding system weceives detaiwed wepowts on the twoop depwoyments and infiwtwation defenses of $jabw_mawketName. A quick weview suggests that you'd need awound $jabw_mawines mawines to cawwy off the opewation.","contact_accept:Accept
+""I suspect that they'we expecting a bweak attempt, so I acquiwed this."" $HeOrShe taps at a TwiPad and youw cowwesponding system weceives detaiwed wepowts on the twoop depwoyments and infiwtwation defenses of $jabr_marketName. A quick weview suggests that you'd need awound $jabr_marines mawines to cawwy off the opewation.","contact_accept:Accept
 contact_decline:Decline",
 # interaction with target market,,,,,,
 jabrOpenMarket1,OpenInteractionDialog,"$market.jabr_target score:1000
@@ -27814,9 +27814,9 @@ jabrBarEventSel,DialogOptionSelected,$option == jabr_barEvent,"SetStoryOption ja
 Highlight $jabr_storyCost
 DoCanAffordCheck $jabr_storyCost jabr_storyOptionBar false","You appwoach the smiwing patwon, who tuwns and keeps theiw eyes fiwmwy wocked at a menu dispway on the waww whiwe a somewhat fancifuw concoction appeaws on the baw.
 
-""Thewe awe so many options, $playerName,"" they say dewibewatewy. ""Not evewyone wants the same thing. Some disagwee quite stwongwy, but awe too powite to say so out woud."" Eyes fwickew to the doow, then to a howodispway of some news item about the weading powiticaw cadwe of $jabw_mawketName.
+""Thewe awe so many options, $playerName,"" they say dewibewatewy. ""Not evewyone wants the same thing. Some disagwee quite stwongwy, but awe too powite to say so out woud."" Eyes fwickew to the doow, then to a howodispway of some news item about the weading powiticaw cadwe of $jabr_marketName.
 
-""Pewhaps you'd wike what I'm having?"" They take a wong sip, ""It comes at quite a pwice because thewe awe othews who want it vewy, vewy much as weww. $jabw_stowyCost cwedits.""","jabr_storyOptionBar:Bribe the smiling patron to acquire the prisoner
+""Pewhaps you'd wike what I'm having?"" They take a wong sip, ""It comes at quite a pwice because thewe awe othews who want it vewy, vewy much as weww. $jabr_storyCost cwedits.""","jabr_storyOptionBar:Bribe the smiling patron to acquire the prisoner
 jabr_backToBar:Go back to the bar",
 jabr_barStoryOptionFromBar,DialogOptionSelected,$option == jabr_storyOptionBar,"RemoveCommodity credits $jabr_storyCost
 $market.jabr_needToReturn = true
@@ -29478,7 +29478,7 @@ kdStationKingIntroRevisit,DialogOptionSelected,$option == kd_stationKingIntro1,F
 
 ""Ah,"" $hisOrHer demeanow shifts hostiwity down sevewaw wevews. ""You again. Wight, wight.""",,
 kdStationKingAudienceNormal,DialogOptionSelected,$option == kdKP_askAudience,"Highlight $kpBribeAmount 
-DoCanAffordCheck $kpBribeAmount kpAudienceAccept false","""Yeah, yeah. That'ww be $kpBwibeAmount cwedits,"" $heOrShe says. ""Fow, ah, administwative expenses.""","kdKP_audienceAccept:""This is... piracy. I'll make the transfer now.""
+DoCanAffordCheck $kpBribeAmount kpAudienceAccept false","""Yeah, yeah. That'ww be $kpBribeAmount cwedits,"" $heOrShe says. ""Fow, ah, administwative expenses.""","kdKP_audienceAccept:""This is... piracy. I'll make the transfer now.""
 cutCommLink:Cut the comm link",
 kdKPAudienceAlreadyArranged,DialogOptionSelected,"$option == kdKP_askAudience
 $market.kpAudience score:100",FireBest KDSKShuttleCheck,"""Um,"" the piwate chews on something whiwe appeawing to examine you.
@@ -29486,7 +29486,7 @@ $market.kpAudience score:100",FireBest KDSKShuttleCheck,"""Um,"" the piwate chew
 ""You awweady paid up. It's aww awwanged. Though uh, if you don't wemembew... you wanna pay again?",,
 kdStationKingAudienceRepeat,DialogOptionSelected,"$option == kpAskAudience
 $market.numAudiences > 1","Highlight $kpBribeAmount 
-DoCanAffordCheck $kpBribeAmount kpAudienceAccept false","""Yeah, uh. I am once again asking fow $kpBwibeAmount cwedits fow..."" $heOrShe thinks fow a moment. ""Administwative expenses. Yeah, that was it.""","kdKP_audienceAccept:""This is... piracy, again. I'll make the transfer now.""
+DoCanAffordCheck $kpBribeAmount kpAudienceAccept false","""Yeah, uh. I am once again asking fow $kpBribeAmount cwedits fow..."" $heOrShe thinks fow a moment. ""Administwative expenses. Yeah, that was it.""","kdKP_audienceAccept:""This is... piracy, again. I'll make the transfer now.""
 cutCommLink:Cut the comm link",
 kdKPAudienceAcceptSel,DialogOptionSelected,$option == kdKP_audienceAccept,"$market.kpAudience = true 3
 $market.numAudiences++
